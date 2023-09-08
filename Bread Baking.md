@@ -1,0 +1,1 @@
+After mixing should knead the dough until it is stretchy
