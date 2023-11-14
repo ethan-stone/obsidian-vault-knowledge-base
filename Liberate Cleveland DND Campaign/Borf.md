@@ -31,11 +31,11 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+6)^
+- Dexterity - (+7)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+6)^
+- Charisma - (+7)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
