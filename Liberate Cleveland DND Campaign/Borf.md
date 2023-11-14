@@ -49,7 +49,8 @@
 	- Attack Bonus - (+5)
 	- Damage - 1d6 + 5
 - Dagger
-	- 
+	- Attack Bonus - (+5)
+	- Damage - 1d4 + 5
 # Spells
 ## Cantrips
 - Known - 2
