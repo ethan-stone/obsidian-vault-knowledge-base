@@ -13,7 +13,7 @@
 - Proficient with light and medium armor
 - Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
 - Proficient with trumpet, bag pipes, and percussion instruments
-- 
+- Song of Rest - Allies get 1d6 HP during short rest
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
@@ -53,6 +53,11 @@
 - Sleight of Hand - (+4)
 - Stealth - (+4)
 - Survival - (+2)
+# Equipment
+- Copper - 145
+- Silver - 73
+- Gold - 59
+- 
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
