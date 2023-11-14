@@ -12,5 +12,3 @@
 - Intelligence - 10 (+0)
 - Wisdom - 13 (+1)
 - Charsima - 18 (+4)
-# Skills
-- 
