@@ -9,7 +9,9 @@
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
 - Advantage with Brewers Supplies
-- Profiency with battleaxe, handaxe, 
+- Proficient with battleaxe, handaxe, light hammer, and warhammer
+- Proficient with light and medium armor
+- 
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
