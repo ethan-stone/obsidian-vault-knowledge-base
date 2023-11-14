@@ -57,7 +57,17 @@
 - Copper - 145
 - Silver - 73
 - Gold - 59
-- 
+- Leather Armor
+- Entertainers Pack
+- Backpack
+- Bedroll
+- 2 costumes
+- 5 candles
+- 5 days rations
+- Water skin
+- Disguise kit
+- Magic drumsticks
+- Books worth 
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
