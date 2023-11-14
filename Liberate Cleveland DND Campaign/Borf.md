@@ -122,8 +122,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
-- Known - 5
-- Spell Slots - 3
+- Spell Slots - 4
 ### Guiding Hand
 You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
@@ -172,6 +171,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 ## Level 2
+Spell Slots - 3
 ### Shatter
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -212,6 +212,7 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 
 ## Level 3
+Spell Slot - 2
 ### Glyph of Warding
 **Casting Time:** 1 hour  
 **Range:** Touch  
