@@ -5,7 +5,9 @@
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d6
-- Dark Vision-
+- Dark Vision - 60ft
+- Dwarven Resilience
+	- Advantage on saving
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
