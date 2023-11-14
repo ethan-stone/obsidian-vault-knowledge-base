@@ -6,7 +6,7 @@
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d6
 # Stats
-- Proficiency Bonus - +2
+- Proficiency Bonus - (+2
 - Strength - 15 (+2)
 - Dexterity - 17 (+3)
 - Constitution - 17 (+3)
@@ -33,4 +33,9 @@
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
-- Performance
+- Performance - (+6)
+- Persuasion - (+6)
+- Religion - (+1)
+- Sleight of Hand - (+4)
+- Stealth - (+4)
+- Survival - (+2)
