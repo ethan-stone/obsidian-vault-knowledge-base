@@ -30,7 +30,7 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+5)
+- Dexterity - (+5)*
 - Constitution - (+3)
 - Intelligence - (+0)
 - Wisdom - (+1)
