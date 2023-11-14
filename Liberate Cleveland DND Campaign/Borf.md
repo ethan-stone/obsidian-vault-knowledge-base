@@ -78,9 +78,9 @@
 	- Damage - 1d4 + 5 Piercing
 # Spells
 - Spell DC - 15
-- Spell Attack Mod - 6
+- Spell Attack Mod - 7
 ## Cantrips
-- Known - 2
+- Known - 3
 ### Vicious Mockery
 **Casting Time:** 1 action  
 **Range:** 60 feet  
