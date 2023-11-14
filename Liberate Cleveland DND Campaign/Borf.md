@@ -18,4 +18,6 @@
 - Constitution - (+3)
 - Intelligence - (+0)
 - Wisdom - (+1)
+- Charisma - (+6)
+# Skills
 - 
