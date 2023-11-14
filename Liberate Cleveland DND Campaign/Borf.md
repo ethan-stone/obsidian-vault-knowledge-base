@@ -5,7 +5,10 @@
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 # Stats
+- Profiency Bon
 - Strength - 15 + 2
 - Dexterity - 17 + 3
 - Constitution - 17 + 3
-- Intelligence - 1
+- Intelligence - 10 + 0
+- Wisdom - 13 + 1
+- Charsima - 18 + 4
