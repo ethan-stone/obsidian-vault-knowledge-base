@@ -31,7 +31,7 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+5)^
+- Dexterity - (+6)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
@@ -44,12 +44,12 @@
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+6)^
+- Intimidation - (+7)^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
-- Performance - (+8)^^
-- Persuasion - (+8)^^
+- Performance - (+10)^^
+- Persuasion - (+10)^^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
@@ -77,7 +77,7 @@
 	- Attack Bonus - (+5)
 	- Damage - 1d4 + 5 Piercing
 # Spells
-- Spell DC - 14
+- Spell DC - 15
 - Spell Attack Mod - 6
 ## Cantrips
 - Known - 2
