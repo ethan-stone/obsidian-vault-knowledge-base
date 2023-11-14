@@ -1,0 +1,3 @@
+- Pace - 12:30
+- Milage - 2
+Cleanly ran 1.25 miles at 10:00. The rest was a combination of walking and running.
