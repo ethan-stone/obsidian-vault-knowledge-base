@@ -21,7 +21,7 @@
 - Dexterity - 17 (+3)
 - Constitution - 18 (+4)
 - Intelligence - 10 (+0)
-- Wisdom - 13 (+1)
+- Wisdom - 14 (+2)
 - Charsima - 18 (+4)
 - Passive Wisdom - 11
 - Armor Class - 14
