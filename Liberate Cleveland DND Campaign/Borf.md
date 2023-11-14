@@ -27,7 +27,7 @@
 - Armor Class - 14
 - Initiative - (+3)
 - Speed - 25
-- HP - 27
+- HP - 36
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
