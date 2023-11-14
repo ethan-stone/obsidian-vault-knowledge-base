@@ -47,4 +47,6 @@
 # Spells
 ## Cantrips
 ### Vicious Mockery
-Enemy makes wisdom saving t
+Enemy makes wisdom saving throw. Take 1d4 damage if they fail
+### Mending
+Guiding Hand
