@@ -16,7 +16,7 @@
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Song of Rest - Allies get 1d6 HP during short rest
 # Stats
-- Proficiency Bonus - (+2)
+- Proficiency Bonus - (+3)
 - Strength - 15 (+2)
 - Dexterity - 17 (+3)
 - Constitution - 18 (+4)
