@@ -21,4 +21,10 @@
 - Wisdom - (+1)
 - Charisma - (+6)
 # Skills
-- Acrobatics
+- Acrobatics - (+4)
+- Animal Handling - (+2)
+- Arcana - (+3)
+- Athletics - (+3)
+- Deception - (+5)
+- History - (+1)
+- Insight - (+)
