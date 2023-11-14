@@ -18,7 +18,7 @@
 - Initiative - (+3)
 - Speed - 25
 - HP - 22
-- Hite
+- Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+5)
