@@ -7,7 +7,9 @@
 - Bardic Inspiration - 1d6
 - Dark Vision - 60ft
 - Dwarven Resilience
-	- Advantage on saving
+	- Advantage on saving throws for poison and resistance for poison damage
+- Advantage with Brewers Supplies
+- Profiency with battleaxe, handaxe, 
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
