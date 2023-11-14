@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "d4ed37300e8b8817",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "92c99a68a94328bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running Log/2023-10-21 2 Mile Run.md",
+                "file": "Running Log/2023-11-13 2.05 Mile Run.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running Log/2023-10-21 2 Mile Run.md",
+                "file": "Running Log/2023-11-13 2.05 Mile Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running Log/2023-10-21 2 Mile Run.md",
+                "file": "Running Log/2023-11-13 2.05 Mile Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running Log/2023-10-21 2 Mile Run.md"
+                "file": "Running Log/2023-11-13 2.05 Mile Run.md"
               }
             }
           },
@@ -179,13 +171,13 @@
   },
   "active": "92c99a68a94328bc",
   "lastOpenFiles": [
+    "Running Log/2023-10-16 Easy Run.md",
+    "Running Log/2023-10-17 2 Mile Run.md",
+    "Running Log/2023-10-19 2 Mile Run.md",
+    "Running Log/2023-10-21 2 Mile Run.md",
     "Running Log/2023-10-27 1.8 Mile Run.md",
     "Running Log/2023-11-11 1.25 Mile Run.md",
-    "Running Log/2023-11-13 2 Mile Run.md",
-    "Running Log/2023-10-21 2 Mile Run.md",
-    "Running Log/2023-10-19 2 Mile Run.md",
-    "Running Log/2023-10-17 2 Mile Run.md",
-    "Running Log/2023-10-16 Easy Run.md",
+    "Running Log/2023-11-13 2.05 Mile Run.md",
     "Running Log",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign",
