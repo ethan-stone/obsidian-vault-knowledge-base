@@ -197,6 +197,19 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 **_Reduce._** The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
 
+### Kinetic Jaunt
+**Casting Time:** 1 bonus action  
+**Range:** Self  
+**Components:** S  
+**Duration:** Concentration, up to 1 minute
+
+You magically empower your movement with dancelike steps, giving yourself the following benefits for the duration:
+
+- Your walking speed increases by 10 feet.
+
+- You don't provoke opportunity attacks.
+
+- You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 # Bard College of Glamour
 ## Mantle of Inspiration
 When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
