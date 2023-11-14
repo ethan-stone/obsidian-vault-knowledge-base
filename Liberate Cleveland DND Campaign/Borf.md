@@ -35,21 +35,21 @@
 - Constitution - (+3)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+6)*
+- Charisma - (+6)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
 - Arcana - (+3)
 - Athletics - (+3)
-- Deception - (+5)
+- Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+6)
+- Intimidation - (+6)^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
-- Performance - (+6)
-- Persuasion - (+6)
+- Performance - (+6)^
+- Persuasion - (+6)^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
