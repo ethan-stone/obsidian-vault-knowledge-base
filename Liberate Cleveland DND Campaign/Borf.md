@@ -48,8 +48,8 @@
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
-- Performance - (+6)^
-- Persuasion - (+6)^
+- Performance - (+8)^^
+- Persuasion - (+8)^^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
