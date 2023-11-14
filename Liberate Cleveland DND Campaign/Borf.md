@@ -31,7 +31,7 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+7)^
+- Dexterity - (+6)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
@@ -78,9 +78,9 @@
 	- Damage - 1d4 + 5 Piercing
 # Spells
 - Spell DC - 15
-- Spell Attack Mod - 6
+- Spell Attack Mod - 7
 ## Cantrips
-- Known - 2
+- Known - 3
 ### Vicious Mockery
 **Casting Time:** 1 action  
 **Range:** 60 feet  
