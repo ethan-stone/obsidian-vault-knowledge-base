@@ -44,6 +44,12 @@
 - Sleight of Hand - (+4)
 - Stealth - (+4)
 - Survival - (+2)
+# Weapons
+- Handaxe
+	- Attack Bonus - (+5)
+	- Damage - 1d6 + 5
+- Dagger
+	- 
 # Spells
 ## Cantrips
 - Known - 2
