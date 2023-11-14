@@ -1,3 +1,4 @@
+^ = proficient
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
@@ -30,11 +31,11 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+5)*
+- Dexterity - (+5)^
 - Constitution - (+3)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+6)
+- Charisma - (+6)*
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
