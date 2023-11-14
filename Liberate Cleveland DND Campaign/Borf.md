@@ -65,6 +65,8 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
 
+## Level 1
+- Spell Slots
 ### Guiding Hand
 You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
