@@ -11,6 +11,8 @@
 - Advantage with Brewers Supplies
 - Proficient with battleaxe, handaxe, light hammer, and warhammer
 - Proficient with light and medium armor
+- Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
+- Proficient with trumpet, bag pipes, and percussion instruments
 - 
 # Stats
 - Proficiency Bonus - (+2)
