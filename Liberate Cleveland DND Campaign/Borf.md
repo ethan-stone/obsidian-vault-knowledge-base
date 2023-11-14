@@ -47,10 +47,10 @@
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
-	- Damage - 1d6 + 5
+	- Damage - 1d6 + 5 Slashing
 - Dagger
 	- Attack Bonus - (+5)
-	- Damage - 1d4 + 5
+	- Damage - 1d4 + 5 Piercing
 # Spells
 ## Cantrips
 - Known - 2
