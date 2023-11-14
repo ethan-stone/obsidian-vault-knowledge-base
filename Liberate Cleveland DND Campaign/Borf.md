@@ -12,6 +12,7 @@
 - Intelligence - 10 (+0)
 - Wisdom - 13 (+1)
 - Charsima - 18 (+4)
+- Passive Wisdom - 11
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+5)
@@ -20,4 +21,4 @@
 - Wisdom - (+1)
 - Charisma - (+6)
 # Skills
-- 
+- Acrobatics
