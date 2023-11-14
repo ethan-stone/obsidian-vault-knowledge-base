@@ -139,12 +139,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49289d1649b963af",
+  "active": "6a65a34a905a2696",
   "lastOpenFiles": [
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign",
