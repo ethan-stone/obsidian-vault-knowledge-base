@@ -44,3 +44,7 @@
 - Sleight of Hand - (+4)
 - Stealth - (+4)
 - Survival - (+2)
+# Spells
+## Cantrips
+### Vicious Mockery
+Enemy makes wisdom saving t
