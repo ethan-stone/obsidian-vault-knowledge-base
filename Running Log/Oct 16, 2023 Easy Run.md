@@ -1,0 +1,3 @@
+- Pace - 9:50
+- Milage - 1.15
+Cleanly ran a mile 9:50 pace. For longer runs should go slower about 10:20 per mile.
