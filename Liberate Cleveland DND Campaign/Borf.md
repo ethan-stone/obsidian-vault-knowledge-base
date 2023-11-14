@@ -5,6 +5,7 @@
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d6
+- Dark Vision-
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
@@ -52,6 +53,8 @@
 	- Attack Bonus - (+5)
 	- Damage - 1d4 + 5 Piercing
 # Spells
+- Spell DC - 14
+- Spell Attack Mod - 6
 ## Cantrips
 - Known - 2
 ### Vicious Mockery
