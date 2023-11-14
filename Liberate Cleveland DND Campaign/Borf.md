@@ -6,14 +6,19 @@
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d6
 # Stats
-- Proficiency Bonus - (+2
+- Proficiency Bonus - (+2)
 - Strength - 15 (+2)
 - Dexterity - 17 (+3)
 - Constitution - 17 (+3)
 - Intelligence - 10 (+0)
 - Wisdom - 13 (+1)
 - Charsima - 18 (+4)
-- Passive Wisdom - +11
+- Passive Wisdom - 11
+- Armor Class - 14
+- Initiative - (+3)
+- Speed - 25
+- HP - 22
+- Hite
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+5)
