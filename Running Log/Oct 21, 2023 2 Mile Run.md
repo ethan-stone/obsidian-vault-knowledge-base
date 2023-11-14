@@ -1,0 +1,3 @@
+Pace - 11:00
+Milage - 2
+Cleanly ran 1.5 miles at 10:00. Walked 0.25 miles then ran the final 0.25.
