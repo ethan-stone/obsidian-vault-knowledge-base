@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running Log/Oct 17, 2023 2 Mile Run.md",
+                "file": "Running Log/2023-11-.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running Log/Oct 17, 2023 2 Mile Run.md",
+                "file": "Running Log/2023-11-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running Log/Oct 17, 2023 2 Mile Run.md",
+                "file": "Running Log/2023-11-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running Log/Oct 17, 2023 2 Mile Run.md"
+                "file": "Running Log/2023-11-.md"
               }
             }
           },
@@ -177,14 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "92c99a68a94328bc",
   "lastOpenFiles": [
+    "Running Log/2023-10-27 1.8 Mile Run.md",
+    "Running Log/2023-10-21 2 Mile Run.md",
+    "Running Log/2023-10-19 2 Mile Run.md",
+    "Running Log/2023-10-17 2 Mile Run.md",
     "Running Log/2023-10-16 Easy Run.md",
-    "Running Log/Nov efji.md",
-    "Running Log/Oct 27, 2023 1.8 Mile Run.md",
-    "Running Log/Oct 21, 2023 2 Mile Run.md",
-    "Running Log/Oct 19, 2023 2 Mile Run.md",
-    "Running Log/Oct 17, 2023 2 Mile Run.md",
+    "Running Log/2023-11-.md",
     "Running Log",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign",
