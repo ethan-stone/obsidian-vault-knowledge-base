@@ -12,3 +12,10 @@
 - Intelligence - 10 (+0)
 - Wisdom - 13 (+1)
 - Charsima - 18 (+4)
+# Saving Throws
+- Strength - (+2)
+- Dexterity - (+5)
+- Constitution - (+3)
+- Intelligence - (+0)
+- Wisdom - (+1)
+- 
