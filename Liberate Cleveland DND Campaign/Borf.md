@@ -203,7 +203,7 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 
 ## Level 3
-Spell Slot - 2
+Spell Slots - 2
 ### Slow
 **Casting Time:** 1 action  
 **Range:** 120 feet  
