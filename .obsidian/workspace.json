@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7aab6cde86c2b4c2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md"
+                "file": "Liberate Cleveland DND Campaign/Story so far.md"
               }
             }
           },
@@ -159,6 +158,8 @@
   },
   "active": "49289d1649b963af",
   "lastOpenFiles": [
+    "Liberate Cleveland DND Campaign/Borf.md",
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running Log/2023-11-13 2.05 Mile Run.md",
     "Running Log/2023-10-16 Easy Run.md",
     "Running Log/2023-10-17 2 Mile Run.md",
@@ -167,7 +168,6 @@
     "Running Log/2023-10-27 1.8 Mile Run.md",
     "Running Log/2023-11-11 1.25 Mile Run.md",
     "Running Log",
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign",
     "Bread Baking.md",
     "Test Note.md"
