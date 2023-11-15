@@ -1,1 +1,1 @@
-They are looking for Bog 
+They are looking for Bog who is the tally master of the rogue lords (group of goblins). Head mage of big hat farms thought there was a connection between 
