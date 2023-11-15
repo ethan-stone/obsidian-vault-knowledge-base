@@ -141,15 +141,6 @@ This spell creates an invisible, mindless, shapeless, Medium force that performs
 Once on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
-### Bane
-**Casting Time:** 1 action  
-**Range:** 30 feet  
-**Components:** V, S, M (a drop of blood)  
-**Duration:** Concentration, up to 1 minute
-
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
-
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 
 ### Earth Tremor
 **Casting Time:** 1 action  
 **Range:** Self (10-foot radius)  
