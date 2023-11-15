@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "49289d1649b963af",
   "lastOpenFiles": [
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
     "Running Log/2023-11-13 2.05 Mile Run.md",
     "Running Log/2023-10-16 Easy Run.md",
     "Running Log/2023-10-17 2 Mile Run.md",
