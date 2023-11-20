@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running Log/Untitled.md",
+                "file": "Running Log/2023-11-13 2.05 Mile Run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87fedc9800feee44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running Log/2023-11-15 1.7 Mile Run.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running Log/Untitled.md",
+                "file": "Running Log/2023-11-15 1.7 Mile Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running Log/Untitled.md",
+                "file": "Running Log/2023-11-15 1.7 Mile Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running Log/Untitled.md"
+                "file": "Running Log/2023-11-15 1.7 Mile Run.md"
               }
             }
           },
@@ -156,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27f00fe75b5bb540",
+  "active": "87fedc9800feee44",
   "lastOpenFiles": [
     "Running Log/2023-11-13 2.05 Mile Run.md",
-    "Running Log/Untitled.md",
+    "Running Log/2023-11-15 1.7 Mile Run.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Running Log/2023-10-16 Easy Run.md",
