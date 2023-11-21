@@ -1,5 +1,5 @@
-- [ ] 5K
-- [ ] 8K
-- [ ] 10K
+- [ ] 5K, 3.1 miles
+- [ ] 8K, 5 miles
+- [ ] 10K, 6.2
 - [ ] Half Marathon
 - [ ] Marathon
