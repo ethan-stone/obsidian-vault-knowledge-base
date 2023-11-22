@@ -59,7 +59,7 @@
 - Copper - 145
 	- Silver - 57
 - Gold - 59
-- Pla
+- Platinum - 3
 - Leather Armor
 - Entertainers Pack
 - Backpack
