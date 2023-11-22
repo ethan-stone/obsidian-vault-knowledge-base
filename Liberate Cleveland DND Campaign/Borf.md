@@ -15,6 +15,7 @@
 - Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Song of Rest - Allies get 1d6 HP during short rest
+- Stone cunning - +2 on history checks related to stone
 # Stats
 - Proficiency Bonus - (+3)
 - Strength - 15 (+2)
