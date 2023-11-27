@@ -1,2 +1,3 @@
 - 1 minute stretch for each achilles
-- 
+- 30 second stretch for each hip flexor
+- 3 
