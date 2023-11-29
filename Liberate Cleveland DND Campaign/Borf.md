@@ -49,6 +49,7 @@
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
+- Perception (+2)
 - Performance - (+10)^^
 - Persuasion - (+10)^^
 - Religion - (+1)
