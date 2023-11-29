@@ -126,6 +126,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
 - Spell Slots - 4
+- Spell Slots Used - 0
 ### Guiding Hand
 You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
@@ -166,7 +167,7 @@ Starting with the creature that has the lowest current hit points, each creature
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 ## Level 2
 Spell Slots - 3
-Spell Slots Used - 2
+Spell Slots Used - 1
 ### Shatter
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -208,6 +209,7 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 
 ## Level 3
 Spell Slots - 2
+Spell Slots Used - 0
 ### Slow
 **Casting Time:** 1 action  
 **Range:** 120 feet  
