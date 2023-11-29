@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79f043e9ee34e7e7",
+        "id": "62182b3ac1b67ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "c4012d544bd2a165",
+            "id": "dd9eb0948f26e239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Current Plan.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4012d544bd2a165",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
+    "Running/Current Plan.md",
     "Running/Running Log/2023-11-26 3 Mile Run.md",
     "Running/Running Log/2023-11-23 1.5 Mile Run.md",
     "Running/Running Log/2023-11-20 2 Mile Run.md",
@@ -172,7 +173,6 @@
     "Running/Post Run Recovery.md",
     "Running/Pre Run Warmup.md",
     "Running/Progress.md",
-    "Running/Current Plan.md",
     "Bread Baking.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Borf.md",
