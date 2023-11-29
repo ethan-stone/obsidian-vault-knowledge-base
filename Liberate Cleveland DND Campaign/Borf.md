@@ -17,6 +17,7 @@
 - Song of Rest - Allies get 1d6 HP during short rest
 - Stone cunning - +2 on history checks related to stone
 - 1 free nat 20 to use whenever
+- Now have a GTD
 # Stats
 - Proficiency Bonus - (+3)
 - Strength - 15 (+2)
