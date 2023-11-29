@@ -127,7 +127,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
 - Spell Slots - 4
-- Spell Slots Used - 0
+- Spell Slots Used - 1
 ### Guiding Hand
 You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
 
