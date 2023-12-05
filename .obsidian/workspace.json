@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Bread Baking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Bread Baking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Bread Baking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Progress.md"
+                "file": "Bread Baking.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "dd9eb0948f26e239",
   "lastOpenFiles": [
-    "Running/Pre Run Warmup.md",
     "Running/Progress.md",
+    "Bread Baking.md",
+    "Running/Pre Run Warmup.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Post Run Recovery.md",
     "Running/Running Log/2023-12-04 2 Mile Run.md",
     "Running/Current Plan.md",
@@ -170,15 +173,12 @@
     "Running/Running Log/2023-11-20 2 Mile Run.md",
     "Running/Running Log/2023-11-23 1.5 Mile Run.md",
     "Running/Running Log/Untitled",
-    "Liberate Cleveland DND Campaign/Borf.md",
-    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Running Log/2023-11-11 1.25 Mile Run.md",
     "Running/Running Log/2023-10-27 1.8 Mile Run.md",
     "Running/Running Log/2023-10-21 2 Mile Run.md",
     "Running/Running Log/2023-10-19 2 Mile Run.md",
     "Running/Running Log/2023-10-17 2 Mile Run.md",
     "Running/Running Log/2023-10-16 Easy Run.md",
-    "Bread Baking.md",
     "Running/Running Log",
     "Running Log/Untitled",
     "Running",
