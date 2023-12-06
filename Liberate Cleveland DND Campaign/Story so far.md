@@ -5,3 +5,5 @@ Pinehaven town with Elk
 Svexlana Goldenstein
 
 Baron Draxon Greenscales
+
+Golden barly inn is where we can find the baron
