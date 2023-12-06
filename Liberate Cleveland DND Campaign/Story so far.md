@@ -2,8 +2,8 @@ They are looking for Bog who is the tally master of the road lords (group of gob
 
 Pinehaven town with Elk
 
-Svexlana Goldenstein
+Svexlana Goldenstein queen of the land. Father killed by goblin five years ago.
 
-Baron Draxon Greenscales
+Baron Draxon Greenscales baron to the north. He is the green dragonborne working with the goblins.
 
 Golden barley inn is where we can find the baron
