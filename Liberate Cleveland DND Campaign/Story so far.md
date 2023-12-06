@@ -3,3 +3,5 @@ They are looking for Bog who is the tally master of the road lords (group of gob
 Pinehaven town with Elk
 
 Svexlana Goldenstein
+
+Baron Draxon Greenscales
