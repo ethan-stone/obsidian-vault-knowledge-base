@@ -6,4 +6,4 @@ Svexlana Goldenstein
 
 Baron Draxon Greenscales
 
-Golden barly inn is where we can find the baron
+Golden barley inn is where we can find the baron
