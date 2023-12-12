@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f210f86bd07b82",
+        "id": "74b240388628ff94",
         "type": "tabs",
         "children": [
           {
-            "id": "e2771eb02c60c78c",
+            "id": "30d5229dc6af1688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Running/Current Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6be660373b902367",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "623ce546458a68b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Running/Running Log/2023-12-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Running Log/2023-12-12.md",
+                "file": "Running/Current Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Running Log/2023-12-12.md",
+                "file": "Running/Current Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Running Log/2023-12-12.md"
+                "file": "Running/Current Plan.md"
               }
             }
           },
@@ -175,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "623ce546458a68b2",
+  "active": "30d5229dc6af1688",
   "lastOpenFiles": [
     "Running/Current Plan.md",
     "Running/Running Log/2023-12-12.md",
