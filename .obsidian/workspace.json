@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aad88eb5a36b1906",
+        "id": "a5f210f86bd07b82",
         "type": "tabs",
         "children": [
           {
-            "id": "d4b135a74fe15b65",
+            "id": "e2771eb02c60c78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Running Log/2023-12-11 1 Mile Run.md",
+                "file": "Running/Current Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Running Log/2023-12-11 1 Mile Run.md",
+                "file": "Running/Current Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Running Log/2023-12-11 1 Mile Run.md",
+                "file": "Running/Current Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Running Log/2023-12-11 1 Mile Run.md"
+                "file": "Running/Current Plan.md"
               }
             }
           },
@@ -156,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b135a74fe15b65",
+  "active": "e2771eb02c60c78c",
   "lastOpenFiles": [
-    "Running/Running Log/2023-11-20 2 Mile Run.md",
+    "Pasted image 20231212134157.png",
+    "Running/Running Log/Untitled.md",
     "Running/Running Log/2023-12-11 1 Mile Run.md",
+    "Running/Running Log/2023-11-20 2 Mile Run.md",
     "Running/Running Log/2023-12-08 2.5 Mile Run.md",
     "Running/Running Log/2023-12-04 2 Mile Run.md",
     "Running/Running Log/2023-12-05 2.5 Mile Run.md",
