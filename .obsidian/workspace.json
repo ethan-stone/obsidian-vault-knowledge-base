@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Current Plan.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "30d5229dc6af1688",
   "lastOpenFiles": [
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Current Plan.md",
     "Running/Running Log/2023-12-12.md",
     "Pasted image 20231212134157.png",
@@ -182,7 +183,6 @@
     "Running/Progress.md",
     "Running/Post Run Recovery.md",
     "Running/Pre Run Warmup.md",
-    "Liberate Cleveland DND Campaign/Story so far.md",
     "Bread Baking.md",
     "Running/Running Log/Untitled",
     "Running/Running Log",
