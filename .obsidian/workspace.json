@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "74b240388628ff94",
+        "id": "48ca966417974bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "30d5229dc6af1688",
+            "id": "b3b1f83fd98b1a9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Running/Running Log/2023-12-19.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Running Log/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Running Log/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Running/Running Log/2023-12-19.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,14 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30d5229dc6af1688",
+  "active": "b3b1f83fd98b1a9f",
   "lastOpenFiles": [
+    "Running/Running Log/2023-12-19.md",
     "Running/Running Log/2023-12-18.md",
     "Running/Running Log/2023-12-12.md",
     "Running/Running Log/2023-12-11 1 Mile Run.md",
     "Running/Running Log/2023-12-08 2.5 Mile Run.md",
     "Running/Current Plan.md",
-    "Running/Running Log/2023-12-19.md",
     "Running/Post Run Recovery.md",
     "Running/Pre Run Warmup.md",
     "Running/Progress.md",
