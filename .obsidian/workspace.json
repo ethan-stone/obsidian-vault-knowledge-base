@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Running/Running Log/2023-12-08 2.5 Mile Run.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Running/Running Log/2023-12-08 2.5 Mile Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Current Plan.md",
+                "file": "Running/Running Log/2023-12-08 2.5 Mile Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Current Plan.md"
+                "file": "Running/Running Log/2023-12-08 2.5 Mile Run.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "b3b1f83fd98b1a9f",
   "lastOpenFiles": [
+    "Running/Current Plan.md",
     "Running/Running Log/2023-12-19.md",
     "Running/Running Log/2023-12-18.md",
     "Running/Running Log/2023-12-12.md",
     "Running/Running Log/2023-12-11 1 Mile Run.md",
     "Running/Running Log/2023-12-08 2.5 Mile Run.md",
-    "Running/Current Plan.md",
     "Running/Post Run Recovery.md",
     "Running/Pre Run Warmup.md",
     "Running/Progress.md",
