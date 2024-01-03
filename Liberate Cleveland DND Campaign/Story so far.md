@@ -12,5 +12,5 @@ Diamond fang filled King Ron Goldenstein
 
 Gary is tall human that manages the inn
 
-Draxon is actually in two tall terry's inn
+Draxon is actually in too tall terry's inn
 
