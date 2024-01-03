@@ -14,5 +14,5 @@ Gary is tall human that manages the inn
 
 Draxon is actually in too tall terry's inn
 
-Found magical ear ring that 
+Found Draxon's magical ear ring that is a communication device
 
