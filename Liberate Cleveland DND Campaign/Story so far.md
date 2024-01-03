@@ -10,5 +10,5 @@ Golden barley inn is where we can find the baron
 
 Diamond fang filled King Ron Goldenstein
 
-Gary is tall 
+Gary is tall human from 
 
