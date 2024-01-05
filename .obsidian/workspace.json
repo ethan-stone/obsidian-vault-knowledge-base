@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc361c14d6351c50",
+        "id": "aba4dd2c680092fb",
         "type": "tabs",
         "children": [
           {
-            "id": "75a7e8adaf1c6488",
+            "id": "2d97be1d6eb2a36b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Running Log/2023-12-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff07922ea4b1a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Running/Running Log/2023-12-28.md",
+                "file": "Running/Running Log/2024-01-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Running Log/2023-12-28.md",
+                "file": "Running/Running Log/2024-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Running Log/2023-12-28.md",
+                "file": "Running/Running Log/2024-01-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Running Log/2023-12-28.md"
+                "file": "Running/Running Log/2024-01-04.md"
               }
             }
           },
@@ -171,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ff07922ea4b1a6a",
+  "active": "2d97be1d6eb2a36b",
   "lastOpenFiles": [
-    "Running/Running Log/2023-12-30.md",
-    "Running/Running Log/2023-12-28.md",
-    "Running/Running Log/2024-01-04.md",
     "Running/Running Log/2023-12-19.md",
+    "Running/Running Log/2023-12-28.md",
+    "Running/Running Log/2023-12-30.md",
+    "Running/Running Log/2024-01-04.md",
     "Running/Running Log/2023-12-18.md",
     "Running/Current Plan.md",
     "Liberate Cleveland DND Campaign/Borf.md",
