@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "880cead18579742e",
+        "id": "f62a0121ee2f10b1",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d44403832fa960",
+            "id": "e0fc992d21261af6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4d44403832fa960",
+  "active": "e0fc992d21261af6",
   "lastOpenFiles": [
     "Running/Running Log/2024-01-05.md",
     "Running/Running Log/2024-01-04.md",
