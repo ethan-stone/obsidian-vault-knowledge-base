@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b47555fc4977395a",
+        "id": "60cc4646ce36ce5a",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5291cc20701fcb",
+            "id": "f83a9410a3825810",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
+              }
             }
           },
           {
@@ -150,19 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb5291cc20701fcb",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Running/Current Plan.md",
+    "Liberate Cleveland DND Campaign/Story so far.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
     "Running/Running Log/2024-01-05.md",
+    "Running/Current Plan.md",
     "Running/Running Log/2024-01-04.md",
     "Running/Running Log/2023-12-30.md",
-    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Pre Run Warmup.md",
     "Running/Post Run Recovery.md",
     "Running/Running Log/2023-12-19.md",
     "Running/Running Log/2023-12-28.md",
     "Running/Running Log/2023-12-18.md",
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Running/Running Log/2023-12-08 2.5 Mile Run.md",
     "Running/Running Log/2023-12-12.md",
     "Running/Running Log/2023-12-11 1 Mile Run.md",
