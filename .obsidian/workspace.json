@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+                "file": "DSA Notes/Rotating Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+                "file": "DSA Notes/Rotating Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+                "file": "DSA Notes/Rotating Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Notes/Boyer Moore Majority Vote Algorithm.md"
+                "file": "DSA Notes/Rotating Array.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "f83a9410a3825810",
   "lastOpenFiles": [
-    "Untitled.md",
     "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+    "DSA Notes/Rotating Array.md",
+    "Untitled.md",
     "DSA Notes/Untitled",
     "DSA Notes",
     "Liberate Cleveland DND Campaign/Borf.md",
@@ -188,7 +189,6 @@
     "Running/Running Log/2023-11-23 1.5 Mile Run.md",
     "Running/Running Log/2023-11-15 1.7 Mile Run.md",
     "Running/Running Log/2023-11-13 2.05 Mile Run.md",
-    "Running/Running Log/2023-11-11 1.25 Mile Run.md",
     "Running/Running Log/Untitled",
     "Running/Running Log",
     "Running Log/Untitled",
