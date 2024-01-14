@@ -58,4 +58,4 @@ right--
 # Notes
 - Rotating the an array by k, is the same as performing the following steps
 	- reversing the entire array
-	- 
+	- Finding the pivot which is k % array.length
