@@ -20,19 +20,19 @@
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
 - Dexterity - 17 (+3)
-- Constitution - 18 (+4)
+- Constitution - 17 (+3)
 - Intelligence - 10 (+0)
-- Wisdom - 14 (+2)
+- Wisdom - 13 (+1)
 - Charsima - 18 (+4)
 - Passive Wisdom - 11
 - Armor Class - 14
 - Initiative - (+3)
 - Speed - 25
-- HP - 39
+- HP - 22
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+6)^
+- Dexterity - (+3)
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
