@@ -173,7 +173,8 @@ Starting with the creature that has the lowest current hit points, each creature
 ## Level 2
 Spell Slots - 2
 Spell Slots Used - 0
-### 
+### Aid
+
 ### Kinetic Jaunt
 **Casting Time:** 1 bonus action  
 **Range:** Self  
