@@ -126,7 +126,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
 - Spell Slots - 4
-- Spell Slots Used - 1
+- Spell Slots Used - 0
 ### Guiding Hand
 **Casting Time:** 1 minute  
 **Range:** 5 feet  
@@ -171,8 +171,8 @@ Starting with the creature that has the lowest current hit points, each creature
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 ## Level 2
-Spell Slots - 3
-Spell Slots Used - 1
+Spell Slots - 2
+Spell Slots Used - 0
 ### Shatter
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -211,35 +211,4 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 - You don't provoke opportunity attacks.
 
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
-
-## Level 3
-Spell Slots - 2
-Spell Slots Used - 0
-### Slow
-**Casting Time:** 1 action  
-**Range:** 120 feet  
-**Components:** V, S, M (a drop of molasses)  
-**Duration:** Concentration, up to 1 minute
-
-You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
-
-An affected target’s speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can’t use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature’s abilities or magic items, it can’t make more than one melee or ranged attack during its turn.
-
-If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.
-
-A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.
 # Bard College of Glamour
-## Mantle of Inspiration
-When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
-
-As a bonus action, you can expend one use of your Bardic Inspiration to grant yourself a wondrous appearance. When you do so, choose a number of creatures you can see and who can see you within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one). Each of them gains 5 temporary hit points. When a creature gains these temporary hit points, it can immediately use its reaction to move up to its speed, without provoking opportunity attacks.
-
-The number of temporary hit points increases when you reach certain levels in this class, increasing to 8 at 5th level, 11 at 10th level, and 14 at 15th level.
-## Enthralling Performance
-Starting at 3rd level, you can charge your performance with seductive, fey magic.
-
-If you perform for at least 1 minute, you can attempt to inspire wonder in your audience by singing, reciting a poem, or dancing. At the end of the performance, choose a number of humanoids within 60 feet of you who watched and listened to all of it, up to a number equal to your Charisma modifier (minimum of one). Each target must succeed on a Wisdom saving throw against your spell save DC or be charmed by you. While charmed in this way, the target idolizes you, it speaks glowingly of you to anyone who speaks to it, and it hinders anyone who opposes you, avoiding violence unless it was already inclined to fight on your behalf. This effect ends on a target after 1 hour, if it takes any damage, if you attack it, or if it witnesses you attacking or damaging any of its allies.
-
-If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
-
-Once you use this feature, you can’t use it again until you finish a short or long rest.
