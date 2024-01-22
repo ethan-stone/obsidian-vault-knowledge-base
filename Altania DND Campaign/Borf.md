@@ -173,31 +173,7 @@ Starting with the creature that has the lowest current hit points, each creature
 ## Level 2
 Spell Slots - 2
 Spell Slots Used - 0
-### Shatter
-**Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** V, S, M (a chip of mica)  
-**Duration:** Instantaneous
-
-A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.
-
-A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
-
-**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
-### Enlarge/Reduce
-**Casting Time:** 1 action  
-**Range:** 30 feet  
-**Components:** V, S, M (a pinch of powdered iron)  
-**Duration:** Concentration, up to 1 minute
-
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
-
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
-
-**_Enlarge._** The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.
-
-**_Reduce._** The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
-
+### 
 ### Kinetic Jaunt
 **Casting Time:** 1 bonus action  
 **Range:** Self  
@@ -218,4 +194,13 @@ At 3rd level, you adopt a particular style of fighting as your specialty. Choose
 - **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 - **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
-## Blad 
+## Blade Flourish
+At 3rd level, you learn to conduct impressive displays of martial prowess and speed.
+
+Whenever you take the Attack action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+
+**_Defensive Flourish._** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.
+
+**_Slashing Flourish._** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.
+
+**_Mobile Flourish._** You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.
