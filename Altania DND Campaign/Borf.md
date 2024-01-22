@@ -50,16 +50,16 @@
 - Medicine - (+2)
 - Nature - (+1)
 - Perception (+2)
-- Performance - (+10)^^
-- Persuasion - (+10)^^
+- Performance - (+6)^
+- Persuasion - (+6)^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
 - Survival - (+2)
 # Equipment
-- Copper - 145
-- Silver - 57
-- Gold - 59
+- Copper - 167
+- Silver - 164
+- Gold - 176
 - Platinum - 0
 - Leather Armor
 - Entertainers Pack
@@ -80,8 +80,8 @@
 	- Attack Bonus - (+5)
 	- Damage - 1d4 + 5 Piercing
 # Spells
-- Spell DC - 15
-- Spell Attack Mod - 7
+- Spell DC - 14
+- Spell Attack Mod - 6
 ## Cantrips
 - Known - 3
 ### Vicious Mockery
