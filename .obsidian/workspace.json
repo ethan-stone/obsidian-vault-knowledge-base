@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Notes/Rotating Array.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA Notes/Rotating Array.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA Notes/Rotating Array.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA Notes/Rotating Array.md"
+                "file": "Altania DND Campaign/Borf.md"
               }
             }
           },
@@ -160,12 +160,14 @@
   },
   "active": "f83a9410a3825810",
   "lastOpenFiles": [
-    "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
+    "Altania DND Campaign/Borf.md",
     "DSA Notes/Rotating Array.md",
+    "Altania DND Campaign",
+    "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
     "Untitled.md",
     "DSA Notes/Untitled",
     "DSA Notes",
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Running Log/2024-01-05.md",
     "Running/Current Plan.md",
@@ -188,7 +190,6 @@
     "Running/Running Log/2023-11-26 3 Mile Run.md",
     "Running/Running Log/2023-11-23 1.5 Mile Run.md",
     "Running/Running Log/2023-11-15 1.7 Mile Run.md",
-    "Running/Running Log/2023-11-13 2.05 Mile Run.md",
     "Running/Running Log/Untitled",
     "Running/Running Log",
     "Running Log/Untitled",
