@@ -32,20 +32,20 @@
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+3)
+- Dexterity - (+5)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+7)^
+- Charisma - (+6)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
-- Arcana - (+3)
+- Arcana - (+1)
 - Athletics - (+3)
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+7)^
+- Intimidation - (+6)^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
