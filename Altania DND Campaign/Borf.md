@@ -2,10 +2,10 @@
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
-- Level - 5
+- Level - 3
 - Background - Gladiator
 - Alignment - Chaotic Neutral
-- Bardic Inspiration - 1d8 (4)
+- Bardic Inspiration - 1d6 (2)
 - Dark Vision - 60ft
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
@@ -16,8 +16,6 @@
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Song of Rest - Allies get 1d6 HP during short rest
 - Stone cunning - +2 on history checks related to stone
-- 1 free nat 20 to use whenever
-- Now have a GTD (Goblin Transmitted Disease)
 # Stats
 - Proficiency Bonus - (+3)
 - Strength - 15 (+2)
