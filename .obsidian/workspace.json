@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "f83a9410a3825810",
   "lastOpenFiles": [
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Altania DND Campaign/Borf.md",
     "DSA Notes/Rotating Array.md",
@@ -168,7 +169,6 @@
     "Untitled.md",
     "DSA Notes/Untitled",
     "DSA Notes",
-    "Liberate Cleveland DND Campaign/Story so far.md",
     "Running/Running Log/2024-01-05.md",
     "Running/Current Plan.md",
     "Running/Running Log/2024-01-04.md",
