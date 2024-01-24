@@ -18,4 +18,4 @@ Found Draxon's magical ear ring that is a communication device
 
 Badgergin makes communication devices for everyone
 
-
+Sir Romulus' Guide to Fire Arms. Once ready you have pr
