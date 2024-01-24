@@ -16,4 +16,6 @@ Draxon is actually in too Tall Terry's Inn
 
 Found Draxon's magical ear ring that is a communication device
 
+Badgergin has communication 
+
 
