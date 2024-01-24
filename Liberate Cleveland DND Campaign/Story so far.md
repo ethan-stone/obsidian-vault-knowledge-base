@@ -15,4 +15,3 @@ Gary is tall human that manages the Golden Barley inn
 Draxon is actually in too tall terry's inn
 
 Found Draxon's magical ear ring that is a communication device
-
