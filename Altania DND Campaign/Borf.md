@@ -83,7 +83,7 @@
 - Spell DC - 14
 - Spell Attack Mod - 6
 ## Cantrips
-- Known - 3
+- Known - 2
 ### Vicious Mockery
 **Casting Time:** 1 action  
 **Range:** 60 feet  
