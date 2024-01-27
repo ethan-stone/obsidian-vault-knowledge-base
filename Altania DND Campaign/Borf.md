@@ -72,6 +72,7 @@
 - Disguise kit
 - Magic drumsticks
 - Books worth 15 gold
+- Cookie that grants +1 temporary hit points
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
