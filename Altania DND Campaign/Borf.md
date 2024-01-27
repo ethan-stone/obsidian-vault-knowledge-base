@@ -47,13 +47,13 @@
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+6)^
+- Intimidation - (+8)^^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
 - Perception (+2)
 - Performance - (+6)^
-- Persuasion - (+6)^
+- Persuasion - (+8)^^
 - Religion - (+1)
 - Sleight of Hand - (+3)
 - Stealth - (+3)
