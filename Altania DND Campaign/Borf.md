@@ -73,6 +73,8 @@
 - Magic drumsticks
 - Books worth 15 gold
 - Cookie that grants +1 temporary hit points
+- 12 Cookies that grant +2 temporary hit points
+- 
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
