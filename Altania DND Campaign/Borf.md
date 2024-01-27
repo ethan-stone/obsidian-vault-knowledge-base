@@ -173,7 +173,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 ### Kinetic Jaunt
 **Casting Time:** 1 bonus action  
 **Range:** Self  
-**Components:** S  
+**Components:** S 
 **Duration:** Concentration, up to 1 minute
 
 You magically empower your movement with dancelike steps, giving yourself the following benefits for the duration:
