@@ -75,6 +75,7 @@
 - Cookie that grants +1 temporary hit points
 - 12 Cookies that grant +2 temporary hit points
 - Greater healing potion (4d4+4)
+- Bag of holding holds up to 500 pounds
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)

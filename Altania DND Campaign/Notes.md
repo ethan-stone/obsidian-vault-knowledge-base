@@ -4,6 +4,4 @@ Pam was a half dwarf.
 
 Achneel is the city with the healer.
 
-Fry C. Hopper
-
-Among the trees where whispers play following the tiny homes that point the way and the woodland dance there their steps understood leading to a kind home made of fine wood
+Fry C. Hopper. Frog wizard 
