@@ -16,7 +16,7 @@
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Speak Common and Dwarvish
 - Song of Rest - Allies get 1d6 HP during short rest
-- Stone cunning - +2  on history checks related to stone
+- Stone cunning - + 2 times profiency on history checks related to stone
 # Stats
 - Proficiency Bonus - (+2)
 - Strength - 15 (+2)
