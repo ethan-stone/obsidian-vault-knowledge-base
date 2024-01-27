@@ -38,7 +38,7 @@
 - Wisdom - (+1)
 - Charisma - (+6)^
 # Skills
-- Acrobatics - (+4)
+- Acrobatics - (+3)
 - Animal Handling - (+2)
 - Arcana - (+1)
 - Athletics - (+3)
@@ -53,8 +53,8 @@
 - Performance - (+6)^
 - Persuasion - (+6)^
 - Religion - (+1)
-- Sleight of Hand - (+4)
-- Stealth - (+4)
+- Sleight of Hand - (+3)
+- Stealth - (+3)
 - Survival - (+2)
 # Equipment
 - Copper - 167
