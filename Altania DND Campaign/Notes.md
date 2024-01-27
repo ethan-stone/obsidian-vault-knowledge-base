@@ -4,4 +4,4 @@ Pam was a half dwarf.
 
 Achneel is the city with the healer.
 
-Fry C. Hopper. Frog wizard 
+Fry C. Hopper. Frog wizard baker that gave us bag of holding, cookies that give +2 temp hit points.
