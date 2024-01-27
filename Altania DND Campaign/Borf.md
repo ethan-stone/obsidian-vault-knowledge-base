@@ -1,4 +1,5 @@
 ^ = proficient
+^^ = expertise
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
