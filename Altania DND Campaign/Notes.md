@@ -10,3 +10,5 @@ A keystone is tied to a bridge keeper and keeps the bridge active.
 
 Lady Maria is the Queen of the realm.
 
+War Talons. Shield is red and round with symbol of a bird in flight holding a spear in its talons.
+
