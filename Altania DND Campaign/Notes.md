@@ -12,4 +12,4 @@ Lady Maria is the Queen of the realm.
 
 War Talons. Shield is red and round with symbol of a bird in flight holding a spear in its talons. They are a prolific mercenaries.
 
-"One fang" woman leader of this group of War Talons
+"One fang" (Meredith) woman leader of this group of War Talons
