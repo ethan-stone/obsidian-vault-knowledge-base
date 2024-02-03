@@ -15,3 +15,5 @@ War Talons. Shield is red and round with symbol of a bird in flight holding a sp
 "One fang" (Meredith) woman leader of this group of War Talons.
 
 Key stone is not with mercenaries.
+
+Wooden carved necklace that Meredith has. 
