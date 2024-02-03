@@ -28,6 +28,6 @@ Millstone ranch is where they delivered the keystone.
 
 Galpana. Shape of alpaca, head of ram. Lot's of fur and stocky. Lot's of variations of horns between each one.
 
-Workers have no sent despite being drenched in sweat.
+Workers have no sent despite being drenched in sweat. They have a fuck ton of paper cuts.
 
 Name of country Freyloch.
