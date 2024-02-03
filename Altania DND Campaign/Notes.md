@@ -44,4 +44,4 @@ There is something suspicious about Philanor according to Bertram. His head fuck
 
 Frans is a thief that was trying to steal from the Manor and Riges knocked him out and something was chewing on him.
 
-Daniels parent evil??? Perhaps 
+Daniels parent evil??? Perhaps they are the hooded figures?
