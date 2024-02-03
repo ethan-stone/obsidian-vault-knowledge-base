@@ -25,3 +25,5 @@ Moonglow Keep, out in the east reports of monsters.
 Wax seal of two birds over vegetables.
 
 Millstone ranch is where they delivered the keystone.
+
+Galpana. Shape of ram head of alphaca. Lot's of fur. Lot's of variations of horns.
