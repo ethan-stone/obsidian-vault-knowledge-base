@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f83a9410a3825810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Borf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2382ce7a13eebd3d",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
