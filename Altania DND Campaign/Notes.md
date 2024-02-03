@@ -40,4 +40,4 @@ Found Bertram Munchquick's journal. Talks about work at the farm has decreased. 
 
 There is a map with circle and questions marks and markings over Kitan, Moonglow Keep, Philanor, and an area over the Dwarven kingdom.
 
-There is something suspicious about Philanor according to Bertram. His head fucking blew up. Something more sinister about the Order of the Golden Eclipse.
+There is something suspicious about Philanor according to Bertram. His head fucking blew up. Something more sinister about the Order of the Golden Eclipse. The organization b
