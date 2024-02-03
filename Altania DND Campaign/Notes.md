@@ -16,4 +16,4 @@ War Talons. Shield is red and round with symbol of a bird in flight holding a sp
 
 Key stone is not with mercenaries.
 
-Wooden carved necklace that Meredith has. 
+Wooden carved necklace that Meredith has. It has a photo of Helen.
