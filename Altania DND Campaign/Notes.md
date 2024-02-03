@@ -19,4 +19,4 @@ Key stone is not with mercenaries.
 Wooden carved necklace that Meredith has. It has a photo of Helen her daughter.
 
 Kitan, worship raven god mumblings of new power
-Moonglow keep out in the east monsters rising
+Moonglow Keep, out in the east reports of monsters
