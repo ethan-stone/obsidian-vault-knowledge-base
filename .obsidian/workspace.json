@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes.md"
+                "file": "Liberate Cleveland DND Campaign/Story so far.md"
               }
             }
           },
@@ -173,9 +173,9 @@
   },
   "active": "2382ce7a13eebd3d",
   "lastOpenFiles": [
-    "Altania DND Campaign/Borf.md",
-    "Altania DND Campaign/Notes.md",
     "Liberate Cleveland DND Campaign/Borf.md",
+    "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Untitled.canvas",
     "DSA Notes/Rotating Array.md",
