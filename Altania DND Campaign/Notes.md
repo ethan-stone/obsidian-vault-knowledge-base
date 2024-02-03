@@ -18,7 +18,9 @@ Key stone is not with mercenaries.
 
 Wooden carved necklace that Meredith has. It has a photo of Helen her daughter.
 
-Kitan, worship raven god mumblings of new power
-Moonglow Keep, out in the east reports of monsters
+Kitan, worship raven god mumblings of new power.
+Moonglow Keep, out in the east reports of monsters.
 
-Wax seal of 
+Wax seal of two birds over vegetables.
+
+Millstone ranch is where they delivered the keystone.
