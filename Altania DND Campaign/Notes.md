@@ -20,3 +20,5 @@ Wooden carved necklace that Meredith has. It has a photo of Helen her daughter.
 
 Kitan, worship raven god mumblings of new power
 Moonglow Keep, out in the east reports of monsters
+
+Wax seal of 
