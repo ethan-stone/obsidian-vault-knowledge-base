@@ -1,4 +1,4 @@
-- [ ] Find Captain Brand of the Golden Eclipse
+- [ ] Find Captain Brand of the Golden Eclipse in the capital
 - [ ] Talk to Queen in capital
 - [ ] Find healer in Achtneil for Daniel. Her name is Gretchen.
 - [ ] Go to Millstone ranch where they delivered the keystone.
