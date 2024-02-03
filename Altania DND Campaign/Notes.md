@@ -31,3 +31,5 @@ Galpana. Shape of alpaca, head of ram. Lot's of fur and stocky. Lot's of variati
 Workers have no sent despite being drenched in sweat. They have a fuck ton of paper cuts.
 
 Name of country Freyloch.
+
+The Millstone family at it's core is halflings.
