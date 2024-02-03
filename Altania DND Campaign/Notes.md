@@ -17,3 +17,6 @@ War Talons. Shield is red and round with symbol of a bird in flight holding a sp
 Key stone is not with mercenaries.
 
 Wooden carved necklace that Meredith has. It has a photo of Helen her daughter.
+
+Kitan, worship raven god mumblings of new power
+Moonglow keep out in the east monsters rising
