@@ -42,4 +42,4 @@ There is a map with circle and questions marks and markings over Kitan, Moonglow
 
 There is something suspicious about Philanor according to Bertram. His head fucking blew up. Something more sinister about the Order of the Golden Eclipse. The organization behind the "Arisen One" and the Order of the Golden Eclipse are sort of working together but not necessarily on good terms, or at least Philanor.
 
-France is a thief that was trying to steal from the Manor. 
+Frans is a thief that was trying to steal from the Manor and Riges knocked him out and something was chewing on him.
