@@ -35,3 +35,5 @@ Name of country Freyloch.
 The Millstone family at it's core is halflings.
 
 3 dark figures insult Bertram about the failure at Farowilt. Philanor is there! And Regis. Morgana was the hag that got away. They want the egg. The 3 people we don't recognize were shadowy figures that disappeared and the cloaks dropped to the floor.
+
+Found Bertrams journal. Talks about work at the farm has decreased. Regis found new hands that don't complain much and don't ask much for pay and are quiet. 
