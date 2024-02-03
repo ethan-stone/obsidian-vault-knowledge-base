@@ -33,3 +33,5 @@ Workers have no sent despite being drenched in sweat. They have a fuck ton of pa
 Name of country Freyloch.
 
 The Millstone family at it's core is halflings.
+
+Bertrem 
