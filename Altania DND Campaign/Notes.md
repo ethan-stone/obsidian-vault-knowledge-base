@@ -34,4 +34,4 @@ Name of country Freyloch.
 
 The Millstone family at it's core is halflings.
 
-3 dark figures insult Bertram about the failure at Farowilt. Philanor 
+3 dark figures insult Bertram about the failure at Farowilt. Philanor is there! And Regis. Morgana was the 
