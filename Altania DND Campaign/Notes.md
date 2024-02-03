@@ -34,4 +34,4 @@ Name of country Freyloch.
 
 The Millstone family at it's core is halflings.
 
-Bertrem 
+Bertram 
