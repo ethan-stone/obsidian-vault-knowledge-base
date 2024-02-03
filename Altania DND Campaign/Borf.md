@@ -76,6 +76,7 @@
 - Magic drumsticks
 - Books worth 15 gold
 - Cookie that grants +1 temporary hit points
+- Key that can perform 
 - Bag of holding holds up to 500 pounds
 	- 12 Cookies that grant +2 temporary hit points
 	- 3 Greater healing potion (4d4+4)
