@@ -38,4 +38,4 @@ The Millstone family at it's core is halflings.
 
 Found Bertram Munchquick's journal. Talks about work at the farm has decreased. Regis found new hands that don't complain much and don't ask much for pay and are quiet. Slowly brought in more money. Golden Order gave him mage named Philanor who has connections higher up. Benefactors gave him the Galpanas. A couple months ago an opportunity came up to make some money and stay in power. Every so often just had to give someone to the "Arisen One". There is a manifest for a various amounts of gold. Bertram was given money in exchange for giving people to the "Arisen One".
 
-There is a map with circle and questions marks and markings over Kitan, Moonglow Keep, Philanor, 
+There is a map with circle and questions marks and markings over Kitan, Moonglow Keep, Philanor, and an area over the Dwarven kingdom.
