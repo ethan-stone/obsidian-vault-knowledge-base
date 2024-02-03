@@ -88,7 +88,7 @@
 	- Damage - 1d4 + 5 Piercing
 - Shield +2 AC
 - Battle Axe
-	- Attack Bonus - (+7)
+	- Attack Bonus - (+5)
 	- Damage - 1d8 + 5
 # Spells
 - Spell DC - 14
