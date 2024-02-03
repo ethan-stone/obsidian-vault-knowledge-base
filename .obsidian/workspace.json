@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Borf.md"
+                "file": "Altania DND Campaign/Notes.md"
               }
             }
           },
@@ -170,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83a9410a3825810",
+  "active": "2382ce7a13eebd3d",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Borf.md",
+    "Altania DND Campaign/Notes.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Untitled.canvas",
