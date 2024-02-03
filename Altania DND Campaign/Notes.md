@@ -30,4 +30,4 @@ Galpana. Shape of alpaca, head of ram. Lot's of fur and stocky. Lot's of variati
 
 Workers have no sent despite being drenched in sweat.
 
-Name of country Freyloch
+Name of country Freyloch.
