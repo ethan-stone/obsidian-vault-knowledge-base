@@ -118,7 +118,7 @@ This spell can physically repair a magic item or construct, but the spell can’
 
 ## Level 1
 - Spell Slots - 4
-- Spell Slots Used - 0
+- Spell Slots Used - 1
 ### Guiding Hand
 **Casting Time:** 1 minute  
 **Range:** 5 feet  
