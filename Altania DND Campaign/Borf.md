@@ -79,7 +79,8 @@
 - Bag of holding holds up to 500 pounds
 	- 12 Cookies that grant +2 temporary hit points
 	- 3 Greater healing potion (4d4+4)
-	- Map with sinister things on it.
+	- Map with sinister things on it
+	- Keystone
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
