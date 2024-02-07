@@ -24,4 +24,6 @@ Sir Romulus' Guide to Fire Arms. Once ready you have proficiency in firearms
 
 Grog is the Goblin with an eye patch that sold boos.
 
-We are currently in an alley with Grog facing two hoard guards
+We are currently in an alley with Grog facing two hoard guards.
+
+Baron Draxon 
