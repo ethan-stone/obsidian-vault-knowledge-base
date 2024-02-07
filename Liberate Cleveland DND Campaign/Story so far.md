@@ -26,9 +26,9 @@ Grog is the Goblin with an eye patch that sold boos.
 
 We are currently in an alley with Grog facing two hoard guards.
 
-The ship is an entire self sustaining community.
+The ship is an entire self sustaining community
 
-The zombies and raid is a distraction for the baron stealing some artifacts from the castle.
+The zombies and raid is a distraction for the baron stealing some artifacts from the castle
 
 Amulate in the shape of a black start on Diamond Fang neck. Gaxl Diamond Fang is his real name. It says "Draxl Diamond Fang, Lord of the Roads, 5th Seat of the Black Star Council"
 
