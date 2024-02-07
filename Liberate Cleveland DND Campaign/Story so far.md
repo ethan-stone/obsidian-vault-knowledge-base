@@ -26,4 +26,4 @@ Grog is the Goblin with an eye patch that sold boos.
 
 We are currently in an alley with Grog facing two hoard guards.
 
-Baron Draxon 
+The ship is an entire community
