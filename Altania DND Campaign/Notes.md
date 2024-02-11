@@ -46,6 +46,6 @@ Frans is a thief that was trying to steal from the Manor and Riges knocked him o
 
 Daniels parent evil??? Perhaps they are the hooded figures?
 
-Millstone ranch is overrun by ghouls.
+Millstone ranch is overrun by ghouls since we killed Regis.
 
-We have obtained a Galpana
+We have obtained a Galpana and named him Mur.
