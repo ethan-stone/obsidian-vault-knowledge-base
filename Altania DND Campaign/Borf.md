@@ -83,7 +83,7 @@
 	- Map with sinister things on it
 	- Keystone
 # Weapons
-- Handaxe
+- Hand Axe
 	- Attack Bonus - (+5)
 	- Damage - 1d6 + 5 Slashing
 - Dagger
