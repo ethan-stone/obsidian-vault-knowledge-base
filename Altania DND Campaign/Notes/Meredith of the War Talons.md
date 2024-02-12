@@ -1,1 +1,1 @@
-Leader of a squad in the War Talons. They took the keystone from 
+Leader of a squad in the War Talons. They took the keystone from [[Pip Bridgerson]] and delivered it to [[Millstone Farms]]. Had a rough time trying to steal the keystone, and eventually 
