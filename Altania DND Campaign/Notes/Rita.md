@@ -1,1 +1,1 @@
-Owner of 
+Owner of the [[Blessed Flag Inn]]. Wife of [[Flaxon]].
