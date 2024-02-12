@@ -28,7 +28,7 @@
 - Wisdom - 13 (+1)
 - Charsima - 18 (+4)
 - Passive Wisdom - 11
-- Armor Class - 14
+- Armor Class - 15
 - Initiative - (+3)
 - Speed - 25
 - HP - 15
@@ -64,7 +64,8 @@
 - Silver - 3
 - Gold - 42
 - Platinum - 0
-- Leather Armor
+- Leather Armor (Small)
+- Chainmail Shirt (Medium)
 - Entertainers Pack
 - Backpack
 - Bedroll
