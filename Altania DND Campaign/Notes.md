@@ -59,7 +59,7 @@ Name of the capital Lachtvillna.
 
 Green and white flags with horses and riders on them are flying.
 
-Yaarl is the mayor.
+The mayor of Achtneil is Vargon.
 
 Rita is the owner of the Blessed Flaggen Inn.
 
