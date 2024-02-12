@@ -1,1 +1,1 @@
-Another area in the world. [[Meredith of the War Talons]]
+Another area in the world. After duel, [[Meredith of the War Talons]] told us about rumors about the dying of the raven god they worship in the area and a rise of 
