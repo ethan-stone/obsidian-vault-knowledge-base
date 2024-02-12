@@ -65,4 +65,4 @@ Rita is the owner of the Blessed Flaggen Inn.
 
 Strawhen Stables managed by Pacha. Iris is Pacha's daughter. About 10 years old that helps around with the stables.
 
-Firbolg
+Hermes Trundlefoot looking for 
