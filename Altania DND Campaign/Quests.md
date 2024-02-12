@@ -1,5 +1,5 @@
 - [ ] Find Captain Brand of the Golden Eclipse in the capital.
 - [ ] Talk to Queen in capital about what happened in Farrowilt.
-- [ ] Find Hugo Bridgerson in the capital.
+- [ ] Find Hugo Bridgerson in the capital and say hi to him for Pip.
 - [ ] Go to tower to the North to Lady of Scripts and Shadows and healing scroll to find help for Daniel and Kricket.
-- [ ] Figure out how to cah
+- [ ] Figure out how to get Paytonscraps back into regular form and regain memories.
