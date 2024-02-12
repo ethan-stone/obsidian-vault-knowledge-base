@@ -1,0 +1,1 @@
+Self explanatory. He is the captain of Order of the Golden Eclipse. We need to find him in Lachvilna.
