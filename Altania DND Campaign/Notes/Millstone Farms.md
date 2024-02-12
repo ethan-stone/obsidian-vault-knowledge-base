@@ -4,4 +4,4 @@ While there were introduced to [[Regis]] the headmaster. He brought us to the li
 
 We then interrogated Bertrem and found out about his wrong doings.
 
-We then snuck into Regis' room and 
+We then snuck into Regis' room and found a burglar tied up with bite marks. Turns out Regis is a Ghast and can turn people into Ghouls. Regis then entered the room and we fought.
