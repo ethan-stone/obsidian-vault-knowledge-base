@@ -1,6 +1,6 @@
 - [ ] Find Captain Brand of the Golden Eclipse in the capital.
 - [ ] Talk to Queen in capital.
-- [ ] Find healer in Achtneil for Daniel. Her name is Gretchen.
+- [ ] Find healer in Achtneil for Daniel. Her name is Gretchen Redwing.
 - [ ] Find Hugo Bridgerson in the capital.
 - [x] Go to Millstone ranch where they delivered the keystone.
 
@@ -68,3 +68,5 @@ Strawhen Stables managed by Pacha. Iris is Pacha's daughter. About 10 years old 
 Hermes Trundlefoot is the owner of Tonics For You or Brews For Two in Achtneil.
 
 Torch and Embers blacksmith. Theo Crabwhipple. Esmerelda is a red pseudo dragon.
+
+Achtneil us
