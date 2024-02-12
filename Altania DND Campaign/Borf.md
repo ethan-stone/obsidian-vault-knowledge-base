@@ -61,8 +61,8 @@
 - Survival - (+2)
 # Equipment
 - Copper - 167
-- Silver - 163
-- Gold - 26
+- Silver - 3
+- Gold - 42
 - Platinum - 0
 - Leather Armor
 - Entertainers Pack
