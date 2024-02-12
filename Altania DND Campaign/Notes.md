@@ -71,4 +71,4 @@ Torch and Embers blacksmith. Theo Crabwhipple. Esmerelda is a red pseudo dragon.
 
 Achtneil used to be run over by bandits. Vargon gathered the troops and took it back.
 
-Gretchen is an 
+Gretchen is a barn owl.
