@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Gretchen Redwing.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Gretchen Redwing.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Gretchen Redwing.md"
+                "file": "Altania DND Campaign/Notes.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86103cf15a1053f6",
+  "active": "2382ce7a13eebd3d",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/Gretchen Redwing.md",
+    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes/Lachvillna.md",
     "Altania DND Campaign/Notes",

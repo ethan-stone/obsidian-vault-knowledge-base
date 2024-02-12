@@ -1,1 +1,1 @@
-An Owlen in Achtneil. She is a healer. Unfortunately c
+An Owlen in Achtneil. She is a healer. Unfortunately could not do anything for Daniel, but told us to go to a wizard study to the north to see if there are any books on whatever is happening to Daniel. Also going to try to find a healing scroll for Kricket.
