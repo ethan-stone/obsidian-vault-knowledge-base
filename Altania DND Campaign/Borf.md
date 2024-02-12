@@ -81,7 +81,7 @@
 	- 12 Cookies that grant +2 temporary hit points
 	- 3 Greater healing potion (4d4+4)
 	- Map with sinister things on it
-	- Keystone
+	- Card from Pip with stamp to show to any toll bridge and the few gets waved
 # Weapons
 - Hand Axe
 	- Attack Bonus - (+5)

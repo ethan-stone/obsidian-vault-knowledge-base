@@ -50,4 +50,4 @@ Millstone ranch is overrun by ghouls since we killed Regis.
 
 We have obtained a Galpana and named him Mur.
 
-Card from Pip thanking us for 
+Card from Pip thanking us for getting the keystone.
