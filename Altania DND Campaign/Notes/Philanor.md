@@ -1,1 +1,1 @@
-Member of the Older of the Golden Eclipse. Very suspicious a
+Member of the [[Order of the Golden Eclipse]]. Very suspicious according to [[Bertrem Munchquick]], before his head blew up. She is somehow associated with the [[Three Hooded Shadowy Figures]]. Not sure if it is just her or if it is the entire [[Order of the Golden Eclipse]].
