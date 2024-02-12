@@ -1,0 +1,1 @@
+A tower and hold wizard study overseen by the Lady of Scripts and Shadows. We are going there to try
