@@ -1,1 +1,1 @@
-Town
+Town north of [[Farrowilt]]. Location of [[Gretchen Redwing]]. Mayor is [[Vargon]].
