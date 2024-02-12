@@ -1,0 +1,1 @@
+Druid that is stuck in the form of a cat and lost some memories. Somehow knows someone named Elizabeth.

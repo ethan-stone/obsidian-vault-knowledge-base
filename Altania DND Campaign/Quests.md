@@ -2,3 +2,4 @@
 - [ ] Talk to Queen in capital about what happened in Farrowilt.
 - [ ] Find Hugo Bridgerson in the capital.
 - [ ] Go to tower to the North to Lady of Scripts and Shadows and healing scroll to find help for Daniel and Kricket.
+- [ ] Figure out how to cah
