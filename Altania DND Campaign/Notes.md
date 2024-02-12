@@ -59,3 +59,4 @@ Name of the capital Lachtvillna.
 
 Green and white flags with horses and riders on them are flying.
 
+Yaarl is the mayor.
