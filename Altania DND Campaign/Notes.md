@@ -67,4 +67,4 @@ Strawhen Stables managed by Pacha. Iris is Pacha's daughter. About 10 years old 
 
 Hermes Trundlefoot is the owner of Tonics For You or Brews For Two in Achtneil.
 
-Torch and Embers blacksmith.
+Torch and Embers blacksmith. Theo Crabwhipple.
