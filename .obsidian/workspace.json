@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes/Millstone Farms.md",
+                "file": "Altania DND Campaign/Notes/Daniel.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Millstone Farms.md",
+                "file": "Altania DND Campaign/Notes/Daniel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Millstone Farms.md",
+                "file": "Altania DND Campaign/Notes/Daniel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Millstone Farms.md"
+                "file": "Altania DND Campaign/Notes/Daniel.md"
               }
             }
           },
@@ -192,11 +192,12 @@
   },
   "active": "7a8656cc5262c55c",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Arisen One.md",
+    "Altania DND Campaign/Notes/Daniel.md",
+    "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Philanor.md",
-    "Altania DND Campaign/Notes/Arisen One.md",
-    "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Regis.md",
     "Altania DND Campaign/Notes/Meredith of the War Talons.md",
     "Altania DND Campaign/Notes/Galpana.md",
@@ -222,7 +223,6 @@
     "Running/Running Log/2024-01-04.md",
     "Running/Running Log/2023-12-30.md",
     "Running/Pre Run Warmup.md",
-    "Running/Post Run Recovery.md",
     "Pasted image 20231212134157.png",
     "Running/Running Log/Untitled",
     "Running/Running Log",
