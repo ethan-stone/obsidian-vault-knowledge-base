@@ -26,7 +26,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11c13426586974a1",
+            "id": "80599dc4bd38bc3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "32acd69a69b8d331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Untitled.md",
+                "file": "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Untitled.md",
+                "file": "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Untitled.md"
+                "file": "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md"
               }
             }
           },
@@ -190,9 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32acd69a69b8d331",
+  "active": "80599dc4bd38bc3d",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes/Untitled.md",
+    "Altania DND Campaign/Notes/Lachvillna.md",
     "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes",
