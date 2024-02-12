@@ -1,5 +1,5 @@
 - [ ] Find Captain Brand of the Golden Eclipse in the capital.
-- [ ] Talk to Queen in capital.
+- [ ] Talk to Queen in capital about what happened in Farrowilt.
 - [ ] Find healer in Achtneil for Daniel. Her name is Gretchen Redwing.
 - [ ] Find Hugo Bridgerson in the capital.
 - [x] Go to Millstone ranch where they delivered the keystone.
