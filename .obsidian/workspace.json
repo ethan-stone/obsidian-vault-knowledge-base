@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "668493c8128e5c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Pip Bridgerson.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a668f86109d7ba31",
             "type": "leaf",
             "state": {
@@ -27,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +152,14 @@
   },
   "active": "a668f86109d7ba31",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Hugo Bridgerson.md",
+    "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Daniel.md",
     "Altania DND Campaign/Notes/Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes/Hatch.md",
     "Altania DND Campaign/Notes/Corvus.md",
     "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
-    "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes/Achtneil.md",
@@ -188,7 +176,6 @@
     "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes/Paytonscraps.md",
     "Altania DND Campaign/Notes/Gretchen Redwing.md",
-    "Altania DND Campaign/Notes/Huge Bridgerson.md",
     "Altania DND Campaign/Notes/Regis.md",
     "Altania DND Campaign/Notes/Philanor.md",
     "Altania DND Campaign/Notes/Untitled",
