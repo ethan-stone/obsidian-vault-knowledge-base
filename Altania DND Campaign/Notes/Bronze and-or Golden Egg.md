@@ -1,1 +1,1 @@
-A bronze and/or golden egg that was a
+A bronze and/or golden egg that was retrieved in [[Farrowilt]] after fighting the [[Arisen One]]. Sombra absorbed it somehow.
