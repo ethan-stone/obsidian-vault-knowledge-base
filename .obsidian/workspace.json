@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "60cc4646ce36ce5a",
+        "id": "9fb3db16964167f8",
         "type": "tabs",
         "children": [
           {
-            "id": "2382ce7a13eebd3d",
+            "id": "668493c8128e5c74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Bertrem Munchquick.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a524b48bb0f2ac18",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a8656cc5262c55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Moonglow Keep.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Moonglow Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Moonglow Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Moonglow Keep.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +150,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8656cc5262c55c",
+  "active": "668493c8128e5c74",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes/Mur.md",
     "Altania DND Campaign/Notes/Moonglow Keep.md",
+    "Altania DND Campaign/Notes/Bertrem Munchquick.md",
+    "Altania DND Campaign/Notes/Mur.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
@@ -189,7 +163,6 @@
     "Altania DND Campaign/Notes/Fry Hopper.md",
     "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes/Galpana.md",
-    "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Arisen One.md",
     "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Quests.md",
