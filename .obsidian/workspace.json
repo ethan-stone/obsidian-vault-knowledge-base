@@ -11,12 +11,8 @@
             "id": "81b6640f8e1aea90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Altania DND Campaign/Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +164,11 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Notes/Achtneil.md",
+    "Altania DND Campaign/Notes/Vargon.md",
     "Altania DND Campaign/Notes/Tonic for You or Brews for Two.md",
     "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
-    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Iris.md",
     "Altania DND Campaign/Notes/Pacha.md",
@@ -184,13 +178,11 @@
     "Altania DND Campaign/Notes/Blessed Flag Inn.md",
     "Altania DND Campaign/Notes/Three Hooded Shadowy Figures.md",
     "Altania DND Campaign/Notes/Morgana.md",
-    "Altania DND Campaign/Notes/Vargon.md",
     "Altania DND Campaign/Notes/Philanor.md",
     "Altania DND Campaign/Notes/Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes/Regis.md",
     "Altania DND Campaign/Notes/Paytonscraps.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
-    "Altania DND Campaign/Notes/Achtneil.md",
     "Altania DND Campaign/Notes/Bronze and-or Golden Egg.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Quests.md",

@@ -1,1 +1,1 @@
-Town north of [[Farrowilt]]. Location of [[Gretchen Redwing]]. Mayor is [[Vargon]].
+Town north of [[Farrowilt]]. Location of [[Gretchen Redwing]]. Mayor is [[Vargon]]. Used to be overrun by bandits, but Vargon rallied everyone and took the town back.
