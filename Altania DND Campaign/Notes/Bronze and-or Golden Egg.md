@@ -1,0 +1,1 @@
+A bronze and/or golden egg that was a

@@ -1,7 +1,3 @@
-Workers have no sent despite being drenched in sweat. They have a fuck ton of paper cuts.
-
-Name of country Freyloch.
-
 The Millstone family at it's core is halflings.
 
 3 dark figures insult Bertram about the failure at Farowilt. Philanor is there! And Regis. Morgana was the hag that got away. They want the egg. The 3 people we don't recognize were shadowy figures that disappeared and the cloaks dropped to the floor.
