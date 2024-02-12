@@ -1,1 +1,1 @@
-Troll that is the bridge keeper between Farrowilt and Achtn
+Troll that is the bridge keeper between Farrowilt and Achtneil. We retrieved the keystone for him from Millstone Farms.
