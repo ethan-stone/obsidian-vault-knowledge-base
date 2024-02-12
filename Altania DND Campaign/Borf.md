@@ -37,7 +37,7 @@
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+5)^
-- Constitution - (+4)
+- Constitution - (+3)
 - Intelligence - (+1)
 - Wisdom - (+1)
 - Charisma - (+6)^
