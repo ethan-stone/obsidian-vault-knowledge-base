@@ -82,7 +82,7 @@
 	- 3 Greater healing potion (4d4+4)
 	- Map with circle and questions marks and markings over Kitan, Moonglow Keep, Farrowilt, and an area over the Dwarven kingdom.
 	- Card from Pip with stamp to show to any toll bridge and the few gets waved.
-	- Bertrum's journal with his dealings with the Order of the Golden  
+	- Bertrum's journal with his dealings with the Order of the Golden Eclipse. 
 # Weapons
 - Hand Axe
 	- Attack Bonus - (+5)
