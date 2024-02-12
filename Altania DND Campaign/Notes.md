@@ -52,4 +52,4 @@ We have obtained a Galpana and named him Mur.
 
 Card from Pip thanking us for getting the keystone.
 
-Who the fuck is Elizabeth? She was mentioned randomly by Paytonscraps but 
+Paytonscraps somehow knows someone named Elizabeth.
