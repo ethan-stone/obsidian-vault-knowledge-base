@@ -1,1 +1,1 @@
-Troll that is the bridge keeper between Farrowilt and Achtneil. We retrieved the keystone for him from Millstone Farms. He told us to say high to his brother 
+Troll that is the bridge keeper between Farrowilt and Achtneil. We retrieved the keystone for him from Millstone Farms. He told us to say high to his brother [[Huge Bridgerson]] in the capital and say hi to him.

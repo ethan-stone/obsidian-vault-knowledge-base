@@ -1,9 +1,3 @@
-- [ ] Find Captain Brand of the Golden Eclipse in the capital.
-- [ ] Talk to Queen in capital about what happened in Farrowilt.
-- [ ] Find healer in Achtneil for Daniel. Her name is Gretchen Redwing.
-- [ ] Find Hugo Bridgerson in the capital.
-- [ ] Go to tower to the North to Lady of Scripts and Shadows and healing scroll to find help for Daniel and Kricket.
-
 Fry C. Hopper. Frog wizard baker that gave us bag of holding, cookies that give +2 temp hit points, and greater healing potion.
 
 Pip troll that is the bridge keeper.
