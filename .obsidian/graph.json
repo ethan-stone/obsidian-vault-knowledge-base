@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"Altania DND Campaign/Notes\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Altania DND Campaign\"  ",
+      "query": "path:\"Altania DND Campaign/Notes\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -25,6 +25,6 @@
   "repelStrength": 6.25732421875,
   "linkStrength": 1,
   "linkDistance": 255,
-  "scale": 1.4455592618790993,
+  "scale": 1.2603272257496907,
   "close": true
 }
