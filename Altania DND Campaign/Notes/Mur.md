@@ -1,1 +1,1 @@
-A [[Galpana]] that escaped [[Millstone Farms]] that w
+A [[Galpana]] that escaped [[Millstone Farms]] we found as we were heading back to the bridge in the wood. Has taken a liking to Kricket and is now traveling with us.
