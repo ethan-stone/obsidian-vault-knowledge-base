@@ -73,4 +73,4 @@ Achtneil used to be run over by bandits. Vargon gathered the troops and took it 
 
 Gretchen is a Owlen.
 
-Tower near here 
+Tower near Achtneil where there is an old library. Maybe we can find something for David there.
