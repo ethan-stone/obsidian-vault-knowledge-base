@@ -62,3 +62,5 @@ Green and white flags with horses and riders on them are flying.
 Yaarl is the mayor.
 
 Rita is the owner of the Blessed Flaggen Inn.
+
+Strawhenn strab
