@@ -1,0 +1,1 @@
+Brother of [[Pip Bridgerson]]. He is a lawyer in the capital.
