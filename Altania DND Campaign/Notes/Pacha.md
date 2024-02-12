@@ -1,1 +1,1 @@
-Owner of [[Strawhen Stables]].
+Owner of [[Strawhen Stables]]. Daughter is [[Iris]].

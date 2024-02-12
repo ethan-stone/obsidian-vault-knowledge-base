@@ -1,0 +1,1 @@
+Daughter of [[Pacha]]. About 10 years old. Helps at [[Strawhen Stables]].
