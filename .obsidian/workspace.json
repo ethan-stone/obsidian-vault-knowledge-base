@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes/Galpana.md",
+                "file": "Altania DND Campaign/Notes/Fizzben.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Bertrem Munchquick.md",
+                "file": "Altania DND Campaign/Notes/Fizzben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Bertrem Munchquick.md",
+                "file": "Altania DND Campaign/Notes/Fizzben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Bertrem Munchquick.md"
+                "file": "Altania DND Campaign/Notes/Fizzben.md"
               }
             }
           },
@@ -177,15 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2382ce7a13eebd3d",
+  "active": "7a8656cc5262c55c",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Fry Hopper.md",
+    "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Notes/Galpana.md",
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Arisen One.md",
     "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes/Paytonscraps.md",
-    "Altania DND Campaign/Notes/Galpana.md",
     "Altania DND Campaign/Notes/Gretchen Redwing.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Huge Bridgerson.md",
@@ -199,7 +201,6 @@
     "Altania DND Campaign/Notes/Order of the Golden Eclipse.md",
     "Altania DND Campaign/Notes/Untitled",
     "Altania DND Campaign/Notes/Kitan Canyon.md",
-    "Altania DND Campaign/Notes/Fry Hopper.md",
     "Altania DND Campaign/Notes/Daniel.md",
     "Altania DND Campaign/Notes/Meredith of the War Talons.md",
     "Untitled.canvas",
@@ -207,7 +208,6 @@
     "Altania DND Campaign/Notes/Lachvillna.md",
     "Altania DND Campaign/Notes",
     "Altania DND Campaign/Borf.md",
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Altania DND Campaign",
     "DSA Notes/Untitled",
     "DSA Notes",
