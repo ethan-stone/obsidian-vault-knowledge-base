@@ -1,1 +1,3 @@
 She is a half-orc blood hunter and Leader of a squad in the War Talons. They took the keystone from [[Pip Bridgerson]] and delivered it to [[Millstone Farms]]. Had a rough time trying to steal the keystone, and eventually had dual with her. Won the dual, and earned her respect. She then gave us the information about were the keystone is and synced our sending stones.
+
+She has a daughter name Helen that is missing. There 

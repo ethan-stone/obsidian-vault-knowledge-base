@@ -1,0 +1,1 @@
+Another area in the world. [[Meredith of the War Talons]] told us rumors of monsters in the area.
