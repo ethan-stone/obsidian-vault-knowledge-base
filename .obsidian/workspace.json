@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "7abe02f27c76aa26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11c13426586974a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altania DND Campaign/Notes/Captain Brand of the Golden Eclipse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
+                "file": "Altania DND Campaign/Notes/Captain Brand of the Golden Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes.md",
+                "file": "Altania DND Campaign/Notes/Captain Brand of the Golden Eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes.md"
+                "file": "Altania DND Campaign/Notes/Captain Brand of the Golden Eclipse.md"
               }
             }
           },
@@ -146,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2382ce7a13eebd3d",
+  "active": "11c13426586974a1",
   "lastOpenFiles": [
-    "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Notes/Captain Brand of the Golden Eclipse.md",
+    "Altania DND Campaign/Notes",
+    "Altania DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Untitled.canvas",
@@ -190,7 +211,6 @@
     "Running/Running Log/2023-12-05 2.5 Mile Run.md",
     "Running/Running Log/2023-11-30 2.5 Mile Run.md",
     "Running/Running Log/2023-11-26 3 Mile Run.md",
-    "Running/Running Log/2023-11-23 1.5 Mile Run.md",
     "Running/Running Log/Untitled",
     "Running/Running Log",
     "Running Log/Untitled",
