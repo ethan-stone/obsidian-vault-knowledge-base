@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Meredith of the War Talons.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Meredith of the War Talons.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Meredith of the War Talons.md"
+                "file": "Altania DND Campaign/Notes.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8656cc5262c55c",
+  "active": "2382ce7a13eebd3d",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Meredith of the War Talons.md",
+    "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
     "Untitled.canvas",
