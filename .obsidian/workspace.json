@@ -23,12 +23,8 @@
             "id": "a668f86109d7ba31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,6 +165,7 @@
   },
   "active": "a668f86109d7ba31",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
     "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes/Achtneil.md",
@@ -183,7 +176,6 @@
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Mur.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
-    "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/War Talons.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
