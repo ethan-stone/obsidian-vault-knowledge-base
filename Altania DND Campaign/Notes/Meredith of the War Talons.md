@@ -1,1 +1,1 @@
-Leader of a squad in the War Talon.
+Leader of a squad in the War Talons. They took the keystone from 
