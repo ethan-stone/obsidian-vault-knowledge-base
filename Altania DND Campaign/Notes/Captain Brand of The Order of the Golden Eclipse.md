@@ -1,1 +1,1 @@
-Self explanatory. He is the captain of [[Order of the Golden Eclipse]]. Corvus (can't remember if that is correct), told us to see him in the capital and talk to him about what happened in Farrowilt.
+Self explanatory. He is the captain of [[Order of the Golden Eclipse]]. Corvus (can't remember if that is correct), told us to see him in the capital and talk to him about what the events that happened in [[Farrowilt]].
