@@ -11,8 +11,12 @@
             "id": "668493c8128e5c74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Altania DND Campaign/Notes/Achtneil.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Altania DND Campaign/Notes/Achtneil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Altania DND Campaign/Notes/Achtneil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Altania DND Campaign/Notes/Achtneil.md"
+              }
             }
           },
           {
@@ -152,6 +160,8 @@
   },
   "active": "668493c8128e5c74",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Fizzben.md",
+    "Altania DND Campaign/Notes/Achtneil.md",
     "Altania DND Campaign/Notes/Moonglow Keep.md",
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Mur.md",
@@ -161,7 +171,6 @@
     "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/War Talons.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
-    "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes/Galpana.md",
     "Altania DND Campaign/Notes/Arisen One.md",
     "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
@@ -179,7 +188,6 @@
     "Altania DND Campaign/Notes/Daniel.md",
     "Untitled.canvas",
     "Altania DND Campaign/Notes/Captain Brand of The Order of the Golden Eclipse.md",
-    "Altania DND Campaign/Notes/Lachvillna.md",
     "Altania DND Campaign/Notes",
     "Altania DND Campaign",
     "DSA Notes/Untitled",
