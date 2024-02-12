@@ -1,1 +1,1 @@
-Self explanatory. He is the captain of Order of the Golden Eclipse. 
+Self explanatory. He is the captain of Order of the Golden Eclipse. Corvus (can't remember if that is correct), is the 
