@@ -3,7 +3,7 @@
 - [ ] Find healer in Achtneil for Daniel. Her name is Gretchen Redwing.
 - [ ] Find Hugo Bridgerson in the capital.
 - [x] Go to Millstone ranch where they delivered the keystone.
-- [ ] Go to tower to the North to find something
+- [ ] Go to tower to the North to Lady of Scripts and Shadows and healing scroll to find help for Daniel and Kricket.
 
 Fry C. Hopper. Frog wizard baker that gave us bag of holding, cookies that give +2 temp hit points, and greater healing potion.
 
@@ -74,4 +74,4 @@ Achtneil used to be run over by bandits. Vargon gathered the troops and took it 
 
 Gretchen is a Owlen.
 
-Tower near Achtneil where there is an old library. It is a mages study full of knowledge and a healing scroll. Maybe we can find something for David and Kricket there.
+Tower near Achtneil where there is an old library. It is a mages study full of knowledge and a healing scroll. There is Lady of Script and Shadow that looks over the place. Maybe we can find something for David and Kricket there.
