@@ -61,7 +61,7 @@
 - Survival - (+2)
 # Equipment
 - Copper - 167
-- Silver - 164
+- Silver - 163
 - Gold - 176
 - Platinum - 0
 - Leather Armor

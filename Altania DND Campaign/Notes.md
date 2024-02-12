@@ -63,4 +63,4 @@ Yaarl is the mayor.
 
 Rita is the owner of the Blessed Flaggen Inn.
 
-Strawhen Stables managed by Pacha.
+Strawhen Stables managed by Pacha. Iris is Pacha's daughter. About 10 years old. 
