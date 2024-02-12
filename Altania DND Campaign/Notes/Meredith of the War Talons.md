@@ -1,0 +1,1 @@
+Leader of a squad in the War Talon.
