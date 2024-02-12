@@ -62,7 +62,7 @@
 # Equipment
 - Copper - 167
 - Silver - 3
-- Gold - 12
+- Gold - 30
 - Platinum - 0
 - Leather Armor (Small)
 - Chainmail Shirt (Medium)
@@ -75,7 +75,6 @@
 - Water skin
 - Disguise kit
 - Magic drumsticks
-- Books worth 15 gold
 - Cookie that grants +1 temporary hit points
 - Key that can perform Knock once a day
 - Hat of Disguise
