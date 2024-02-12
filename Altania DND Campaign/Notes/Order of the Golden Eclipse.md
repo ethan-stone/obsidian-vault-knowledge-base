@@ -1,0 +1,1 @@
+Organization that says to help struggling towns and worships a god. Very suspicious because of [[Philanor]].
