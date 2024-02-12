@@ -1,1 +1,1 @@
-Traveling salesman with a magical hat. He can teleport between his tents he has set up. We know of two tents currently. One in Farrowilt and one in Achtneil. Somehow knows [[Fry Hopper]]
+Traveling salesman with a magical hat. He can teleport between his tents he has set up. We know of two tents currently. One in Farrowilt and one in Achtneil. Somehow knows [[Fry Hopper]].
