@@ -1,1 +1,1 @@
-Another area in the world. [[Meredith of the War Talons]] told us rumors of monsters in the area.
+Another area in the world. [[Meredith (aka One Fang) of the War Talons]] told us rumors of monsters in the area.
