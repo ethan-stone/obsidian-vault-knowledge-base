@@ -1,7 +1,7 @@
-- [ ] Find Captain Brand of the Golden Eclipse in the capital
-- [ ] Talk to Queen in capital
-- [ ] Find healer in Achtneil for Daniel. Her name is Gretchen
-- [ ] Find Hugo Bridgerson in the captial.
+- [ ] Find Captain Brand of the Golden Eclipse in the capital.
+- [ ] Talk to Queen in capital.
+- [ ] Find healer in Achtneil for Daniel. Her name is Gretchen.
+- [ ] Find Hugo Bridgerson in the capital.
 - [x] Go to Millstone ranch where they delivered the keystone.
 
 Fry C. Hopper. Frog wizard baker that gave us bag of holding, cookies that give +2 temp hit points, and greater healing potion.
@@ -54,3 +54,5 @@ We have obtained a Galpana and named him Mur.
 Card from Pip thanking us for getting the keystone.
 
 Paytonscraps somehow knows someone named Elizabeth.
+
+Name of the capital Lachtvillna.
