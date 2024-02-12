@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes/Lady Maria.md",
+                "file": "Altania DND Campaign/Notes/Pip Bridgerson.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Lady Maria.md",
+                "file": "Altania DND Campaign/Notes/Pip Bridgerson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Lady Maria.md",
+                "file": "Altania DND Campaign/Notes/Pip Bridgerson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Lady Maria.md"
+                "file": "Altania DND Campaign/Notes/Pip Bridgerson.md"
               }
             }
           },
@@ -160,9 +160,10 @@
   },
   "active": "4afe5dfa9361293e",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes/Freyloch.md",
-    "Altania DND Campaign/Notes/Lady Maria.md",
     "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Quests.md",
+    "Altania DND Campaign/Notes/Lady Maria.md",
+    "Altania DND Campaign/Notes/Freyloch.md",
     "Altania DND Campaign/Notes/Lachvillna.md",
     "Altania DND Campaign/Notes/Corvus.md",
     "Altania DND Campaign/Notes/Hugo Bridgerson.md",
@@ -184,7 +185,6 @@
     "Altania DND Campaign/Notes/War Talons.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
     "Altania DND Campaign/Notes/Galpana.md",
-    "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes/Paytonscraps.md",
     "Altania DND Campaign/Notes/Untitled",
     "Untitled.canvas",

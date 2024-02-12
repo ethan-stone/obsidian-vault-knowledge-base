@@ -1,1 +1,1 @@
-Queen of Freyloch
+Queen of [[Freyloch]].
