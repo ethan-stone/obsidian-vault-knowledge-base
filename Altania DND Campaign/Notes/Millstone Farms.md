@@ -5,3 +5,5 @@ While there were introduced to [[Regis]] the headmaster. He brought us to the li
 We then interrogated Bertrem and found out about his wrong doings, as well as a map with 4 locations marked. An area over the [[Dwarven Kingdom]], [[Farrowilt]], [[Moonglow Keep]], and [[Kitan Canyon]].
 
 We then snuck into Regis' room and found a burglar tied up with bite marks. Turns out Regis is a Ghast and can turn people into Ghouls. Regis then entered the room and we fought.
+
+Killing Regis caused all the Ghouls under his control to become feral. Now Millstone Farms is a Ghouls nest.
