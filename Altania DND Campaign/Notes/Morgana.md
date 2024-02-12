@@ -1,1 +1,1 @@
-One of the hags in the ruins in [[Farrowilt]] that got away while fight i
+One of the hags in the ruins in [[Farrowilt]] that got away while fighting them and the [[Arisen One]]. Associated with the [[Three Hooded Shadowy Figures]].

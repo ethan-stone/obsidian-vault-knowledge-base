@@ -1,9 +1,3 @@
-3 dark figures insult Bertram about the failure at Farowilt. Philanor is there! And Regis. Morgana was the hag that got away. They want the egg. The 3 people we don't recognize were shadowy figures that disappeared and the cloaks dropped to the floor.
-
-Found Bertram Munchquick's journal. Talks about work at the farm has decreased. Regis found new hands that don't complain much and don't ask much for pay and are quiet. Slowly brought in more money. Golden Order gave him mage named Philanor who has connections higher up. Benefactors gave him the Galpanas. A couple months ago an opportunity came up to make some money and stay in power. Every so often just had to give someone to the "Arisen One". There is a manifest for a various amounts of gold. Bertram was given money in exchange for giving people to the "Arisen One".
-
-There is a map with circle and questions marks and markings over Kitan, Moonglow Keep, Philanor, and an area over the Dwarven kingdom.
-
 There is something suspicious about Philanor according to Bertram. His head fucking blew up. Something more sinister about the Order of the Golden Eclipse. The organization behind the "Arisen One" and the Order of the Golden Eclipse are sort of working together but not necessarily on good terms, or at least Philanor.
 
 Frans is a thief that was trying to steal from the Manor and Riges knocked him out and something was chewing on him.
