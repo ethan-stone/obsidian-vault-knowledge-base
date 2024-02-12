@@ -69,4 +69,4 @@ Hermes Trundlefoot is the owner of Tonics For You or Brews For Two in Achtneil.
 
 Torch and Embers blacksmith. Theo Crabwhipple. Esmerelda is a red pseudo dragon.
 
-Achtneil us
+Achtneil used to be run over by bandits. The Yaarl gathered the troops and took it back.
