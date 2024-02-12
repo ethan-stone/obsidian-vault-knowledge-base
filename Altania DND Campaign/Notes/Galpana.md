@@ -1,1 +1,1 @@
-Shape of Alpaca and head of a Ram. Lot's of fur and stocky. Big enough for Dwarves to ride and a pretty quick. They are rare and used in the mountains to traverse.
+Shape of Alpaca and head of a Ram. Lot's of fur and stocky. Big enough for Dwarves to ride and a pretty quick. They are rare and used in the mountains to traverse. There are number of them on [[Millstone Farms]].
