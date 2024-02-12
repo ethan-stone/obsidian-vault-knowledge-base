@@ -63,4 +63,4 @@ Yaarl is the mayor.
 
 Rita is the owner of the Blessed Flaggen Inn.
 
-Strawhenn strab
+Strawhen Stables managed by Pacha.
