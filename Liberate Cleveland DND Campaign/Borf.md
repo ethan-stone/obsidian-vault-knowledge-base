@@ -174,7 +174,7 @@ Starting with the creature that has the lowest current hit points, each creature
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 ## Level 2
 Spell Slots - 3
-Spell Slots Used - 1
+Spell Slots Used - 2
 ### Shatter
 **Casting Time:** 1 action  
 **Range:** 60 feet  
