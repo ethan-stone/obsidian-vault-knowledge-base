@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Borf.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes.md",
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Altania DND Campaign/Borf.md",
+    "Altania DND Campaign/Notes.md",
     "Bread Baking.md",
     "Altania DND Campaign/Quests.md",
     "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
@@ -197,7 +198,6 @@
     "Altania DND Campaign/Notes/Paytonscraps.md",
     "Altania DND Campaign/Notes/Bronze and-or Golden Egg.md",
     "Altania DND Campaign/Notes/Pip Bridgerson.md",
-    "Altania DND Campaign/Notes/Lady Maria.md",
     "Altania DND Campaign/Notes/Untitled",
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
