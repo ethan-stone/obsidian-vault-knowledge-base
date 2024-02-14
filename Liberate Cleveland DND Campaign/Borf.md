@@ -81,6 +81,8 @@
 - Dagger
 	- Attack Bonus - (+5)
 	- Damage - 1d4 + 5 Piercing
+- Musket
+- Flintlock
 # Spells
 - Spell DC - 15
 - Spell Attack Mod - 7
