@@ -74,7 +74,6 @@
 - Water skin
 - Disguise kit
 - Magic drumsticks
-- Books worth 15 gold
 # Weapons
 - Handaxe
 	- Attack Bonus - (+5)
