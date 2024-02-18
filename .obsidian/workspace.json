@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Quests.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Quests.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Quests.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Quests.md"
+                "file": "Altania DND Campaign/Borf.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
+    "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Daniel.md",
@@ -185,7 +186,6 @@
     "Altania DND Campaign/Notes/Fry Hopper.md",
     "Altania DND Campaign/Notes/Gretchen Redwing.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
-    "Meredith of the War Talons.md",
     "Altania DND Campaign/Notes/Untitled",
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
