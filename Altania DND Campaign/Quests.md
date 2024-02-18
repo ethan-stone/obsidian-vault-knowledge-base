@@ -3,3 +3,4 @@
 - [ ] Find Hugo Bridgerson in the capital and say hi to him for Pip.
 - [ ] Go to tower to the North. Find healing scroll for Kricket and anything we can find for Daniel.
 - [ ] Figure out how to get Paytonscraps back into regular form and regain memories.
+- [ ] Look for a random
