@@ -11,24 +11,8 @@
             "id": "81b6640f8e1aea90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Borf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612c55596d648286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Altania DND Campaign/Borf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +152,10 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
+    "Altania DND Campaign/Borf.md",
+    "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
-    "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes.md",
     "Bread Baking.md",
     "Altania DND Campaign/Quests.md",
@@ -184,7 +165,6 @@
     "Altania DND Campaign/Notes/Achtneil.md",
     "Altania DND Campaign/Notes/Vargon.md",
     "Altania DND Campaign/Notes/Tonic for You or Brews for Two.md",
-    "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
     "Altania DND Campaign/Notes/Iris.md",
     "Altania DND Campaign/Notes/Pacha.md",
     "Altania DND Campaign/Notes/Strawhen Stables.md",
