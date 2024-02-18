@@ -21,7 +21,7 @@
 - Stone cunning - + 2 times proficiency on history checks related to stone
 # Stats
 - Proficiency Bonus - (+2)
-- Strength - 17 (+2)
+- Strength - 17 (+3)
 - Dexterity - 17 (+3)
 - Constitution - 17 (+3)
 - Intelligence - 10 (+0)
@@ -35,7 +35,7 @@
 - Max HP - 30
 - Hit Dice - 1d8
 # Saving Throws
-- Strength - (+2)
+- Strength - (+3)
 - Dexterity - (+5)^
 - Constitution - (+3)
 - Intelligence - (+1)
