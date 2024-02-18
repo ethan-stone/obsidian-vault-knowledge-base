@@ -1,1 +1,1 @@
-Friend of [[Thrum]]
+Friend of [[Thrumni]]. So good that Borf would call him Uncle
