@@ -1,1 +1,1 @@
-Fried of 
+Friend of [[Thrum]]
