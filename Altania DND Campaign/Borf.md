@@ -21,7 +21,7 @@
 - Stone cunning - + 2 times proficiency on history checks related to stone
 # Stats
 - Proficiency Bonus - (+2)
-- Strength - 15 (+2)
+- Strength - 17 (+2)
 - Dexterity - 17 (+3)
 - Constitution - 17 (+3)
 - Intelligence - 10 (+0)
