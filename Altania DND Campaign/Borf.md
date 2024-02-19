@@ -63,7 +63,7 @@
 # Equipment
 - Copper - 167
 - Silver - 3
-- Gold - 5
+- Gold - 30
 - Platinum - 0
 - Leather Armor (Small)
 - Chainmail Shirt (Medium)
