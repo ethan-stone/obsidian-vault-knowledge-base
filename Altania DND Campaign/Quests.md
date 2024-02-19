@@ -4,4 +4,4 @@
 - [ ] Go to tower to the North. Find healing scroll for Kricket and anything we can find for Daniel.
 - [ ] Figure out how to get Paytonscraps back into regular form and regain memories.
 - [ ] Look for a green tandem bicycle that belongs to Fizzben. Found it from the Krispy brothers. Will bring it with us on the way back from the [[Wizard Study North of Achtneil]].
-- [ ] 
+- [ ] Find resurrection ability and revive chicken for Krispy brothers.
