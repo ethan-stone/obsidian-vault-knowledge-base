@@ -1,1 +1,1 @@
-Pinap, Snackle, Cop Krispy are 3 
+Pinap, Snackle, Cop Krispy are 3 Colbad brothers in the cave on the way to [[Wizard Study North of Achtneil]]
