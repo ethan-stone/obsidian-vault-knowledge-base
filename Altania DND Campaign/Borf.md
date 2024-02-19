@@ -32,7 +32,7 @@
 - Initiative - (+3)
 - Speed - 25
 - HP - 35
-- Max HP - 30 + 5
+- Max HP - 30 + 5 from Aid
 - Hit Dice - 1d8
 # Saving Throws
 - Strength - (+3)
