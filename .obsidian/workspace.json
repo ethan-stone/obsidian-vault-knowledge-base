@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Borf.md"
+                "file": "Altania DND Campaign/Notes.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
+    "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Sign on the Way to the Wizard Tower.md",
     "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Notes/Arisen One.md",
@@ -168,7 +169,6 @@
     "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
-    "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Flaxon.md",
     "Altania DND Campaign/Notes/Daniel.md",
     "Altania DND Campaign/Notes/Bronze and-or Golden Egg.md",
