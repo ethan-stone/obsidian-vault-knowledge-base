@@ -1,1 +1,1 @@
-Pinap, Snackle, Cop Krispy ar e
+Pinap, Snackle, Cop Krispy are 3 
