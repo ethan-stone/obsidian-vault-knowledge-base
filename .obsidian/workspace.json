@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Running/Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Running/Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Borf.md",
+                "file": "Running/Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Borf.md"
+                "file": "Running/Progress.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
-    "Altania DND Campaign/Notes.md",
+    "Meredith of the War Talons.md",
+    "Running/Progress.md",
+    "Bread Baking.md",
     "Altania DND Campaign/Borf.md",
+    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/Sign on the Way to the Wizard Tower.md",
     "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Notes/Arisen One.md",
@@ -183,9 +186,6 @@
     "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes/Mur.md",
     "Altania DND Campaign/Notes/Rita.md",
-    "Altania DND Campaign/Notes/Tonic for You or Brews for Two.md",
-    "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
-    "Altania DND Campaign/Notes/Farrowilt.md",
     "Altania DND Campaign/Notes/Untitled",
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
