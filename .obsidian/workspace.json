@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Altania DND Campaign/Quests.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Altania DND Campaign/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Running/Progress.md",
+                "file": "Altania DND Campaign/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Running/Progress.md"
+                "file": "Altania DND Campaign/Quests.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "81b6640f8e1aea90",
   "lastOpenFiles": [
-    "Meredith of the War Talons.md",
     "Running/Progress.md",
+    "Meredith of the War Talons.md",
     "Bread Baking.md",
     "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes.md",
