@@ -1,1 +1,1 @@
-The Krispy brothers. They are located in a cave on the way to [[Wizard Study North of Achtneil]]. We killed their pet Scratch and Cockatrice. They also stole the green tandem bicycle from [[Fizzben]]. w
+The Krispy brothers. They are located in a cave on the way to [[Wizard Study North of Achtneil]]. We killed their pet Scratch and Cockatrice. They also stole the green tandem bicycle from [[Fizzben]]. They also said that Fizzben stole Scratch, so they mugged him on the trail leading to the cave.
