@@ -77,7 +77,8 @@
 - Disguise kit
 - Magic drumsticks
 - Ring of Feather Falling
-	- Descend 60ft per 
+	- Descend 60ft per round
+	- Take no damage from falling
 - Cookie that grants +1 temporary hit points
 - 1 sugar snap screen
 - Key that can perform Knock once a day
