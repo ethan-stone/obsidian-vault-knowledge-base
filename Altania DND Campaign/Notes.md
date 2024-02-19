@@ -1,1 +1,1 @@
-Pinap, 
+Pinap, Snackle, Cop Krispy are 
