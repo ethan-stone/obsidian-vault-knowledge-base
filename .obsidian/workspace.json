@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md"
+                "file": "Altania DND Campaign/Borf.md"
               }
             }
           },
@@ -160,13 +160,14 @@
   },
   "active": "bf14542c90d82cb7",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Quests.md",
+    "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Notes/War Talons.md",
     "Altania DND Campaign/Notes/Untitled.md",
-    "Altania DND Campaign/Notes.md",
     "Altania DND Campaign/Notes/Fizzben.md",
     "Altania DND Campaign/Notes/P-nap, Snack, and Cop.md",
     "Altania DND Campaign/Notes/Untitled",
-    "Altania DND Campaign/Quests.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Meredith (aka One Fang) of the War Talons.md",
     "Altania DND Campaign/Notes/Tonic for You or Brews for Two.md",
@@ -182,7 +183,6 @@
     "Bread Baking.md",
     "Altania DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Sign on the Way to the Wizard Tower.md",
-    "Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Fry Hopper.md",
     "Altania DND Campaign/Notes/Flaxon.md",
