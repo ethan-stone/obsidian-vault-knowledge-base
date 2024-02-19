@@ -76,6 +76,8 @@
 - Water skin
 - Disguise kit
 - Magic drumsticks
+- Ring of Feather Falling
+	- Descend 60ft per 
 - Cookie that grants +1 temporary hit points
 - 1 sugar snap screen
 - Key that can perform Knock once a day
