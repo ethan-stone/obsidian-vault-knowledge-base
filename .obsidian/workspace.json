@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md"
+                "file": "Liberate Cleveland DND Campaign/Story so far.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "da74b9cb789c03c8",
   "lastOpenFiles": [
+    "Liberate Cleveland DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Moonglow Keep.md",
     "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
@@ -186,7 +187,6 @@
     "Altania DND Campaign/Notes/Order of the Golden Eclipse.md",
     "Running/Progress.md",
     "Meredith of the War Talons.md",
-    "Bread Baking.md",
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
     "Altania DND Campaign",
