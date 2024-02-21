@@ -247,3 +247,4 @@ If you perform for at least 1 minute, you can attempt to inspire wonder in your 
 If a target succeeds on its saving throw, the target has no hint that you tried to charm it.
 
 Once you use this feature, you can’t use it again until you finish a short or long rest.
+## Mantle of Majesty
