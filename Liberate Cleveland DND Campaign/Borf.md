@@ -74,6 +74,7 @@
 - Water skin
 - Disguise kit
 - Magic drumsticks
+- Big Hat Farms pin to teleport back to Big Hart Farms at any point
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
