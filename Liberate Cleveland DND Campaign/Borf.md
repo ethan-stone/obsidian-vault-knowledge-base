@@ -86,6 +86,8 @@
 # Spells
 - Spell DC - 15
 - Spell Attack Mod - 7
+# Countercharm
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 ## Cantrips
 - Known - 3
 ### Vicious Mockery
@@ -217,7 +219,7 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
 
 ## Level 3
-Spell Slots - 2
+Spell Slots - 3
 Spell Slots Used - 0
 ### Slow
 **Casting Time:** 1 action  
