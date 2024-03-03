@@ -1,1 +1,1 @@
-Known for their brutal enforcement and smuggling of illegal goods in [[Etheria]]. They mainly achieve this through bribery and having insiders [[The Dust Bowl]], to hide
+Known for their brutal enforcement and smuggling of illegal goods in [[Etheria]]. They mainly achieve this through  having insiders [[The Dust Bowl]] and [[The Sentinels]].
