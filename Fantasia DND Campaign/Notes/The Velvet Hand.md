@@ -6,4 +6,5 @@ They are not beyond killing as a means to an end, but they try to avoid it as mu
 Some of the primary ways they make money are.
 - Getting hired to steal information from other businesses, or spy on them.
 - Getting hired to sabotage other business.
+- Getting hired to destroy 
 - All this meddling causes major fluctuations in the stock market, meaning they can carefully invest and benefit from it. For example if the sabotage a business, the value of a competitor will likely go up so they can invest in that.
