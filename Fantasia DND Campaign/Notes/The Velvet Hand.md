@@ -4,4 +4,4 @@ A sophisticated gang that is more for hire than an independently moving organiza
 Some of the primary ways they make money are.
 - Getting hired to steal information from other businesses, or spy on them.
 - Getting hired to sabotage other business.
-- By exposing 
+- All this meddling causes major fluctuations in the stock mar
