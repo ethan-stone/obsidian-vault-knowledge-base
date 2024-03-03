@@ -1,1 +1,1 @@
-Commissioner of [[The Sentinels]].
+Commissioner of [[The Sentinels]]. Deeply committed to her mission of cleaning up [[Etheria]]. However, her efforts are often hampered by political interference and the hidden influence of [[The Velvet Hand]].

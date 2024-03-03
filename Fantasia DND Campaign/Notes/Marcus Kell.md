@@ -1,0 +1,1 @@
+Head of the Detective Bureau of [[The Sentinels]]. A brilliant investigator with a knack for unraveling complex crimes. He's known for his unorthodox methods and his determination to bring criminals to justice, regardless of their social standing.

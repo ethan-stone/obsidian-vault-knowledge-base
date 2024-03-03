@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "e8bf2430ddd0cfac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5e03ee7a8638e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Helena Vargus.md",
+                "file": "Fantasia DND Campaign/Notes/Marcus Kell.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+                "file": "Fantasia DND Campaign/Notes/Marcus Kell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+                "file": "Fantasia DND Campaign/Notes/Marcus Kell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md"
+                "file": "Fantasia DND Campaign/Notes/Marcus Kell.md"
               }
             }
           },
@@ -183,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8bf2430ddd0cfac",
+  "active": "e5e03ee7a8638e91",
   "lastOpenFiles": [
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
-    "Fantasia DND Campaign/Notes/Area Sunspell.md",
-    "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/Marcus Kell.md",
+    "Fantasia DND Campaign/Notes/The Sentinels.md",
+    "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+    "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Notes/The Iron Circle.md",
     "Fantasia DND Campaign/Notes/The Neon Quarter.md",
     "Fantasia DND Campaign/Notes/The Ruby District.md",
-    "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/Celestria.md",
     "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Notes/Etheria.md",
