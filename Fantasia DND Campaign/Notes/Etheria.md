@@ -1,2 +1,2 @@
-#landmark 
+#city
 Capital of [[Celestria]].
