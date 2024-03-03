@@ -1,0 +1,1 @@
+An industrial zone on the outskirts, filled with facto
