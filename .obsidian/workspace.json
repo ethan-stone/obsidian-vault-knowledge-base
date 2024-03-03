@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Liberate Cleveland DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md"
+                "file": "Altania DND Campaign/Liberate Cleveland DND Campaign/Borf.md"
               }
             }
           },
@@ -158,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da74b9cb789c03c8",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Pasted image 20231212134157.png",
-    "Liberate Cleveland DND Campaign/Story so far.md",
-    "Liberate Cleveland DND Campaign/Borf.md",
+    "Untitled",
+    "Running/Pasted image 20231212134157.png",
+    "Altania DND Campaign/Liberate Cleveland DND Campaign/Story so far.md",
+    "Altania DND Campaign/Liberate Cleveland DND Campaign/Borf.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
     "Altania DND Campaign/Notes/Moonglow Keep.md",
     "Altania DND Campaign/Notes/Hermes Trundlefoot.md",
@@ -196,6 +197,6 @@
     "Running/Running Log",
     "Running Log/Untitled",
     "Running",
-    "Liberate Cleveland DND Campaign"
+    "Altania DND Campaign/Liberate Cleveland DND Campaign"
   ]
 }
