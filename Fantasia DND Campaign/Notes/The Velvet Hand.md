@@ -1,2 +1,2 @@
 #organization #gang
-A sophisticated gang that is more for hire than an independently moving organization. Whenever companies want to steal
+A sophisticated gang that is more for hire than an independently moving organization. Whenever companies want to steal from, spy on, or sabotage another company they go to The Velvet Hand.
