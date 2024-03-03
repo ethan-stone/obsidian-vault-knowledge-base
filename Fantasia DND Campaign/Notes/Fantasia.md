@@ -1,0 +1,1 @@
+A Las Vegas like city. Where most of the campaign will take place.
