@@ -1,0 +1,2 @@
+#character
+The leader of the Magical Affairs Unit of [[The Sentinels]], Lieutenant Sunspell is a skilled mage in her own right. She's dedicated to ensuring that magic is used responsibly in [[Etheria]] and to combating the misuse of magical powers and artifacts.
