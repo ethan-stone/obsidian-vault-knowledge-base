@@ -1,1 +1,2 @@
-An industrial zone on the outskirts, filled with facto
+#place
+An industrial zone on the outskirts, filled with factories and warehouses. It's vital part of the city's economy but is also known for being a hotbed of smuggling and illicit trade.
