@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altania DND Campaign/Notes/Achtneil.md",
+                "file": "Fantasia DND Campaign/Notes/Orialis.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wioefjw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altania DND Campaign/Notes/Achtneil.md",
+                "file": "Fantasia DND Campaign/Notes/Orialis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altania DND Campaign/Notes/Achtneil.md",
+                "file": "Fantasia DND Campaign/Notes/Orialis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altania DND Campaign/Notes/Achtneil.md"
+                "file": "Fantasia DND Campaign/Notes/Orialis.md"
               }
             }
           },
@@ -161,6 +160,8 @@
   },
   "active": "511277e236c438f9",
   "lastOpenFiles": [
+    "Altania DND Campaign/Notes/Achtneil.md",
+    "Fantasia DND Campaign/Notes/Orialis.md",
     "Fantasia DND Campaign/Untitled.md",
     "Fantasia DND Campaign/Notes",
     "Liberate Cleveland DND Campaign/Borf.md",
@@ -176,7 +177,6 @@
     "Altania DND Campaign/Notes/Gretchen Redwing.md",
     "Altania DND Campaign/Notes/Galpana.md",
     "Altania DND Campaign/Notes/Kitan Canyon.md",
-    "Altania DND Campaign/Notes/Achtneil.md",
     "Altania DND Campaign/Notes/Arisen One.md",
     "Altania DND Campaign/Notes/Bertrem Munchquick.md",
     "Altania DND Campaign/Notes/Blessed Flag Inn.md",
