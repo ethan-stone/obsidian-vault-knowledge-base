@@ -1,1 +1,1 @@
-Wife of [[Alexi Thorne]]. Maiden name was ""
+Wife of [[Alexi Thorne]]. Maiden name was "**Moreau**".
