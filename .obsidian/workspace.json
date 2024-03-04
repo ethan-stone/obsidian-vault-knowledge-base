@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md",
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md",
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md"
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md"
               }
             }
           },
@@ -193,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b406307db34a03f0",
+  "active": "bb095a29c9b08cbb",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/The Quest Hub.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
+    "Fantasia DND Campaign/Notes/The Quest Hub.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
