@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Quest Hub.md",
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Quest Hub.md",
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Quest Hub.md"
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b406307db34a03f0",
+  "active": "511277e236c438f9",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Sessions/Sessions 1.md",
     "Fantasia DND Campaign/Notes/Quest Hub.md",
+    "Fantasia DND Campaign/Sessions/Sessions 1.md",
     "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
     "Fantasia DND Campaign/Notes/Untitled.md",
