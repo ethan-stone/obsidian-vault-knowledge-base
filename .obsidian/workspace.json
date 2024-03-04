@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "aa2cc5bb8c59fe57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f34e2edad66ab6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb095a29c9b08cbb",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
+                "file": "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
+                "file": "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md"
+                "file": "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md"
               }
             }
           },
@@ -169,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "511277e236c438f9",
+  "active": "f34e2edad66ab6af",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Untitled.md",
+    "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
+    "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
     "Fantasia DND Campaign/Sessions/Sessions 1.md",
+    "Fantasia DND Campaign/Notes/Untitled.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes/Elia Galewind.md",
@@ -196,8 +223,6 @@
     "Fantasia DND Campaign/Notes/Marcus Kell.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
-    "Fantasia DND Campaign/Notes/Moonstone Casino.md",
-    "Fantasia DND Campaign/Notes/Orialis.md",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
     "Untitled",
