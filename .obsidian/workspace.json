@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee63edd041359218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Durnan Craghammer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md",
+                "file": "Durnan Craghammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md",
+                "file": "Durnan Craghammer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md"
+                "file": "Durnan Craghammer.md"
               }
             }
           },
@@ -158,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "511277e236c438f9",
+  "active": "ee63edd041359218",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/Untitled.md",
+    "Durnan Craghammer.md",
+    "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Notes/Marcus Kell.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
@@ -190,7 +204,6 @@
     "Running/Pasted image 20231212134157.png",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Altania DND Campaign/Notes/Millstone Farms.md",
-    "Altania DND Campaign/Notes/Moonglow Keep.md",
     "Altania DND Campaign/Notes/Untitled",
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
