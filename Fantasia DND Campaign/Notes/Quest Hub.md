@@ -1,1 +1,1 @@
-A hub where quest givers submit quests and pay a small fee to submit them. The hub then puts quests up for bidding each one for one minute, the one with the highest bid gets the quest. Each quest giver an adventurer has a unique medallion )
+A hub where quest givers submit quests and pay a small fee to submit them. The hub then puts quests up for bidding each one for one minute, the one with the highest bid gets the quest. Each quest giver an adventurer has a unique medallion (essentially a QR code).
