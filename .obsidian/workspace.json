@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb095a29c9b08cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md"
+                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md"
               }
             }
           },
@@ -157,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "511277e236c438f9",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+    "Fantasia DND Campaign/Notes/Elia Galewind.md",
+    "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Elias Drake.md",
     "Fantasia DND Campaign/Notes/Durnan Craghammer.md",
@@ -185,7 +199,6 @@
     "Altania DND Campaign/Notes/Achtneil.md",
     "Fantasia DND Campaign/Untitled.md",
     "Fantasia DND Campaign/Notes",
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Untitled 1",
     "Untitled",
     "Fantasia DND Campaign",
