@@ -1,3 +1,2 @@
 # Goals
-- Introduce player characters
-- 
+- Int
