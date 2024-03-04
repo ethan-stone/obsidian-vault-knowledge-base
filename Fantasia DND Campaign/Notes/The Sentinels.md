@@ -11,6 +11,7 @@ Specializes in crimes involving magic, including illegal spell casting, the use 
 ## Vice and Narcotics
 Focuses on the city's illegal drug trade and vice-related crimes, such as illegal gambling and prostitution.
 # Key Figures
-- Commissioner [[Helena Vargus]]
-- Captain [[Marcus Kell]]
-- Lieutenant [[Area Sunspell]]
+- Commissioner and captain of patrol division [[Helena Vargus]]
+- Captain of detective bureau [[Marcus Kell]]
+- Captain of magical affairs unit [[Area Sunspell]]
+- Captain of 
