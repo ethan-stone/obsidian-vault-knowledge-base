@@ -1,1 +1,3 @@
-Owner is [[Elia Galewind]]. A human known for her sharp business acumen and philanthropic efforts, particularly her efforts in improving working conditions in [[The Dust Bowl]].
+Owner is [[Elia Galewind]]. A human known for her sharp business acumen and philanthropic efforts, particularly her efforts in improving working conditions in [[The Dust Bowl]]. Business is mainly responsible for the following.
+- Producing a variety of textiles, from durable work clothes to luxurious fabrics.
+- Producing magicall
