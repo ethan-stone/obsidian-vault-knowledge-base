@@ -14,4 +14,4 @@ Focuses on the city's illegal drug trade and vice-related crimes, such as illega
 - Commissioner and captain of patrol division [[Helena Vargus]]
 - Captain of detective bureau [[Marcus Kell]]
 - Captain of magical affairs unit [[Area Sunspell]]
-- Captain of 
+- Captain of vice and narcotics [[Elias Drake]]
