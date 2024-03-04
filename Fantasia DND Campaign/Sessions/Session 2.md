@@ -1,2 +1,2 @@
 - Players take off to find stolen goods. Should prepare some combat just in case. Ideally player do not just kill the people who stole the goods.
-- After retrieving the goods [[Serena Lightfoot]] is impressed and 
+- After retrieving the goods [[Serena Lightfoot]] is impressed and decides to introduce them to [[Alexi Thorne]]. She has nothing but good things to say about him. She goes into how he's helped many smaller businesses
