@@ -1,3 +1,3 @@
 # Goals
-- Introduce characters
+- Introduce player characters
 - 
