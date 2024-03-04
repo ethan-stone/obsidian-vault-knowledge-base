@@ -1,1 +1,1 @@
-Owner is [[Elia Galewind]]. A human known for her sharp business acumen and philanthropic efforts, particularly her efforts in improving working conditions
+Owner is [[Elia Galewind]]. A human known for her sharp business acumen and philanthropic efforts, particularly her efforts in improving working conditions in [[The Dust Bowl]].
