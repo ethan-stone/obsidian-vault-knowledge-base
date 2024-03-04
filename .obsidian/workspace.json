@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md"
+                "file": "Fantasia DND Campaign/Sessions/Sessions 1.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "511277e236c438f9",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Elia Galewind.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
+    "Fantasia DND Campaign/Sessions/Sessions 1.md",
+    "Fantasia DND Campaign/Sessions",
+    "Fantasia DND Campaign/Notes/Elia Galewind.md",
     "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Elias Drake.md",
@@ -196,7 +198,6 @@
     "Fantasia DND Campaign/Notes/Moonstone Casino.md",
     "Fantasia DND Campaign/Notes/Orialis.md",
     "Altania DND Campaign/Notes/Achtneil.md",
-    "Fantasia DND Campaign/Untitled.md",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
     "Untitled",
@@ -207,7 +208,6 @@
     "Altania DND Campaign/Notes",
     "Altania DND Campaign",
     "DSA Notes/Untitled",
-    "DSA Notes",
-    "Running/Running Log/Untitled"
+    "DSA Notes"
   ]
 }
