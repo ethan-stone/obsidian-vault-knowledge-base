@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
+                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md",
+                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Elia Galewind.md"
+                "file": "Fantasia DND Campaign/Notes/Galewind Textiles.md"
               }
             }
           },
@@ -170,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "511277e236c438f9",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/Elia Galewind.md",
+    "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Elias Drake.md",
