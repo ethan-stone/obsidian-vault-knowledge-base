@@ -1,0 +1,1 @@
+A hub where quest givers submit quests and pay a small fee to submit them. The hub then puts quests up for bidding each one for on
