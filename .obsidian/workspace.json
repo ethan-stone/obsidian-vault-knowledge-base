@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
+                "file": "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
+                "file": "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md"
+                "file": "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md"
               }
             }
           },
@@ -170,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc3cf38583862386",
+  "active": "a54c4bd3b7c7e2e3",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
+    "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "Fantasia DND Campaign/Notes/Shield and Saber.md",
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
