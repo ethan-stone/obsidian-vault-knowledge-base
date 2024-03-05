@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md",
+                "file": "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc3cf38583862386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md",
+                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md",
+                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Untitled.md"
+                "file": "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md"
               }
             }
           },
@@ -157,9 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a54c4bd3b7c7e2e3",
+  "active": "cc3cf38583862386",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Untitled.md",
+    "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
+    "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
     "Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "Fantasia DND Campaign/Notes/Shield and Saber.md",
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
@@ -184,7 +198,6 @@
     "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Durnan Craghammer.md",
-    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
