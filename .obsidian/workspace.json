@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Shield and Saber.md",
+                "file": "Fantasia DND Campaign/Notes/Karl Ironhand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Shield and Saber.md",
+                "file": "Fantasia DND Campaign/Notes/Karl Ironhand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Shield and Saber.md"
+                "file": "Fantasia DND Campaign/Notes/Karl Ironhand.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b406307db34a03f0",
+  "active": "71215817e8ebe99f",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "Fantasia DND Campaign/Notes/Shield and Saber.md",
+    "Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "Fantasia DND Campaign/Notes/Elia Galewind.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
