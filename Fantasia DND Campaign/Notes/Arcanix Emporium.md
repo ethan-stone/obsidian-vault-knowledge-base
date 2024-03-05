@@ -1,1 +1,2 @@
+#place #business 
 Owned by [[Varis Nightbloom]]. A franchise of stores offering a wide range of magical items, potions, and arcane supplies, catering to both novice practitioners and seasoned mages.
