@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Enzlo.md",
+                "file": "Fantasia DND Campaign/Tools/Kobold Plus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Enzlo.md",
+                "file": "Fantasia DND Campaign/Tools/Kobold Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Enzlo.md",
+                "file": "Fantasia DND Campaign/Tools/Kobold Plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Enzlo.md"
+                "file": "Fantasia DND Campaign/Tools/Kobold Plus.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "e2241141258d4ae7",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
     "Fantasia DND Campaign/Notes/Enzlo.md",
+    "Fantasia DND Campaign/Tools/Kobold Plus.md",
+    "Fantasia DND Campaign/Tools",
+    "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
     "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
@@ -184,7 +186,6 @@
     "Fantasia DND Campaign/Notes/The Furnace.md",
     "Fantasia DND Campaign/Notes/The Iron Circle.md",
     "Fantasia DND Campaign/Notes/The Neon Quarter.md",
-    "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
@@ -195,7 +196,6 @@
     "Untitled.canvas",
     "Altania DND Campaign/Notes",
     "Altania DND Campaign",
-    "DSA Notes/Untitled",
-    "DSA Notes"
+    "DSA Notes/Untitled"
   ]
 }
