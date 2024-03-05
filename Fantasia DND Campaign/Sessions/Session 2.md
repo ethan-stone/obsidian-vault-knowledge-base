@@ -1,4 +1,4 @@
 - Players take off to find stolen goods. Should prepare some combat just in case. Ideally player do not just kill the people who stole the goods.
 - After retrieving the goods [[Serena Lightfoot]] is impressed and decides to introduce them to [[Alexi Thorne]]. She has nothing but good things to say about him. She goes into how he's helped many smaller businesses that were struggling and he even covered the fee to submit the quest to the [[The Quest Hub]].
 - They meet [[Alexi Thorne]], and he says he is looking for a long term partnership to help out. If they ever need work then they can come to him. He also recommends trying to find quests offered by [[The Sentinels]]. Doesn't hurt to be on their good side, could open up a lot of doors.
-- Should give the players the option to go back to the [[The Quest Hub]] to look for more quests or nudge Madi's character to introduce the party to [[Deephaven (Aka The Nether)]], 
+- Should give the players the option to go back to the [[The Quest Hub]] to look for more quests or nudge Madi's character to introduce the party to [[Deephaven (Aka The Nether)]].
