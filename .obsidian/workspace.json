@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md",
+                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md",
+                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md"
+                "file": "Fantasia DND Campaign/Notes/The Veiled Eye.md"
               }
             }
           },
@@ -194,12 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb095a29c9b08cbb",
+  "active": "b406307db34a03f0",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Notes/Elia Galewind.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/The Quest Hub.md",
-    "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
