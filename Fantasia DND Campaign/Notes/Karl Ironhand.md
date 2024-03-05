@@ -1,0 +1,1 @@
+Owner of [[Shield and Saber]].

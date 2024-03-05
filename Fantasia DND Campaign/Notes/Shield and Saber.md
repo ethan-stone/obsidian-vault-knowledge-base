@@ -1,2 +1,2 @@
 #place #business 
-Owned by [[Karl Ironhand]].
+Owned by [[Karl Ironhand]]. 
