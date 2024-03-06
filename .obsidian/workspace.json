@@ -141,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2241141258d4ae7",
+  "active": "6a65a34a905a2696",
   "lastOpenFiles": [
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Borf.md",
