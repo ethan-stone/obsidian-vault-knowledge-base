@@ -2,7 +2,7 @@
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
-- Level - 5
+- Level - 6
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d8 (4)
