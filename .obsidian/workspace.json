@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Altania DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md"
+                "file": "Altania DND Campaign/Borf.md"
               }
             }
           },
@@ -158,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a65a34a905a2696",
+  "active": "e2241141258d4ae7",
   "lastOpenFiles": [
-    "Liberate Cleveland DND Campaign/Story so far.md",
+    "Altania DND Campaign/Notes.md",
+    "Altania DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Borf.md",
+    "Liberate Cleveland DND Campaign/Story so far.md",
     "Fantasia DND Campaign/Tools/Kobold Plus.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
@@ -185,8 +187,6 @@
     "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "Fantasia DND Campaign/Notes/Shield and Saber.md",
-    "Fantasia DND Campaign/Notes/The Golden Grin.md",
-    "Fantasia DND Campaign/Notes/The Furnace.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
