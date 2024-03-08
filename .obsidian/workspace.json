@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27cdcee08c195a34",
+        "id": "86b75a02f9408cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "e2241141258d4ae7",
+            "id": "36a80172094d9881",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2241141258d4ae7",
+  "active": "36a80172094d9881",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Tools/Monsters.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Tools/Kobold Plus.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
@@ -187,7 +180,6 @@
     "Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
     "Fantasia DND Campaign/Notes/The Sentinels.md",
-    "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
