@@ -11,8 +11,12 @@
             "id": "36a80172094d9881",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fantasia DND Campaign/Notes/Etheria.md"
+              }
             }
           },
           {
@@ -153,9 +161,17 @@
   },
   "active": "36a80172094d9881",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Tools/Monsters.md",
-    "Fantasia DND Campaign/Sessions/Session 1.md",
+    "Fantasia DND Campaign/Notes/Fantasia.md",
+    "Fantasia DND Campaign/Tools/Inkarnate.md",
     "Fantasia DND Campaign/Tools/Kobold Plus.md",
+    "Fantasia DND Campaign/Tools/Monsters.md",
+    "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
+    "Fantasia DND Campaign/Notes/Orialis.md",
+    "Fantasia DND Campaign/Notes/Shield and Saber.md",
+    "Fantasia DND Campaign/Notes/The Furnace.md",
+    "Fantasia DND Campaign/Notes/The Neon Quarter.md",
+    "Fantasia DND Campaign/Notes/The Ruby District.md",
+    "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
@@ -172,14 +188,6 @@
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
-    "Fantasia DND Campaign/Notes/Isabella Thorne.md",
-    "Fantasia DND Campaign/Notes/Moonstone Casino.md",
-    "Fantasia DND Campaign/Notes/Orialis.md",
-    "Fantasia DND Campaign/Notes/Helena Vargus.md",
-    "Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
-    "Fantasia DND Campaign/Notes/Karl Ironhand.md",
-    "Fantasia DND Campaign/Notes/Lantern's Light Inn and Tavern.md",
-    "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
