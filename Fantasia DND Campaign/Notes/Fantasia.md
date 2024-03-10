@@ -3,3 +3,5 @@ A Las Vegas like city. Where most of the first arc of the campaign will take pla
 - [[The Furnace]]. The industrial area.
 - [[The Neon Quarter]]. The main area for night life.
 - [[The Ruby District]]. The main district for business.
+- [[Deephaven (Aka The Nether)]]. Underground area where less fortunate live. Very crime ridden.
+- 
