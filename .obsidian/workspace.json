@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md",
+                "file": "Fantasia DND Campaign/Tools/Monsters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md",
+                "file": "Fantasia DND Campaign/Tools/Monsters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md",
+                "file": "Fantasia DND Campaign/Tools/Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md"
+                "file": "Fantasia DND Campaign/Tools/Monsters.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "36a80172094d9881",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Pheonix Hills.md",
     "Fantasia DND Campaign/Notes/The Neon Quarter.md",
-    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Tools/Inkarnate.md",
     "Fantasia DND Campaign/Tools/Kobold Plus.md",
