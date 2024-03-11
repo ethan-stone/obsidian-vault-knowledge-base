@@ -1,0 +1,1 @@
+Area in [[Fantasia]]. It is where the most wealthy people live. Gated communities, mansions/villas, etc.
