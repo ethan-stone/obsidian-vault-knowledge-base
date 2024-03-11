@@ -10,13 +10,18 @@
 - Max Hit Points 18
 - Hit Points 18
 - Speed 40
-## Skills
+## Stats
 - Strength 12 (+1)
 - Dexterity 17 (+3)
 - Constitution 12 (+1)
 - Intelligence 10 (+0)
 - Wisdom 13 (+1)
 - Charisma 11 (+0)
-- 
+## Skills
+- Perception (+3)
+- Stealth (+5)
+- Passive Perception 13
+## Actions
+- B
 ## Keen Hearing and Smell
 - Advantage on Wisdom (Perception) checks that rely on hearing or smell.
