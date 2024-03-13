@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "86b75a02f9408cf2",
+        "id": "db68ab0a7cecebcd",
         "type": "tabs",
         "children": [
           {
-            "id": "36a80172094d9881",
+            "id": "b6334752958174d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a80172094d9881",
+  "active": "b6334752958174d0",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Tools/Monsters.md",
     "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Pheonix Hills.md",
@@ -173,7 +166,6 @@
     "Fantasia DND Campaign/Notes/Shield and Saber.md",
     "Fantasia DND Campaign/Notes/The Furnace.md",
     "Fantasia DND Campaign/Notes/The Ruby District.md",
-    "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
