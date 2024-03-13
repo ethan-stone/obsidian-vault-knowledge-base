@@ -222,7 +222,6 @@ If the target is a creature, everything it is wearing and carrying changes size 
 **_Enlarge._** The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category – from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attack with them deal 1d4 extra damage.
 
 **_Reduce._** The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category – from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
-
 ### Kinetic Jaunt
 **Casting Time:** 1 bonus action  
 **Range:** Self  
@@ -236,7 +235,6 @@ You magically empower your movement with dancelike steps, giving yourself the fo
 - You don't provoke opportunity attacks.
 
 - You can move through the space of another creature, and it doesn't count as difficult terrain. If you end your turn in another creature's space, you are shunted to the last unoccupied space you occupied, and you take 1d8 force damage.
-
 ## Level 3
 Spell Slots - 3
 Spell Slots Used - 0
