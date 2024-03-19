@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banking/Untitled.md",
+                "file": "Banking/Offices.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "d9a0f28afbe561f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banking/Untitled.md",
+                "file": "Banking/Offices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banking/Untitled.md",
+                "file": "Banking/Offices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banking/Untitled.md"
+                "file": "Banking/Offices.md"
               }
             }
           },
@@ -160,9 +168,10 @@
   },
   "active": "b6334752958174d0",
   "lastOpenFiles": [
-    "Banking/Core Banking System.md",
-    "Banking/Untitled.md",
     "Banking/Apache Fineract.md",
+    "Banking/Offices.md",
+    "Banking/Core Banking System.md",
+    "Banking/Monetary Financial Institution.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Banking",
     "Fantasia DND Campaign/Sessions/Session 1.md",
@@ -187,7 +196,6 @@
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Fantasia DND Campaign/Notes/Enzlo.md",
     "Fantasia DND Campaign/Tools",
-    "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
