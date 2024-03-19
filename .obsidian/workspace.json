@@ -18,14 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9a0f28afbe561f9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -168,8 +160,8 @@
   },
   "active": "b6334752958174d0",
   "lastOpenFiles": [
-    "Banking/Apache Fineract.md",
     "Banking/Offices.md",
+    "Banking/Apache Fineract.md",
     "Banking/Core Banking System.md",
     "Banking/Monetary Financial Institution.md",
     "Liberate Cleveland DND Campaign/Borf.md",
