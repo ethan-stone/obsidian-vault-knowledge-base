@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banking/Core Banking System.md",
+                "file": "Banking/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banking/Core Banking System.md",
+                "file": "Banking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banking/Core Banking System.md",
+                "file": "Banking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banking/Core Banking System.md"
+                "file": "Banking/Untitled.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "b6334752958174d0",
   "lastOpenFiles": [
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Banking/Core Banking System.md",
+    "Banking/Untitled.md",
+    "Banking/Apache Fineract.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
     "Banking",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Tools/Monsters.md",
@@ -186,8 +188,6 @@
     "Fantasia DND Campaign/Notes/Enzlo.md",
     "Fantasia DND Campaign/Tools",
     "Fantasia DND Campaign/Notes/Area Sunspell.md",
-    "Fantasia DND Campaign/Notes/Varis Nightbloom.md",
-    "Fantasia DND Campaign/Notes/Tilda Merryweather.md",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
     "Untitled 1",
