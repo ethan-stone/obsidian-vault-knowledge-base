@@ -39,3 +39,7 @@ Sea captain Sherry Seaworth expensive boat
 Donny Warfman and the Cannoneer
 
 Old no-eyes cheap raft
+
+Figure out how to take care of future child
+
+Get her address
