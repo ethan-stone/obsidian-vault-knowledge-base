@@ -1,1 +1,2 @@
-- [ ] Get address of Sherry and say 
+- [ ] Get address of Sherry and say Borf has a bad feeling of getting her pregnant, so get address to sent child support.
+- [ ] Also let her know about the decease. Ask her last time she got checked.
