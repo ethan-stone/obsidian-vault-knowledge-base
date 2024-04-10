@@ -166,7 +166,6 @@ You create a Tiny incorporeal hand of shimmering light in an unoccupied space yo
 When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you. Someone in history must have visited the site and mapped it. If the landmark appears on no map in existence, the spell fails. Otherwise, whenever you move toward the hand, it moves away from you at the same speed you moved, and it moves in the direction of the landmark, always remaining 5 feet away from you.
 
 If you don’t move toward the hand, it remains in place until you do and beckons for you to follow once every 1d4 minutes.****
-
 ### Unseen Servant
 **Casting Time:** 1 action  
 **Range:** 60 feet  
