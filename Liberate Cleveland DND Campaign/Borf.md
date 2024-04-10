@@ -86,6 +86,8 @@
 - Dagger
 	- Attack Bonus - (+5)
 	- Damage - 1d4 + 5 Piercing
+- Battlehax
+	- Attack Bonus -
 - Musket
 - Flintlock
 # Spells
