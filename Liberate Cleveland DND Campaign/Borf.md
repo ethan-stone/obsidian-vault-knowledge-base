@@ -137,7 +137,7 @@ This spell can physically repair a magic item or construct, but the spell can’
 **Components:** V, S  
 **Duration:** Up to 1 hour
 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
+This spell is a minor magical trick that novice spell casters use for practice. You create one of the following magical effects within range:
 
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
 
