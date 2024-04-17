@@ -6,7 +6,8 @@
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d8
-	- 
+	- Max - 4
+	- Have - 4
 - Dark Vision - 60ft
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
@@ -36,6 +37,8 @@
 - Max HP - 46
 - HP - 1
 - Hit Dice - 1d8
+	- Max - 7
+	- Have - 7
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+6)^
