@@ -5,7 +5,8 @@
 - Level - 7
 - Background - Gladiator
 - Alignment - Chaotic Neutral
-- Bardic Inspiration - 1d8 (4) (3)
+- Bardic Inspiration - 1d8
+	- 
 - Dark Vision - 60ft
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
