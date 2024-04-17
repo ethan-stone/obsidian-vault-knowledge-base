@@ -80,7 +80,7 @@
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
-	- 
+	- All unarmed attacks are considered 
 - Handaxe
 	- Attack Bonus - (+5)
 	- Damage - 1d6 + 5 Slashing
