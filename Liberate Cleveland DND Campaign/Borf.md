@@ -100,7 +100,7 @@
 - Spell DC - 15
 - Spell Attack Mod - 7
 ## Bones of the Earth at 9th Level Once a Day
-- Is Used - Yes
+- Is Used - No
 **Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S  
@@ -279,7 +279,7 @@ A _[remove curse](http://dnd5e.wikidot.com/spell:remove-curse)_ spell ends thi
 **_At Higher Levels._** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
 ## Level 4
 Spell Slots - 1
-Spell Slots Used - 1
+Spell Slots Used - 0
 ### Dimension Door
 **Casting Time:** 1 action  
 **Range:** 500 feet  
