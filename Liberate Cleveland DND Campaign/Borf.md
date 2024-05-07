@@ -119,15 +119,15 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
 ## Cantrips
 - Known - 3
-### Vicious Mockery
+### Vicious Thun
 **Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** V  
+**Range:** Self (5-foot radius)  
+**Components:** S  
 **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+You create a burst of thunderous sound, which can be heard 100 feet away. Each creature other than you within 5 feet of you must make a Constitution saving throw. On a failed save, the creature takes 1d6 thunder damage.
 
-**_At Higher Levels._** This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+**_At Higher Levels._** The spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 ### Mending
 **Casting Time:** 1 minute  
 **Range:** Touch  
