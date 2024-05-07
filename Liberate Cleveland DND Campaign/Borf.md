@@ -1,4 +1,5 @@
 ^ = proficient
+^^ = expertise
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
@@ -29,7 +30,7 @@
 - Constitution - 18 (+4)
 - Intelligence - 10 (+0)
 - Wisdom - 14 (+2)
-- Charsima - 18 (+4)
+- Charsima - 20 (+5)
 - Passive Wisdom - 11
 - Armor Class - 15
 - Initiative - (+3)
@@ -45,7 +46,7 @@
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+7)^
+- Charisma - (+8)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
@@ -54,13 +55,13 @@
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+7)^
+- Intimidation - (+8)^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
 - Perception (+2)
-- Performance - (+10)^^
-- Persuasion - (+10)^^
+- Performance - (+11)^^
+- Persuasion - (+11)^^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
