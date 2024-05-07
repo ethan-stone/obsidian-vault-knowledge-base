@@ -293,6 +293,7 @@ You can bring along objects as long as their weight doesn’t exceed what you ca
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
+### Phantasmal Ki
 # Bard College of Glamour
 ## Mantle of Inspiration
 When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
