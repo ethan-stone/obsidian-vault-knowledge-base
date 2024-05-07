@@ -98,7 +98,7 @@
 - Musket
 - Flintlock
 # Spells
-- Spell DC - 15
+- Spell DC - 16
 - Spell Attack Mod - 7
 ## Bones of the Earth at 9th Level Once a Day
 - Is Used - No
