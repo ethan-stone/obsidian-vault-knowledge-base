@@ -162,17 +162,15 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 ## Level 1
 - Spell Slots - 4
 - Spell Slots Used - 0
-### Guiding Hand
-**Casting Time:** 1 minute  
-**Range:** 5 feet  
+### Detect Magic
+**Casting Time:** 1 action  
+**Range:** Self  
 **Components:** V, S  
-**Duration:** Concentration, up to 8 hours
+**Duration:** Concentration, up to 10 minutes
 
-You create a Tiny incorporeal hand of shimmering light in an unoccupied space you can see within range. The hand exists for the duration, but it disappears if you teleport or you travel to a different plane of existence.
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
-When the hand appears, you name one major landmark, such as a city, mountain, castle, or battlefield on the same plane of existence as you. Someone in history must have visited the site and mapped it. If the landmark appears on no map in existence, the spell fails. Otherwise, whenever you move toward the hand, it moves away from you at the same speed you moved, and it moves in the direction of the landmark, always remaining 5 feet away from you.
-
-If you don’t move toward the hand, it remains in place until you do and beckons for you to follow once every 1d4 minutes.****
+The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.****
 ### Unseen Servant
 **Casting Time:** 1 action  
 **Range:** 60 feet  
