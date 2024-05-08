@@ -50,4 +50,4 @@ Borf Butt Toucher Dirty Eye Mchaggison
 
 Henrietta Mchaggison from Stormhold
 
-Stormhold hold has been under attack from fish people and is about to fall
+Stormhold hold has been under attack from  from the under dark and is about to fall
