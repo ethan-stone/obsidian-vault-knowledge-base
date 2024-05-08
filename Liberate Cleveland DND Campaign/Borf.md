@@ -193,17 +193,15 @@ If you command the servant to perform a task that would move it more than 60 fee
 You cause a tremor in the ground in a 10-foot radius. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
-### Color Spray
+### Tasha's Hideous Laughter
 **Casting Time:** 1 action  
-**Range:** Self (15-foot cone)  
-**Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)  
-**Duration:** 1 round
+**Range:** 30 feet  
+**Components:** V, S, M (tiny tarts and a feather that is waved in the air)  
+**Duration:** Concentration, up to 1 minute
 
-A dazzling array of flashing, colored light springs from your hand. Roll 6d10, the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn’t affected.
 
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for the creature to be affected.
-
-**_At Higher Levels._** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
+At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 ## Level 2
 Spell Slots - 3
 Spell Slots Used - 0
