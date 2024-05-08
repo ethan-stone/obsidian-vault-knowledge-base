@@ -48,4 +48,6 @@ Thunder chief Harilton Mchagison (something) is leader of the vikings.
 
 Borf Butt Toucher Dirty Eye Mchaggison
 
-Henrietta Mchaggison from storm hold
+Henrietta Mchaggison from Stormhold
+
+Stormhold hold has been under attack from fish people and is about to fall
