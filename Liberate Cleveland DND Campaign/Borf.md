@@ -163,7 +163,7 @@ This spell is a minor magical trick that novice spell casters use for practice. 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
 - Spell Slots - 4
-- Spell Slots Used - 0
+- Spell Slots Used - 1
 ### Detect Magic
 **Casting Time:** 1 action  
 **Range:** Self  
