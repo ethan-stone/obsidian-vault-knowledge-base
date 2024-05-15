@@ -52,4 +52,4 @@ Henrietta Mchaggison from Stormhold
 
 Stormhold hold has been under attack from Kua-toa (fish people) from the under dark and is about to fall
 
-Glockensheer is the 6ft dwarf in charge of Stormhold
+Glockenshire is the 6ft dwarf in charge of Stormhold
