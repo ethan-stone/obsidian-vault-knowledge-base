@@ -52,4 +52,4 @@ Henrietta Mchaggison from Stormhold
 
 Stormhold hold has been under attack from Kua-toa (fish people) from the under dark and is about to fall
 
-Glargamaharganshire is the 6ft dwarf in charge of Stormhold
+Glargamahargenshire is the 6ft dwarf in charge of Stormhold
