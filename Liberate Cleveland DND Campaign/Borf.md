@@ -87,6 +87,7 @@
 - 10 pounds ale
 - Bram has boom boom potion
 - Cheese the Greater
+- Ring of Water Walking
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
