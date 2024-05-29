@@ -88,7 +88,7 @@
 - Bram has boom boom potion
 - Cheese the Greater (really good parmaseano regiano)
 - Ring of Water Walking (summons walking water paints)
-- Cantrip (a can full of random stuff)
+- Cantrip (a can full of random stuff to make people trip)
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
