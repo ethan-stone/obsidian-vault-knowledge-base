@@ -86,8 +86,8 @@
 - 10 pounds mutton
 - 10 pounds ale
 - Bram has boom boom potion
-- Cheese the Greater (really good )
-- Ring of Water Walking
+- Cheese the Greater (really good parmaseano regiano)
+- Ring of Water Walking (summons walking water paints)
 - Cantrip (a can full of random stuff)
 # Weapons
 - Wraps of Unarmed Prowess
