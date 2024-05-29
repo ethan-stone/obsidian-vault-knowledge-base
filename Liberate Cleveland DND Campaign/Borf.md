@@ -104,6 +104,8 @@
 # Spells
 - Spell DC - 16
 - Spell Attack Mod - 7
+# Blessing of Magic Resistance
+You have advantage on saving throws against spells and other magical effects.
 ## Bones of the Earth at 9th Level Once a Day
 - Is Used - No
 **Casting Time:** 1 action  
