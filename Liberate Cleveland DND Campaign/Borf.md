@@ -86,9 +86,9 @@
 - 10 pounds mutton
 - 10 pounds ale
 - Bram has boom boom potion
-- Cheese the Greater
+- Cheese the Greater (really good )
 - Ring of Water Walking
-- Cantrip
+- Cantrip (a can full of random stuff)
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
