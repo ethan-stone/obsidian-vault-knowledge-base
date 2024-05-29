@@ -85,6 +85,7 @@
 - 2 hydra balls
 - 10 pounds mutton
 - 10 pounds ale
+- Bram has boom boom potion
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
