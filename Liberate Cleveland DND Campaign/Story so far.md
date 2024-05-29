@@ -9,8 +9,8 @@ Svexlana Goldenstein queen of the land. Father killed by goblin five years ago.
 Baron Draxon Greenscales baron to the north. He is the green dragonborne working with the goblins.
 
 Golden Barley inn is where we can find the baron
-
-Diamond fang filled King Ron Goldenstein
+[[
+]]Diamond fang filled King Ron Goldenstein
 
 Gary is tall human that manages the Golden Barley inn
 
