@@ -25,10 +25,10 @@
 - Bell of the Whale. I now have a nemesis but get very clear direction of my biggest goal.
 # Stats
 - Proficiency Bonus - (+3)
-- Strength - 15 (+2)
+- Strength - 16 (+3)
 - Dexterity - 17 (+3)
 - Constitution - 18 (+4)
-- Intelligence - 10 (+0)
+- Intelligence - 9 (-1)
 - Wisdom - 14 (+2)
 - Charsima - 20 (+5)
 - Passive Wisdom - 11
