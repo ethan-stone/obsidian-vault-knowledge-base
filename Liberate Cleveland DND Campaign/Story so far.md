@@ -9,8 +9,8 @@ Svexlana Goldenstein queen of the land. Father killed by goblin five years ago.
 Baron Draxon Greenscales baron to the north. He is the green dragonborne working with the goblins.
 
 Golden Barley inn is where we can find the baron
-[[
-]]Diamond fang filled King Ron Goldenstein
+
+Diamond fang filled King Ron Goldenstein
 
 Gary is tall human that manages the Golden Barley inn
 
@@ -54,4 +54,6 @@ Stormhold hold has been under attack from Kua-toa (fish people) from the under d
 
 Glargamahargenshire is the 6ft dwarf in charge of Stormhold.
 
-The Kua-toa are currently worshipping ME under Enthralling Performance.
+The Kua-toa are currently worshipping ME under Enthralling Performance. I have a symbol
+
+I have a symbol for the Kua-toa and 
