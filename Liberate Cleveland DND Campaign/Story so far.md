@@ -54,6 +54,4 @@ Stormhold hold has been under attack from Kua-toa (fish people) from the under d
 
 Glargamahargenshire is the 6ft dwarf in charge of Stormhold.
 
-The Kua-toa are currently worshipping ME under Enthralling Performance. I have a symbol
-
-I have a symbol for the Kua-toa and 
+The Kua-toa are currently worshipping ME under Enthralling Performance. I have a symbol that is me on a cross with drum sticks.
