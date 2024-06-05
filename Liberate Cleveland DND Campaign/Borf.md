@@ -23,11 +23,12 @@
 - Free +5 to any roll
 - Now have a GTD (Goblin Transmitted Disease)
 - Bell of the Whale. I now have a nemesis but get very clear direction of my biggest goal.
+- Blessing of Health
 # Stats
 - Proficiency Bonus - (+3)
 - Strength - 16 (+3)
 - Dexterity - 17 (+3)
-- Constitution - 20 (+6)
+- Constitution - 20 (+5) (Blessing of Health)
 - Intelligence - 9 (-1)
 - Wisdom - 14 (+2)
 - Charsima - 20 (+5)
