@@ -83,7 +83,7 @@
 - Disguise kit
 - Magic drumsticks
 - Big Hat Farms pin to teleport back to Big Hart Farms at any point
-- 2 hydra balls
+- 1 hydra balls
 - 10 pounds mutton
 - 10 pounds ale
 - Bram has boom boom potion
