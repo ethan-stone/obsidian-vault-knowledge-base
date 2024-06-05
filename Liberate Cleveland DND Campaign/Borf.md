@@ -27,7 +27,7 @@
 - Proficiency Bonus - (+3)
 - Strength - 16 (+3)
 - Dexterity - 17 (+3)
-- Constitution - 18 (+4)
+- Constitution - 20 (+6)
 - Intelligence - 9 (-1)
 - Wisdom - 14 (+2)
 - Charsima - 20 (+5)
