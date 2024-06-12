@@ -70,7 +70,7 @@
 # Equipment
 - Copper - 145
 - Silver - 57
-- Gold - 157
+- Gold - 7
 - Platinum - 0
 - Leather Armor
 - Entertainers Pack
@@ -94,12 +94,9 @@
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
 	- All unarmed attacks are considered magical
-- Handaxe
+- Battle axe
 	- Attack Bonus - (+5)
-	- Damage - 1d6 + 5 Slashing
-- Dagger
-	- Attack Bonus - (+5)
-	- Damage - 1d4 + 5 Piercing
+	- Damage - 1d8 + 5 Slashing, 1d10 two handed
 - Battle axe
 	- Attack Bonus - (+5)
 	- Damage - 1d8 + 5 Slashing, 1d10 two handed
