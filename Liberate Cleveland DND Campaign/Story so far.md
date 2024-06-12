@@ -57,3 +57,5 @@ Glargamahargenshire is the 6ft dwarf in charge of Stormhold.
 The Kua-toa are currently worshipping ME under Enthralling Performance. I have a symbol that is me on a cross with drum sticks.
 
 Queep is the owner of Things and Things.
+
+We have a squid ship called The Whiteclaw.
