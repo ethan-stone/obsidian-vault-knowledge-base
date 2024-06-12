@@ -87,7 +87,7 @@
 - 10 pounds mutton
 - 10 pounds ale
 - Bram has boom boom potion
-- Cheese the Greater (really good parmaseano regiano)
+- Cheese the Greater (really good parmigiano reggiano)
 - Ring of Water Walking (summons walking water paints)
 - Cantrip (a can full of random stuff to make people trip)
 # Weapons
@@ -97,9 +97,9 @@
 - Battle axe
 	- Attack Bonus - (+5)
 	- Damage - 1d8 + 5 Slashing, 1d10 two handed
-- Battle axe
-	- Attack Bonus - (+5)
-	- Damage - 1d8 + 5 Slashing, 1d10 two handed
+- Warhammer
+	- Attack Bonus - (+6)
+	- Damage - 1d8 + 6 Slashing, 1d10 two handed
 - Musket
 - Flintlock
 # Spells
