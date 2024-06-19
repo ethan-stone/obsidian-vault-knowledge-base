@@ -59,3 +59,5 @@ The Kua-toa are currently worshipping ME under Enthralling Performance. I have a
 Queep is the owner of Things and Things.
 
 We have a squid ship called The Whiteclaw.
+
+Found another amulet labeled The Lord of the Sea.
