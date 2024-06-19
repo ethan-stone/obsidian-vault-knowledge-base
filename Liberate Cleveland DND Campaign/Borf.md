@@ -37,7 +37,7 @@
 - Initiative - (+3)
 - Speed - 25
 - Max HP - 71
-- HP - 71
+- HP - 52
 - Hit Dice - 1d8
 	- Max - 8
 	- Have - 6
