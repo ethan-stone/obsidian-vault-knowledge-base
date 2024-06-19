@@ -60,4 +60,4 @@ Queep is the owner of Things and Things.
 
 We have a squid ship called The Whiteclaw.
 
-Found another amulet labeled The Lord of the Sea.
+Found another amulet labeled The Lord of the Sea on Ash Lady.
