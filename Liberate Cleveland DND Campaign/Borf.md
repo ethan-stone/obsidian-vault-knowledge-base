@@ -26,7 +26,7 @@
 - Blessing of Health
 # Stats
 - Proficiency Bonus - (+3)
-- Strength - 16 (+3)
+- Strength - 18 (+4)
 - Dexterity - 17 (+3)
 - Constitution - 20 (+5) (Blessing of Health)
 - Intelligence - 9 (-1)
