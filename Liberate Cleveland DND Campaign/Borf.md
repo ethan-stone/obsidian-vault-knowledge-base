@@ -3,7 +3,7 @@
 # Basic Characteristics
 - Class - Bard
 - Race - Mountain Dwarf
-- Level - 8
+- Level - 9
 - Background - Gladiator
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d8
@@ -25,7 +25,7 @@
 - Bell of the Whale. I now have a nemesis but get very clear direction of my biggest goal.
 - Blessing of Health
 # Stats
-- Proficiency Bonus - (+3)
+- Proficiency Bonus - (+4)
 - Strength - 18 (+4)
 - Dexterity - 17 (+3)
 - Constitution - 20 (+5) (Blessing of Health)
@@ -43,7 +43,7 @@
 	- Have - 6
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+6)^
+- Dexterity - (+7)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
@@ -306,7 +306,7 @@ The target must make a Wisdom saving throw. On a failed save, the target becomes
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 # Level 5
-## 
+## Hold Monster
 **Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (a small, straight piece of iron)  
