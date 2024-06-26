@@ -43,11 +43,11 @@
 	- Have - 10
 # Saving Throws
 - Strength - (+2)
-- Dexterity - (+7)^
+- Dexterity - (+8)^
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+9)^
+- Charisma - (+10)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
