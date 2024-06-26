@@ -6,7 +6,7 @@
 - Level - 9
 - Background - Gladiator
 - Alignment - Chaotic Neutral
-- Bardic Inspiration - 1d8
+- Bardic Inspiration - 1d10
 	- Max - 5
 	- Have - 5
 - Dark Vision - 60ft
@@ -47,7 +47,7 @@
 - Constitution - (+4)
 - Intelligence - (+0)
 - Wisdom - (+1)
-- Charisma - (+8)^
+- Charisma - (+9)^
 # Skills
 - Acrobatics - (+4)
 - Animal Handling - (+2)
@@ -56,13 +56,13 @@
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+8)^
+- Intimidation - (+9)^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
 - Perception (+2)
-- Performance - (+11)^^
-- Persuasion - (+11)^^
+- Performance - (+13)^^
+- Persuasion - (+13)^^
 - Religion - (+1)
 - Sleight of Hand - (+4)
 - Stealth - (+4)
