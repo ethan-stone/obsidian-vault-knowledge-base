@@ -56,7 +56,7 @@
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
-- Intimidation - (+9)^
+- Intimidation - (+13)^^
 - Investigation - (+1)
 - Medicine - (+2)
 - Nature - (+1)
