@@ -17,7 +17,7 @@
 - Proficient with light and medium armor
 - Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
 - Proficient with trumpet, bag pipes, and percussion instruments
-- Song of Rest - Allies get 1d6 HP during short rest
+- Song of Rest - Allies get 1d8 HP during short rest
 - Stone cunning - +2 on history checks related to stone
 - 1 free nat 20 to use whenever
 - Free +5 to any roll
