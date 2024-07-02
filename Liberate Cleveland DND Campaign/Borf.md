@@ -101,6 +101,7 @@
 	- Attack Bonus - (+6)
 	- Damage - 1d8 + 6 Slashing, 1d10 two handed
 	- Magical
+- 
 - Musket
 - Flintlock
 # Spells
