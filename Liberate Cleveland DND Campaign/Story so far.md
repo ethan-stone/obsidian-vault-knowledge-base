@@ -63,3 +63,5 @@ We have a squid ship called The Whiteclaw.
 Found another amulet labeled The Lord of the Sea on Ash Lady.
 
 I have a sentient gun named Pipsqueak.
+
+Ship is on the move South East toward Warm water.
