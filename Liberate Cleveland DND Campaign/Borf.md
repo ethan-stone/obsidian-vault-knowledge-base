@@ -90,6 +90,7 @@
 - Cheese the Greater (really good parmigiano reggiano)
 - Ring of Water Walking (summons walking water paints)
 - Cantrip (a can full of random stuff to make people trip)
+- 1 Inspiration (advantage on roll)
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
