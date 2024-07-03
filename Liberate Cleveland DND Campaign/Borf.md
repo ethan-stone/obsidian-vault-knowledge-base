@@ -33,7 +33,7 @@
 - Wisdom - 14 (+2)
 - Charsima - 20 (+5)
 - Passive Wisdom - 11
-- Armor Class - 15
+- Armor Class - 16
 - Initiative - (+3)
 - Speed - 25
 - Max HP - 94
