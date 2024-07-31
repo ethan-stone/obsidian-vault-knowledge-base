@@ -19,7 +19,7 @@
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Song of Rest - Allies get 1d8 HP during short rest
 - Stone cunning - +2 on history checks related to stone
-- 1 free nat 20 to use whenever
+- 2 free nat 20's to use whenever
 - Free +5 to any roll
 - Now have a GTD (Goblin Transmitted Disease)
 - Bell of the Whale. I now have a nemesis but get very clear direction of my biggest goal.
