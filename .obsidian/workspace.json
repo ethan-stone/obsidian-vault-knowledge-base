@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Liberate Cleveland DND Campaign/Story so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md"
+                "file": "Liberate Cleveland DND Campaign/Story so far.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "6399de68d46ab536",
   "lastOpenFiles": [
+    "Liberate Cleveland DND Campaign/Quests.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Borf.md",
-    "Liberate Cleveland DND Campaign/Quests.md",
     "2024-05-14.md",
     "Running/Post Run Recovery.md",
     "Banking/Offices.md",
