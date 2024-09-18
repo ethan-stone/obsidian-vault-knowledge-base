@@ -68,4 +68,5 @@ Ship is on the move South East toward Warm water.
 
 Plan for ship.
 
-1. Info ga
+1. Info gathering.
+2. Find and sabotage ship if we can find the engine room.
