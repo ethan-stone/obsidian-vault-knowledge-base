@@ -65,3 +65,7 @@ Found another amulet labeled The Lord of the Sea on Ash Lady.
 I have a sentient gun named Pipsqueak.
 
 Ship is on the move South East toward Warm water.
+
+Plan for ship.
+
+1. Info ga
