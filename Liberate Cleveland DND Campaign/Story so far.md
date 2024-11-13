@@ -77,4 +77,5 @@ Team Teleport
 - Borf
 - Eric
 - Andeo
-Currently looking for Redwood, the police captain.
+
+Currently looking for Sasha Redwood, the police captain.
