@@ -78,4 +78,4 @@ Team Teleport
 - Eric
 - Andeo
 
-Currently looking for Sasha Redwood, the police captain.
+Currently looking for Tasha Redwood, the police captain.
