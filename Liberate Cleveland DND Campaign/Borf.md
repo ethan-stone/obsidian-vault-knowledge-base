@@ -88,7 +88,7 @@
 - 10 pounds ale
 - Bram has boom boom potion
 - Cheese the Greater (really good parmigiano reggiano)
-- Ring of Water Walking (summons walking water paints)
+- Ring of Water Walking (summons walking water pants)
 - Cantrip (a can full of random stuff to make people trip)
 - 1 Inspiration (advantage on roll)
 # Weapons
