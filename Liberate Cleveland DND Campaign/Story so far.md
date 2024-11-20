@@ -79,3 +79,5 @@ Team Teleport
 - Andeo
 
 Currently looking for Tasha Redwood, the police captain.
+
+Last members are Johnathon Black and Draxon Greenscale.
