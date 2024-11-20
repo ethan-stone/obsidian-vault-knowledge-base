@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story so far"
+              "title": "Borf"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Story so far.md"
+                "file": "Liberate Cleveland DND Campaign/Borf.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Story so far"
+              "title": "Outline of Borf"
             }
           },
           {
@@ -193,8 +193,8 @@
   },
   "active": "b6334752958174d0",
   "lastOpenFiles": [
-    "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Story so far.md",
+    "Liberate Cleveland DND Campaign/Borf.md",
     "Liberate Cleveland DND Campaign/Quests.md",
     "2024-05-14.md",
     "Running/Post Run Recovery.md",
