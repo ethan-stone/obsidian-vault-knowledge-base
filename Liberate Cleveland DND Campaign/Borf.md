@@ -36,8 +36,8 @@
 - Armor Class - 16
 - Initiative - (+3)
 - Speed - 25
-- Max HP - 94
-- HP - 94
+- Max HP - 104
+- HP - 104
 - Hit Dice - 1d8
 	- Max - 10
 	- Have - 10
