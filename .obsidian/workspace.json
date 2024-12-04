@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blessing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6399de68d46ab536",
+  "active": "da060db27898ebeb",
   "lastOpenFiles": [
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Borf.md",
