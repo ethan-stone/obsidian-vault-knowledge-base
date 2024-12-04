@@ -380,6 +380,8 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.
 
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
+## Level 6
+### 
 # Bard College of Glamour
 ## Mantle of Inspiration
 When you join the College of Glamour at 3rd level, you gain the ability to weave a song of fey magic that imbues your allies with vigor and speed.
