@@ -108,6 +108,11 @@
 - Musket
 - Flintlock
 # Wereboar
+The [wereboar](https://www.dndbeyond.com/monsters/17054-wereboar) was introduced in the _Monster Manual_. Your Strength score becomes 17 if it wasn’t higher already, you become immune to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren’t silvered, and once per rest you can use the Relentless trait, which allows you to drop to 1 hit point instead if taking 14 damage or less would reduce you to 0 hit points. In your boar form and your boar-hybrid form: your natural armor AC is 1 higher (usually irrelevant, as this is overridden by armor or unarmored AC from _mage armor_ or Unarmored Defense); you have a normal speed of 40 ft.; and you get the Charge trait which makes you do 2d6 extra slashing damage when moving 15 feet straight towards a target and hitting them with a tusk attack on the same turn. You gain two new actions:  
+
+_**Multiattack (Humanoid or Hybrid Form Only).**_ The wereboar makes two attacks, only one of which can be with its tusks.  
+
+_**Tusks (Boar or Hybrid Form Only).** Melee Weapon Attack:_ +(STR + Prof) to hit, reach 5 ft., one target. _Hit:_ (2d6 + STR) slashing damage. If the target is a humanoid, it must succeed on a DC (8 + CON + Prof) Constitution saving throw or be cursed with wereboar lycanthropy.
 # Spells
 - Spell DC - 17
 - Spell Attack Mod - 9
