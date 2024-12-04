@@ -80,4 +80,4 @@ Team Teleport
 
 Currently looking for Tasha Redwood, the police captain.
 
-Last members are Johnathon Black and Draxon Greenscale.
+Last members are Johnathon Black and Draxon Greenscale. They are headed to high point.
