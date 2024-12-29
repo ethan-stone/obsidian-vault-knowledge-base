@@ -22,4 +22,5 @@
 | 128-bit | `i128`  | `u128`   |
 | arch    | `isize` | `usize`  |
 ## Floating Point Types
-- There are two floating-point types. `f32` and `f64`. The difference is simply 32 bit vs 64 bit. 
+- There are two floating-point types. `f32` and `f64`. The difference is simply 32 bit vs 64 bit.
+- `f64` is the default because it is more precise and there is negligible performance difference between `f32` and `f64` on modern cpu's.
