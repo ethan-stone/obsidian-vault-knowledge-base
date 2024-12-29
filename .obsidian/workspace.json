@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Functions.md",
+                "file": "Rust/Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Data Types"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Functions.md"
+                "file": "Rust/Data Types.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Functions"
+              "title": "Outline of Data Types"
             }
           },
           {
@@ -178,8 +178,8 @@
   },
   "active": "fc599b79de88ad8c",
   "lastOpenFiles": [
-    "Rust/Data Types.md",
     "Rust/Functions.md",
+    "Rust/Data Types.md",
     "Rust/Variables and Mutability.md",
     "Liberate Cleveland DND Campaign/Borf.md",
     "Rust",
