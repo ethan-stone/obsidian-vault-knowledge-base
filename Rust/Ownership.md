@@ -1,2 +1,4 @@
 # Stack
-As a data structure, a stack is a first in last out data structure like a stack of plates. In terms of memory, data is pushed
+As a data structure, a stack is a first in last out data structure like a stack of plates. In terms of memory, data is pushed onto the stack as the program runs, and popped off when no longer needed. All data stored on the stack must have a known, fixed sized (for example array, NOT vectors). Data with an unknown size at compile time or a size that might change must be stored on the heap.
+# Heap
+The heap is a less organized data 
