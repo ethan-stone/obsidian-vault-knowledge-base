@@ -4,4 +4,4 @@
 	- Integers
 	- Floating-point numbers
 	- Booleans
-	- 
+	- Characters
