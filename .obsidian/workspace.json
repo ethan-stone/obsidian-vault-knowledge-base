@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INbox.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INbox"
+              "title": "Inbox"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INbox.md"
+                "file": "Inbox.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of INbox"
+              "title": "Outline of Inbox"
             }
           },
           {
@@ -208,7 +208,7 @@
   "active": "10234925628b09d6",
   "lastOpenFiles": [
     "Mental Triggers.md",
-    "INbox.md",
+    "Inbox.md",
     "Rust/Ownership.md",
     "Rust/Data Types.md",
     "Rust/Functions.md",

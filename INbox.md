@@ -1,0 +1,2 @@
+- [ ] Do mind clearing exercise
+- [ ] 
