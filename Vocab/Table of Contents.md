@@ -1,8 +1,9 @@
-Malapropism  
-Clandestine  
-Aubergine  
-Contemporaneously  
-Sinsemilla  
-Shellac  
-Throng  
-Opulent
+- Malapropism  
+- Clandestine  
+- Aubergine  
+- Contemporaneously  
+- Sinsemilla  
+- Shellac  
+- Throng  
+- Opulent
+- Brevity
