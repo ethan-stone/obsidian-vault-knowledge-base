@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+                "file": "Fantasia DND Campaign/Notes/Fantasia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Velvet Hand"
+              "title": "Fantasia"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md"
+                "file": "Fantasia DND Campaign/Notes/Fantasia.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Velvet Hand"
+              "title": "Outline of Fantasia"
             }
           },
           {
@@ -178,8 +178,8 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+    "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
