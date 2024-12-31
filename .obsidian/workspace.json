@@ -11,10 +11,14 @@
             "id": "6d20aa8654ba958c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Time Management/Mental Triggers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mental Triggers"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Time Management/Mental Triggers.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mental Triggers"
             }
           },
           {
@@ -172,7 +178,8 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
-    "Mental Triggers.md",
+    "Time Management",
+    "Time Management/Mental Triggers.md",
     "Rust/Ownership.md",
     "Vocab/Table of Contents.md",
     "Inbox.md",
@@ -200,7 +207,6 @@
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Tools/Inkarnate.md",
     "Fantasia DND Campaign/Tools/Kobold Plus.md",
-    "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "Fantasia DND Campaign/Tools",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
