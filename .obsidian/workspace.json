@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collabaration/Group Faciliator.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Faciliator"
+              "title": "Inbox"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collabaration/Group Faciliator.md"
+                "file": "Inbox.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Group Faciliator"
+              "title": "Outline of Inbox"
             }
           },
           {
@@ -178,8 +178,8 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
-    "Collabaration/RAPID.md",
     "Collabaration/Group Faciliator.md",
+    "Collabaration/RAPID.md",
     "Time Management/Mental Triggers.md",
     "Collabaration",
     "Time Management",
