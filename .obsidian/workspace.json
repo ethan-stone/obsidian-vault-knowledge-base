@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
+                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Craghammer Forge and Foundry"
+              "title": "The Furnace"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
+                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Craghammer Forge and Foundry"
+              "title": "Backlinks for The Furnace"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
+                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Craghammer Forge and Foundry"
+              "title": "Outgoing links from The Furnace"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md"
+                "file": "Fantasia DND Campaign/Notes/The Furnace.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Craghammer Forge and Foundry"
+              "title": "Outline of The Furnace"
             }
           },
           {
@@ -177,11 +177,17 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
+    "Fantasia DND Campaign/Notes/The Iron Circle.md",
+    "Fantasia DND Campaign/Notes/Moonstone Casino.md",
+    "Fantasia DND Campaign/Notes/Helena Vargus.md",
+    "Fantasia DND Campaign/Notes/Elias Drake.md",
+    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
+    "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Notes/Pheonix Hills.md",
-    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/Enzlo.md",
@@ -190,19 +196,13 @@
     "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "Fantasia DND Campaign/Notes/The Ruby District.md",
     "Fantasia DND Campaign/Notes/The Quest Hub.md",
-    "Fantasia DND Campaign/Notes/The Iron Circle.md",
-    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Notes/Isabella Thorne.md",
-    "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Durnan Craghammer.md",
     "Fantasia DND Campaign/Notes/Celestria.md",
     "Fantasia DND Campaign/Notes/Orialis.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
-    "Fantasia DND Campaign/Sessions/Session 1.md",
-    "Fantasia DND Campaign/Sessions/Session 2.md",
-    "DSA Notes/Rotating Array.md",
     "Collabaration",
     "Time Management",
     "Vocab",

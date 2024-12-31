@@ -1,2 +1,2 @@
 #organization #gang 
-Known for their brutal enforcement and smuggling of illegal goods in [[Etheria]]. They mainly achieve this through having insiders in [[The Furnace]] and bribing members of  [[The Sentinels]].
+Known for their brutal enforcement and smuggling of illegal goods in [[Fantasia]]. They mainly achieve this through having insiders in [[The Furnace]] and bribing members of  [[The Sentinels]].

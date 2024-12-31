@@ -1,2 +1,2 @@
 #place
-The largest casino in [[Etheria]].
+The largest casino in [[Fantasia]].

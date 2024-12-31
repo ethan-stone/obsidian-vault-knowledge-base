@@ -1,2 +1,2 @@
 #character 
-Captain of the Vice and Narcotics Division of [[The Sentinels]]. His experiences on the streets have left him with a pragmatic view of law enforcement in a city as corrupt as [[Etheria]], and he's known for his tough but fair approach. He is also not above using unconventional methods and has been known to collaborate with informants and minor criminals to achieve his goals.
+Captain of the Vice and Narcotics Division of [[The Sentinels]]. His experiences on the streets have left him with a pragmatic view of law enforcement in a city as corrupt as [[Fantasia]], and he's known for his tough but fair approach. He is also not above using unconventional methods and has been known to collaborate with informants and minor criminals to achieve his goals.
