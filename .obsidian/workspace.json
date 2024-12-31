@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md",
+                "file": "Fantasia DND Campaign/Notes/Celestria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fantasia"
+              "title": "Celestria"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Fantasia.md"
+                "file": "Fantasia DND Campaign/Notes/Celestria.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fantasia"
+              "title": "Outline of Celestria"
             }
           },
           {
@@ -178,6 +178,10 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Notes/Orialis.md",
+    "Fantasia DND Campaign/Notes/Celestria.md",
+    "Fantasia DND Campaign/Notes/Fantasia.md",
+    "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
     "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
@@ -204,10 +208,6 @@
     "Liberate Cleveland DND Campaign/Story so far.md",
     "Liberate Cleveland DND Campaign/Quests.md",
     "2024-05-14.md",
-    "Running/Post Run Recovery.md",
-    "Banking/Offices.md",
-    "Banking/Apache Fineract.md",
-    "Banking/Core Banking System.md",
     "Banking",
     "Fantasia DND Campaign/Tools",
     "Fantasia DND Campaign/Sessions",
