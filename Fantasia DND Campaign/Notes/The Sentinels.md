@@ -1,5 +1,5 @@
 #organization #police
-Tasked with maintaining law and order in [[Etheria]]. 
+Tasked with maintaining law and order in [[Fantasia]]]. 
 # Divisions
 They have several divisions focusing on different crimes.
 ## Patrol
