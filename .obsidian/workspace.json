@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
+                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcanix Emporium"
+              "title": "The Velvet Hand"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Arcanix Emporium.md"
+                "file": "Fantasia DND Campaign/Notes/The Velvet Hand.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arcanix Emporium"
+              "title": "Outline of The Velvet Hand"
             }
           },
           {
@@ -178,6 +178,9 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Notes/The Veiled Eye.md",
+    "Fantasia DND Campaign/Notes/The Velvet Hand.md",
+    "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Sessions/Session 2.md",
@@ -205,10 +208,7 @@
     "Banking/Offices.md",
     "Banking/Apache Fineract.md",
     "Banking/Core Banking System.md",
-    "Banking/Monetary Financial Institution.md",
     "Banking",
-    "Fantasia DND Campaign/Tools/Monsters.md",
-    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Tools",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",
