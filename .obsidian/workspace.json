@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Neon Quarter.md",
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Neon Quarter"
+              "title": "Etheria"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Borf"
+              "title": "Backlinks for Etheria"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Fantasia DND Campaign/Notes/Etheria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Borf"
+              "title": "Outgoing links from Etheria"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Neon Quarter.md"
+                "file": "Fantasia DND Campaign/Notes/Etheria.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Neon Quarter"
+              "title": "Outline of Etheria"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,17 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d20aa8654ba958c",
+  "active": "212ff2392fec10ef",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Notes/Enzlo.md",
+    "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Fantasia.md",
+    "Fantasia DND Campaign/Notes/The Neon Quarter.md",
     "Fantasia DND Campaign/Notes/The Furnace.md",
     "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/The Ruby District.md",
-    "Fantasia DND Campaign/Notes/The Neon Quarter.md",
     "Fantasia DND Campaign/Notes/The Quest Hub.md",
     "Fantasia DND Campaign/Notes/The Iron Circle.md",
-    "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Notes/Pheonix Hills.md",
@@ -203,7 +203,6 @@
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "DSA Notes/Rotating Array.md",
     "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
-    "Inbox.md",
     "Collabaration",
     "Time Management",
     "Vocab",
