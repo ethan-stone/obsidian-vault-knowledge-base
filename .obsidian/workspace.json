@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Alexi Thorne.md",
+                "file": "Fantasia DND Campaign/Notes/The Neon Quarter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexi Thorne"
+              "title": "The Neon Quarter"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/Alexi Thorne.md"
+                "file": "Fantasia DND Campaign/Notes/The Neon Quarter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Alexi Thorne"
+              "title": "Outline of The Neon Quarter"
             }
           },
           {
@@ -178,14 +178,17 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
-    "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
+    "Fantasia DND Campaign/Notes/The Furnace.md",
+    "Fantasia DND Campaign/Notes/Fantasia.md",
+    "Fantasia DND Campaign/Notes/The Ruby District.md",
+    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
+    "Fantasia DND Campaign/Notes/Pheonix Hills.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Fantasia DND Campaign/Notes/Isabella Thorne.md",
     "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Durnan Craghammer.md",
     "Fantasia DND Campaign/Notes/Celestria.md",
-    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Notes/Orialis.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
@@ -203,10 +206,7 @@
     "Time Management",
     "Rust/Ownership.md",
     "Vocab/Table of Contents.md",
-    "Untitled.md",
     "Vocab",
-    "Rust/Data Types.md",
-    "Rust/Functions.md",
     "Rust",
     "Banking",
     "Fantasia DND Campaign/Tools",
