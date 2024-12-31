@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
+                "file": "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Furnace"
+              "title": "Deephaven (Aka The Nether)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
+                "file": "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Furnace"
+              "title": "Backlinks for Deephaven (Aka The Nether)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Furnace.md",
+                "file": "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Furnace"
+              "title": "Outgoing links from Deephaven (Aka The Nether)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Notes/The Furnace.md"
+                "file": "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Furnace"
+              "title": "Outline of Deephaven (Aka The Nether)"
             }
           },
           {
@@ -178,23 +178,24 @@
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
     "Fantasia DND Campaign/Notes/Fantasia.md",
+    "Fantasia DND Campaign/Notes/The Ruby District.md",
+    "Fantasia DND Campaign/Notes/The Neon Quarter.md",
+    "Fantasia DND Campaign/Notes/Moonstone Casino.md",
+    "Fantasia DND Campaign/Notes/The Furnace.md",
+    "Fantasia DND Campaign/Notes/Pheonix Hills.md",
+    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
+    "Fantasia DND Campaign/Notes/The Golden Grin.md",
     "Fantasia DND Campaign/Notes/Etheria.md",
     "Fantasia DND Campaign/Notes/The Iron Circle.md",
-    "Fantasia DND Campaign/Notes/Moonstone Casino.md",
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
     "Fantasia DND Campaign/Notes/Elias Drake.md",
-    "Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
     "Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Fantasia DND Campaign/Notes/Alexi Thorne.md",
-    "Fantasia DND Campaign/Notes/Pheonix Hills.md",
     "Fantasia DND Campaign/Notes/The Sentinels.md",
     "Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "Fantasia DND Campaign/Notes/Enzlo.md",
-    "Fantasia DND Campaign/Notes/The Neon Quarter.md",
-    "Fantasia DND Campaign/Notes/The Furnace.md",
     "Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
-    "Fantasia DND Campaign/Notes/The Ruby District.md",
     "Fantasia DND Campaign/Notes/The Quest Hub.md",
     "Fantasia DND Campaign/Notes/Isabella Thorne.md",
     "Fantasia DND Campaign/Notes/Durnan Craghammer.md",
@@ -202,7 +203,6 @@
     "Fantasia DND Campaign/Notes/Orialis.md",
     "Fantasia DND Campaign/Notes/Galewind Textiles.md",
     "Fantasia DND Campaign/Notes/The Veiled Eye.md",
-    "Fantasia DND Campaign/Notes/Arcanix Emporium.md",
     "Collabaration",
     "Time Management",
     "Vocab",
