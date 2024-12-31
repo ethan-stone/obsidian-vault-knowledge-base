@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Time Management/Mental Triggers.md",
+                "file": "Collabaration/RAPID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mental Triggers"
+              "title": "RAPID"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Time Management/Mental Triggers.md"
+                "file": "Collabaration/RAPID.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mental Triggers"
+              "title": "Outline of RAPID"
             }
           },
           {
@@ -178,8 +178,10 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
-    "Time Management",
     "Time Management/Mental Triggers.md",
+    "Collabaration/RAPID.md",
+    "Collabaration",
+    "Time Management",
     "Rust/Ownership.md",
     "Vocab/Table of Contents.md",
     "Inbox.md",
@@ -213,8 +215,6 @@
     "Untitled 1",
     "Fantasia DND Campaign",
     "Running/Pasted image 20231212134157.png",
-    "Altania DND Campaign/Notes/Untitled",
-    "Untitled.canvas",
-    "Altania DND Campaign/Notes"
+    "Untitled.canvas"
   ]
 }
