@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "DSA Notes/Rotating Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Rotating Array"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md"
+                "file": "DSA Notes/Rotating Array.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Inbox"
+              "title": "Outline of Rotating Array"
             }
           },
           {
@@ -178,6 +178,9 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
+    "DSA Notes/Boyer Moore Majority Vote Algorithm.md",
+    "DSA Notes/Rotating Array.md",
+    "Inbox.md",
     "Collabaration/Group Faciliator.md",
     "Collabaration/RAPID.md",
     "Time Management/Mental Triggers.md",
@@ -185,7 +188,6 @@
     "Time Management",
     "Rust/Ownership.md",
     "Vocab/Table of Contents.md",
-    "Inbox.md",
     "Untitled.md",
     "Vocab",
     "Rust/Data Types.md",
@@ -207,8 +209,6 @@
     "Fantasia DND Campaign/Notes/Fantasia.md",
     "Fantasia DND Campaign/Notes/Pheonix Hills.md",
     "Fantasia DND Campaign/Notes/The Neon Quarter.md",
-    "Fantasia DND Campaign/Notes/Etheria.md",
-    "Fantasia DND Campaign/Tools/Inkarnate.md",
     "Fantasia DND Campaign/Tools",
     "Fantasia DND Campaign/Sessions",
     "Fantasia DND Campaign/Notes",

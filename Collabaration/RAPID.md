@@ -1,5 +1,0 @@
-- Recommenders
-- Agreers
-- Performers
-- Inputters
-- Decision Makers

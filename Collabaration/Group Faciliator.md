@@ -1,5 +1,0 @@
-- There should be one person doing the following.
-	- Project management.
-	- Clear stakeholder communication.
-	- Effective meetings
-- 
