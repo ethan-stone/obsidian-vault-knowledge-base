@@ -1,5 +1,5 @@
-- Malapropism  
-- Clandestine  
+- Malapropism
+- Clandestine
 - Aubergine  
 - Contemporaneously  
 - Sinsemilla  
