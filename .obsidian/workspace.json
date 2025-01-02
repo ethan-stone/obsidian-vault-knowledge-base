@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Untitled.md",
+                "file": "Reading/Reading List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Reading List"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Untitled.md",
+                "file": "Reading/Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Reading List"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Untitled.md",
+                "file": "Reading/Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Reading List"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Untitled.md"
+                "file": "Reading/Reading List.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Reading List"
             }
           },
           {
@@ -178,7 +178,7 @@
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
     "Inbox.md",
-    "Reading/Untitled.md",
+    "Reading/Reading List.md",
     "Reading",
     "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
