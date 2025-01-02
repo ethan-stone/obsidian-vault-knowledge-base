@@ -15,3 +15,13 @@
 - [ ] Swap color scheme so background is dark than foreground
 - [ ] Add WAF before prod
 - [ ] Consider not having verify token at all in MVP since the point of jwt is it's stateless
+- [ ] Standardize token route response to match RFC
+- [ ] Figure out what scopes are available on the internal Optra API
+- [ ] Setup logging for web
+- [ ] Alert when workspace is about to reach free tier limits and reaches free tier limits
+- [ ] Ability to delete workspace
+- [ ] Recording analytics
+	- [ ] Record active clients per month
+	- [ ] Verification latency (shooting for p99 < 100ms) when fully optimized
+	- [ ] Should be able to filter analytics to only see X number of days back
+- [ ] Billing 
