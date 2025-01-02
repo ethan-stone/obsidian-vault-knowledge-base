@@ -35,3 +35,5 @@
 - [ ] TypeScript SDK
 - [ ] Docs website
 - [ ] Integrate with posthog
+- [ ] Figure out pricing
+	- [ ] 
