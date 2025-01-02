@@ -2,8 +2,8 @@
 - [[Clandestine]]
 - [[Aubergine]]  
 - [[Contemporaneously]]  
-- Sinsemilla  
-- Shellac  
-- Throng  
+- [[Sinsemilla]]  
+- [[Shellac]]  
+- [[Throng]]  
 - Opulent
 - Brevity

@@ -1,0 +1,1 @@
+A type of lacquer or resin. 
