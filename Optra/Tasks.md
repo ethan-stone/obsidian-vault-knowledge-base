@@ -24,4 +24,14 @@
 	- [ ] Record active clients per month
 	- [ ] Verification latency (shooting for p99 < 100ms) when fully optimized
 	- [ ] Should be able to filter analytics to only see X number of days back
-- [ ] Billing 
+- [ ] Billing flow
+	- [ ] Email when invoice payment succeeds and fails
+	- [ ] Setup stripe account
+- [ ] See if it's possible to optimize verify token on a cache miss
+- [ ] Restructure bootstrap to create bare minimum for new environment rather than for tests
+- [ ] Check that http forbidden and not found responses are consistent
+- [ ] Brainstorm what data can be encoded in the jwt to optimize performance
+- [ ] Brainstorm if should change verifyToken to check rate limit first, and then check signature.
+- [ ] TypeScript SDK
+- [ ] Docs website
+- [ ] Integrate with posthog
