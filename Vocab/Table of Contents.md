@@ -1,7 +1,7 @@
 - [[Malapropism]]
-- Clandestine
-- Aubergine  
-- Contemporaneously  
+- [[Clandestine]]
+- [[Aubergine]]  
+- [[Contemporaneously]]  
 - Sinsemilla  
 - Shellac  
 - Throng  
