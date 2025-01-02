@@ -35,5 +35,5 @@
 - [ ] TypeScript SDK
 - [ ] Docs website
 - [ ] Integrate with posthog
-- [ ] Figure out pricing
-	- [ ] 
+- [ ] Figure out pricing [[Pricing Draft]]
+- [ ] Need to filter out deleted workspaces when invoicing

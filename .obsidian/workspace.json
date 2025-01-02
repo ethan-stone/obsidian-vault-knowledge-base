@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optra/Pricing Draft.md",
+                "file": "Optra/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing Draft"
+              "title": "Tasks"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optra/Pricing Draft.md",
+                "file": "Optra/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pricing Draft"
+              "title": "Backlinks for Tasks"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optra/Pricing Draft.md",
+                "file": "Optra/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pricing Draft"
+              "title": "Outgoing links from Tasks"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optra/Pricing Draft.md"
+                "file": "Optra/Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pricing Draft"
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -175,10 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d20aa8654ba958c",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Optra/Tasks.md",
+    "Projects",
     "Optra/Pricing Draft.md",
+    "Optra/Tasks.md",
     "Reading/Reading List.md",
     "Optra",
     "Inbox.md",
@@ -204,7 +205,6 @@
     "Fantasia DND Campaign/Notes/Marcus Kell.md",
     "Fantasia DND Campaign/Notes/Helena Vargus.md",
     "Fantasia DND Campaign/Notes/The Iron Circle.md",
-    "Fantasia DND Campaign/Notes/The Golden Grin.md",
     "Collabaration",
     "Time Management",
     "Vocab",
