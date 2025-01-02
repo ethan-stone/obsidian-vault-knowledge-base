@@ -1,0 +1,9 @@
+- [ ] Ability to search scopes
+- [ ] Basic role based access control
+	- [ ] Owner/Admin
+	- [ ] Developer
+	- [ ] Viewer
+- [ ] Make sure authentication and email setting limits are reasonable for production
+- [ ] Make sure there is validation that you can't rotate client secret or api signing secret if there is already a current and next client secret or signing secret
+- [ ] 
+- [ ]
