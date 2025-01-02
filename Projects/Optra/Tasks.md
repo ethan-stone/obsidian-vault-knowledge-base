@@ -14,9 +14,12 @@
 	- [ ] Billing
 - [ ] Swap color scheme so background is dark than foreground
 - [ ] Add WAF before prod
+	- Can use AWS WAF on the cloudfront distribution.
+	- Can add DNS to cloudflare and make a worker proxy from cloudflare to the lambda.
 - [ ] Consider not having verify token at all in MVP since the point of jwt is it's stateless
 - [ ] Standardize token route response to match RFC
-- [ ] Figure out what scopes are available on the internal Optra API
+	- [https://datatracker.ietf.org/doc/html/rfc6749](https://datatracker.ietf.org/doc/html/rfc6749
+- [ ] Figure out what scopes are available on the internal Optra API [[Scopes]]
 - [ ] Setup logging for web
 - [ ] Alert when workspace is about to reach free tier limits and reaches free tier limits
 - [ ] Ability to delete workspace
