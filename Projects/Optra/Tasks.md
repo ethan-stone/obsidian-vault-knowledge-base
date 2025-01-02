@@ -32,6 +32,7 @@
 	- [ ] Setup stripe account
 - [ ] See if it's possible to optimize verify token on a cache miss
 - [ ] Restructure bootstrap to create bare minimum for new environment rather than for tests
+	- Right now bootstrap is becoming complex in order to support the many cases for tests. We should instead just use `beforeAll` to bootstrap everything needed for that test file with the api itself.
 - [ ] Check that http forbidden and not found responses are consistent
 - [ ] Brainstorm what data can be encoded in the jwt to optimize performance
 - [ ] Brainstorm if should change verifyToken to check rate limit first, and then check signature.
