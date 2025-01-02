@@ -1,1 +1,1 @@
-- [ ] 
+Wealthy, rich, affluent, etc.

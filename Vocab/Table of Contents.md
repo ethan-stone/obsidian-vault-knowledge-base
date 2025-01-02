@@ -5,5 +5,5 @@
 - [[Sinsemilla]]  
 - [[Shellac]]  
 - [[Throng]]  
-- Opulent
-- Brevity
+- [[Opulent]]
+- [[Brevity]]
