@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Inbox"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 2"
+              "title": "Backlinks for Inbox"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 2"
+              "title": "Outgoing links from Inbox"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantasia DND Campaign/Sessions/Session 2.md"
+                "file": "Inbox.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 2"
+              "title": "Outline of Inbox"
             }
           },
           {
@@ -177,6 +177,7 @@
   },
   "active": "6d20aa8654ba958c",
   "lastOpenFiles": [
+    "Fantasia DND Campaign/Sessions/Session 2.md",
     "Fantasia DND Campaign/Sessions/Session 1.md",
     "Fantasia DND Campaign/Notes/The Quest Hub.md",
     "Fantasia DND Campaign/Notes/Serena Lightfoot.md",
@@ -202,7 +203,6 @@
     "Fantasia DND Campaign/Notes/The Neon Quarter.md",
     "Fantasia DND Campaign/Notes/Moonstone Casino.md",
     "Fantasia DND Campaign/Notes/The Furnace.md",
-    "Fantasia DND Campaign/Notes/Pheonix Hills.md",
     "Collabaration",
     "Time Management",
     "Vocab",

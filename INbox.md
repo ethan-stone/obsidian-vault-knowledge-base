@@ -1,2 +1,2 @@
 - [ ] Do mind clearing exercise
-- [ ] 
+- [ ] First Rust project should be a simple version of Warpstream?
