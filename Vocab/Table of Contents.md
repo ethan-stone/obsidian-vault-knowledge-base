@@ -1,4 +1,4 @@
-- Malapropism
+- [[Malapropism]]
 - Clandestine
 - Aubergine  
 - Contemporaneously  
