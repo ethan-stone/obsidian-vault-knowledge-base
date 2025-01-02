@@ -5,5 +5,13 @@
 	- [ ] Viewer
 - [ ] Make sure authentication and email setting limits are reasonable for production
 - [ ] Make sure there is validation that you can't rotate client secret or api signing secret if there is already a current and next client secret or signing secret
-- [ ] 
-- [ ]
+- [ ] Main website
+	- [ ] Need to fix sidebar on smaller screens. The workspace selector overflows.
+	- [ ] Allow inviting team members if admin from workspace drop down
+	- [ ] Onboarding
+		- [ ] /onboarding?workspaceId=ws_id that loads a component to create an api
+		- [ ] /apis/api_id/clients/new to create a new client
+	- [ ] Billing
+- [ ] Swap color scheme so background is dark than foreground
+- [ ] Add WAF before prod
+- [ ] Consider not having verify token at all in MVP since the point of jwt is it's stateless
