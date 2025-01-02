@@ -1,9 +1,16 @@
 {
   "items": [
     {
-      "type": "folder",
-      "ctime": 1735793027738,
-      "path": "Projects",
+      "type": "group",
+      "ctime": 1735793131510,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1735793144629,
+          "path": "Projects/Optra",
+          "title": "Optra"
+        }
+      ],
       "title": "Projects"
     }
   ]
