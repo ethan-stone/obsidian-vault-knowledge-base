@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Shellac"
             }
+          },
+          {
+            "id": "cf46094a956fe55b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Default Note"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30dd76ae63a37ef7",
+  "active": "cf46094a956fe55b",
   "lastOpenFiles": [
-    "Inbox.md",
     "Templates/Default Note.md",
+    "Inbox.md",
     "New Note.md",
     "Todo.md",
     "Vocab/Shellac.md",
