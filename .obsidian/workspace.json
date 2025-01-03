@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Fantasia DND Campaign/Notes/The Sentinels.md",
+                "file": "DND/Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Sentinels"
+              "title": "Craghammer Forge and Foundry"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#police",
+                "query": "tag:#business",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/Fantasia DND Campaign/Notes/The Sentinels.md",
+                "file": "DND/Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Sentinels"
+              "title": "Backlinks for Craghammer Forge and Foundry"
             }
           },
           {
@@ -174,8 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da060db27898ebeb",
+  "active": "1009e26787f09472",
   "lastOpenFiles": [
+    "DND/Fantasia DND Campaign/Notes/Galewind Textiles.md",
+    "DND/Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
+    "DND/Fantasia DND Campaign/Notes/Arcanix Emporium.md",
+    "DND/Fantasia DND Campaign/Notes/The Golden Grin.md",
+    "DND/Fantasia DND Campaign/Notes/The Sentinels.md",
     "DND/Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "DND/Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "DND/Altania DND Campaign/Notes/Fizzben.md",
@@ -198,17 +203,12 @@
     "Vocab/Sinsemilla.md",
     "Vocab/Contemporaneously.md",
     "Vocab/Aubergine.md",
-    "Vocab/Clandestine.md",
-    "Vocab/Malapropism.md",
-    "Projects/Optra/Scopes.md",
     "DND",
     "Programming",
     "Personal Improvement",
     "Work",
     "Fitness",
-    "Projects/Optra/Tasks.md",
     "Projects",
-    "Projects/Optra/Pricing Draft.md",
     "Projects/Optra",
     "Reading",
     "Collabaration",

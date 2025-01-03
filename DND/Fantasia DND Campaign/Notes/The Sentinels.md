@@ -1,4 +1,4 @@
-#organization #police
+#dnd/organization #dnd/police
 Tasked with maintaining law and order in [[Fantasia]]]. 
 # Divisions
 They have several divisions focusing on different crimes.
