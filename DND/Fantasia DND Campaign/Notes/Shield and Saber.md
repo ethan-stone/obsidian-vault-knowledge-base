@@ -1,2 +1,2 @@
-#place #business 
+#dnd/place #dnd/business 
 Owned by [[Karl Ironhand]]. Offers a wide selection of armor and weapons, from traditional steel to exotic materials, providing customization and fitting services to ensure the perfect combat readiness.

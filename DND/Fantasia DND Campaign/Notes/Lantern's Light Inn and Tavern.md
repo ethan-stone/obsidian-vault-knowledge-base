@@ -1,2 +1,2 @@
-#place #business 
+#dnd/place #dnd/business 
 Owned by [[Serena Lightfoot]]. A retired adventurer who uses her vast experience to make her inn a safe haven for travelers, offering not just lodging but also information and connections.

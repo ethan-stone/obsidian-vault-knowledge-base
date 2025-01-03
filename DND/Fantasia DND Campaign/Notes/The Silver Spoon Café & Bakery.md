@@ -1,2 +1,2 @@
-#place #business 
+#dnd/place #dnd/business 
 Owned by [[Jasper Goodbarrel]]. A beloved café that serves as a meeting place for all walks of life, offering delicious, magically-enhanced food that provides minor buffs alongside traditional fare.

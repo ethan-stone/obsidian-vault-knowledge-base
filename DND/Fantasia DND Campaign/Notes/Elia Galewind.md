@@ -1,2 +1,2 @@
-#character 
+#dnd/character 
 Owner of [[Galewind Textiles]].

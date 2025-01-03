@@ -1,2 +1,2 @@
-#place #business 
+#dnd/place #dnd/business 
 Owned by [[Tilda Merryweather]]. Specializes in potions ranging from basic healing draughts to rare and custom brews, with a reputation for unpredictable but effective results.
