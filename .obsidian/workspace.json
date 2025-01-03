@@ -29,7 +29,7 @@
               "state": {
                 "file": "Templates/Default Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Default Note"
