@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Daily Journal.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Daily Journal"
