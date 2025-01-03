@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Todo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Default Note"
+              "title": "Todo"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -175,10 +175,10 @@
   },
   "active": "30dd76ae63a37ef7",
   "lastOpenFiles": [
-    "Todo.md",
-    "Inbox.md",
     "Untitled.md",
+    "Todo.md",
     "Templates/Default Note.md",
+    "Inbox.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
     "DND/Fantasia DND Campaign/Notes/Celestria.md",
