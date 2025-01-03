@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Default Note"
+              "title": "Inbox"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks for Inbox"
             }
           },
           {
@@ -175,6 +175,10 @@
   },
   "active": "30dd76ae63a37ef7",
   "lastOpenFiles": [
+    "Templates/Default Note.md",
+    "Inbox.md",
+    "Todo.md",
+    "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
     "DND/Fantasia DND Campaign/Notes/Celestria.md",
     "DND/Fantasia DND Campaign/Notes/The Velvet Hand.md",
@@ -198,9 +202,6 @@
     "DND/Fantasia DND Campaign/Notes/Helena Vargus.md",
     "DND/Fantasia DND Campaign/Notes/Enzlo.md",
     "DND/Fantasia DND Campaign/Notes/Elias Drake.md",
-    "DND/Fantasia DND Campaign/Notes/Elia Galewind.md",
-    "DND/Fantasia DND Campaign/Notes/Durnan Craghammer.md",
-    "DND/Fantasia DND Campaign/Notes/Area Sunspell.md",
     "Templates",
     "DND",
     "Programming",
@@ -210,7 +211,6 @@
     "Projects",
     "Projects/Optra",
     "Reading",
-    "Collabaration",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]

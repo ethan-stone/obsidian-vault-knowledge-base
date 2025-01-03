@@ -1,4 +1,5 @@
 ---
 tags: 
-created: "{{date}}"
+created_at: "{{date}}"
+parent: "[[Inbox]]"
 ---
