@@ -45,8 +45,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Default Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Default Note"
             }
           },
           {
@@ -136,11 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Default Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Default Note"
             }
           },
           {
@@ -196,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf46094a956fe55b",
+  "active": "30dd76ae63a37ef7",
   "lastOpenFiles": [
     "Templates/Default Note.md",
     "Inbox.md",
