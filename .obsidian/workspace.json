@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Note.md",
+                "file": "Templates/Default Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Another Note"
+              "title": "Default Note"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Another Note.md",
+                "file": "Templates/Default Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Another Note"
+              "title": "Backlinks for Default Note"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Another Note.md",
+                "file": "Templates/Default Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Another Note"
+              "title": "Outgoing links from Default Note"
             }
           },
           {
@@ -190,11 +190,11 @@
   },
   "active": "e9a7cfb74a35fcbd",
   "lastOpenFiles": [
+    "Inbox.md",
     "Todo.md",
     "Another Note.md",
     "New Note.md",
     "Templates/Default Note.md",
-    "Inbox.md",
     "Vocab/Shellac.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
