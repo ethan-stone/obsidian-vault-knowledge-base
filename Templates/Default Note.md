@@ -1,4 +1,4 @@
 ---
 tags: 
-created_at: "{{"
+created_at: "{{date}}"
 ---
