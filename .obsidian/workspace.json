@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Daily Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Daily Journal"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Daily Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Daily Journal"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Daily Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Daily Journal"
             }
           },
           {
@@ -176,7 +176,7 @@
   "active": "2fa6586889e08b27",
   "lastOpenFiles": [
     "Templates/Default Note.md",
-    "Templates/Untitled.md",
+    "Templates/Daily Journal.md",
     "Inbox.md",
     "Todo.md",
     "Another Note.md",
