@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Note.md",
+                "file": "Templates/Default Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "Default Note"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "30dd76ae63a37ef7",
   "lastOpenFiles": [
-    "Inbox.md",
     "New Note.md",
+    "Inbox.md",
     "Todo.md",
     "Templates/Default Note.md",
     "Vocab/Shellac.md",
