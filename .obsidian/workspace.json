@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/New Note.md",
+                "file": "Templates/{{title}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "{{title}}"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Note.md",
+                "file": "Templates/{{title}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Note"
+              "title": "Backlinks for"
             }
           },
           {
@@ -190,7 +190,7 @@
   "active": "edf6903666d650c6",
   "lastOpenFiles": [
     "Untitled.md",
-    "Templates/New Note.md",
+    "Templates/{{title}}.md",
     "DND/Fantasia DND Campaign/Notes/Alexi Thorne.md",
     "Templates",
     "Vocab/Table of Contents.md",
