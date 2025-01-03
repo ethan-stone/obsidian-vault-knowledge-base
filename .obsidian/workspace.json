@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "948b4e9af38d2a09",
+        "id": "574c19dd5405dca3",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd8350bc4c3d559",
+            "id": "1009e26787f09472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Fantasia DND Campaign/Notes/Alexi Thorne.md",
+                "file": "DND/Fantasia DND Campaign/Notes/The Sentinels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexi Thorne"
-            }
-          },
-          {
-            "id": "edf6903666d650c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Default Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Default Note"
+              "title": "The Sentinels"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#police",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "DND/Fantasia DND Campaign/Notes/The Sentinels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks for The Sentinels"
             }
           },
           {
@@ -171,7 +157,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,11 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "da060db27898ebeb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Templates/Default Note.md",
     "DND/Fantasia DND Campaign/Notes/Alexi Thorne.md",
+    "DND/Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
+    "DND/Altania DND Campaign/Notes/Fizzben.md",
+    "DND/Altania DND Campaign/Notes/Fillanore.md",
+    "DND/Altania DND Campaign/Notes/Farrowilt.md",
+    "DND/Altania DND Campaign/Notes/Flaxon.md",
+    "DND/Altania DND Campaign/Notes/Corvus.md",
+    "DND/Altania DND Campaign/Notes/Blessed Flag Inn.md",
+    "DND/Altania DND Campaign/Notes/Arisen One.md",
+    "DND/Altania DND Campaign/Notes/Bertrem Munchquick.md",
+    "DND/Altania DND Campaign/Notes/Achtneil.md",
+    "Templates/Default Note.md",
+    "Untitled.md",
     "Templates",
     "Vocab/Table of Contents.md",
     "Vocab/Brevity.md",
@@ -212,18 +209,8 @@
     "Projects/Optra/Tasks.md",
     "Projects",
     "Projects/Optra/Pricing Draft.md",
-    "Reading/Reading List.md",
     "Projects/Optra",
-    "Inbox.md",
     "Reading",
-    "DND/Fantasia DND Campaign/Sessions/Session 2.md",
-    "DND/Fantasia DND Campaign/Sessions/Session 1.md",
-    "DND/Fantasia DND Campaign/Notes/The Quest Hub.md",
-    "DND/Fantasia DND Campaign/Notes/Serena Lightfoot.md",
-    "DND/Fantasia DND Campaign/Notes/Area Sunspell.md",
-    "DND/Fantasia DND Campaign/Notes/Arcanix Emporium.md",
-    "DND/Fantasia DND Campaign/Notes/Craghammer Forge and Foundry.md",
-    "DND/Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
     "Collabaration",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
