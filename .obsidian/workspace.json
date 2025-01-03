@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2025-01-02.md",
+                "file": "Templates/Daily Journal.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-02"
+              "title": "Daily Journal"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2025-01-02.md",
+                "file": "Templates/Daily Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-02"
+              "title": "Backlinks for Daily Journal"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2025-01-02.md",
+                "file": "Templates/Daily Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-02"
+              "title": "Outgoing links from Daily Journal"
             }
           },
           {
@@ -175,9 +175,9 @@
   },
   "active": "2fa6586889e08b27",
   "lastOpenFiles": [
+    "Templates/Default Note.md",
     "Templates/Daily Journal.md",
     "Journal/2025-01-02.md",
-    "Templates/Default Note.md",
     "Journal",
     "Inbox.md",
     "Todo.md",
