@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Todo"
             }
-          },
-          {
-            "id": "e9a7cfb74a35fcbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Default Note.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Default Note"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks for Todo"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Default Note"
+              "title": "Outgoing links from Todo"
             }
           },
           {
@@ -188,13 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9a7cfb74a35fcbd",
+  "active": "2fa6586889e08b27",
   "lastOpenFiles": [
+    "Templates/Default Note.md",
     "Inbox.md",
     "Todo.md",
     "Another Note.md",
     "New Note.md",
-    "Templates/Default Note.md",
     "Vocab/Shellac.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
