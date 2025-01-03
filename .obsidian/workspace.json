@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Templates/Default Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Journal"
+              "title": "Default Note"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Templates/Default Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Journal"
+              "title": "Backlinks for Default Note"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Templates/Default Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Journal"
+              "title": "Outgoing links from Default Note"
             }
           },
           {
@@ -173,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fa6586889e08b27",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Templates/Default Note.md",
+    "Journal",
     "Templates/Daily Journal.md",
+    "Templates/Default Note.md",
     "Inbox.md",
     "Todo.md",
     "Another Note.md",
@@ -201,7 +202,6 @@
     "DND/Fantasia DND Campaign/Notes/Serena Lightfoot.md",
     "DND/Fantasia DND Campaign/Notes/Marcus Kell.md",
     "DND/Fantasia DND Campaign/Notes/Karl Ironhand.md",
-    "DND/Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
     "Templates",
     "DND",
     "Programming",
