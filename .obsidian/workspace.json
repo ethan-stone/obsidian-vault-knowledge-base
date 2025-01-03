@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "089f88e8504e1060",
+        "id": "948b4e9af38d2a09",
         "type": "tabs",
         "children": [
           {
-            "id": "beb44b095134f517",
+            "id": "dfd8350bc4c3d559",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "beb44b095134f517",
+  "active": "dfd8350bc4c3d559",
   "lastOpenFiles": [
     "Vocab/Table of Contents.md",
     "Vocab/Brevity.md",
