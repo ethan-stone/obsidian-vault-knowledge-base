@@ -1,7 +1,5 @@
 ---
 tags: 
-created_at: "{{date}}T{{time}}"
+created_at: 
 parent: "[[Inbox]]"
-cssclasses: 
-aliases:
 ---

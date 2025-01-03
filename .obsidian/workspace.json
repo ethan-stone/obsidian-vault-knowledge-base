@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "0b5d3a40c32f3b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/Default Note.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Default Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fa6586889e08b27",
+  "active": "0b5d3a40c32f3b97",
   "lastOpenFiles": [
-    "Untitled.md",
+    "New Note.md",
     "Todo.md",
     "Templates/Default Note.md",
     "Inbox.md",
-    "New Note.md",
     "Vocab/Shellac.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
