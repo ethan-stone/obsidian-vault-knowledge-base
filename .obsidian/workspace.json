@@ -126,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Default Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Default Note"
             }
           },
           {
@@ -170,8 +171,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,10 +189,10 @@
   },
   "active": "30dd76ae63a37ef7",
   "lastOpenFiles": [
-    "New Note.md",
     "Inbox.md",
-    "Todo.md",
     "Templates/Default Note.md",
+    "New Note.md",
+    "Todo.md",
     "Vocab/Shellac.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
