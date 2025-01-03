@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Journal/2025-01-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Journal"
+              "title": "2025-01-02"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#landmark",
+                "query": "tag:note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Journal/2025-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Journal"
+              "title": "Backlinks for 2025-01-02"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Journal.md",
+                "file": "Journal/2025-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Journal"
+              "title": "Outgoing links from 2025-01-02"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "2fa6586889e08b27",
   "lastOpenFiles": [
-    "Journal/2025-01-02.md",
     "Templates/Daily Journal.md",
+    "Journal/2025-01-02.md",
     "Templates/Default Note.md",
     "Journal",
     "Inbox.md",
