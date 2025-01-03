@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Fantasia DND Campaign/Notes/Elia Galewind.md",
+                "file": "DND/Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elia Galewind"
+              "title": "Deephaven (Aka The Nether)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character",
+                "query": "tag:#place",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/Fantasia DND Campaign/Notes/Elia Galewind.md",
+                "file": "DND/Fantasia DND Campaign/Notes/Deephaven (Aka The Nether).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elia Galewind"
+              "title": "Backlinks for Deephaven (Aka The Nether)"
             }
           },
           {
@@ -176,8 +176,18 @@
   },
   "active": "1009e26787f09472",
   "lastOpenFiles": [
-    "DND/Fantasia DND Campaign/Notes/Durnan Craghammer.md",
+    "DND/Fantasia DND Campaign/Notes/Varis Nightbloom.md",
+    "DND/Fantasia DND Campaign/Notes/Tilda Merryweather.md",
+    "DND/Fantasia DND Campaign/Notes/Serena Lightfoot.md",
+    "DND/Fantasia DND Campaign/Notes/Marcus Kell.md",
+    "DND/Fantasia DND Campaign/Notes/Karl Ironhand.md",
+    "DND/Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
+    "DND/Fantasia DND Campaign/Notes/Isabella Thorne.md",
+    "DND/Fantasia DND Campaign/Notes/Helena Vargus.md",
+    "DND/Fantasia DND Campaign/Notes/Enzlo.md",
+    "DND/Fantasia DND Campaign/Notes/Elias Drake.md",
     "DND/Fantasia DND Campaign/Notes/Elia Galewind.md",
+    "DND/Fantasia DND Campaign/Notes/Durnan Craghammer.md",
     "DND/Fantasia DND Campaign/Notes/Area Sunspell.md",
     "DND/Fantasia DND Campaign/Notes/The Silver Spoon Café & Bakery.md",
     "DND/Fantasia DND Campaign/Notes/The Brewed Elixir.md",
@@ -192,17 +202,7 @@
     "DND/Altania DND Campaign/Notes/Wizard Study North of Achtneil.md",
     "DND/Altania DND Campaign/Notes/Fizzben.md",
     "DND/Altania DND Campaign/Notes/Fillanore.md",
-    "DND/Altania DND Campaign/Notes/Farrowilt.md",
-    "DND/Altania DND Campaign/Notes/Flaxon.md",
-    "DND/Altania DND Campaign/Notes/Corvus.md",
-    "DND/Altania DND Campaign/Notes/Blessed Flag Inn.md",
-    "DND/Altania DND Campaign/Notes/Arisen One.md",
-    "DND/Altania DND Campaign/Notes/Bertrem Munchquick.md",
-    "DND/Altania DND Campaign/Notes/Achtneil.md",
-    "Templates/Default Note.md",
-    "Untitled.md",
     "Templates",
-    "Vocab/Table of Contents.md",
     "DND",
     "Programming",
     "Personal Improvement",
