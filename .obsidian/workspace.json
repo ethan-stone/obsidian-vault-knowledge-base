@@ -4,48 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc933bcd902d30e",
+        "id": "d653bbd6a0456ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "30dd76ae63a37ef7",
+            "id": "51ffc240bdee469d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Default Note.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Default Note"
             }
           },
           {
-            "id": "6e23263a28b5cd1d",
+            "id": "2fa6586889e08b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab/Shellac.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shellac"
-            }
-          },
-          {
-            "id": "cf46094a956fe55b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Note"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -136,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Default Note.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Default Note"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -197,13 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30dd76ae63a37ef7",
+  "active": "2fa6586889e08b27",
   "lastOpenFiles": [
     "Templates/Default Note.md",
+    "Untitled.md",
     "Inbox.md",
     "New Note.md",
-    "Todo.md",
     "Vocab/Shellac.md",
+    "Todo.md",
     "Inbox",
     "DND/Fantasia DND Campaign/Notes/Orialis.md",
     "DND/Fantasia DND Campaign/Notes/Celestria.md",
@@ -225,7 +217,6 @@
     "DND/Fantasia DND Campaign/Notes/Karl Ironhand.md",
     "DND/Fantasia DND Campaign/Notes/Jasper Goodbarrel.md",
     "DND/Fantasia DND Campaign/Notes/Isabella Thorne.md",
-    "DND/Fantasia DND Campaign/Notes/Helena Vargus.md",
     "Templates",
     "DND",
     "Programming",
