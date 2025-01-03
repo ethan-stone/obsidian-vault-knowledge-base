@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Inbox"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo"
+              "title": "Backlinks for Inbox"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Inbox"
             }
           },
           {
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fa6586889e08b27",
+  "active": "212ff2392fec10ef",
   "lastOpenFiles": [
+    "Todo.md",
     "Templates/Default Note.md",
     "Inbox.md",
-    "Todo.md",
     "Another Note.md",
     "New Note.md",
     "Vocab/Shellac.md",
