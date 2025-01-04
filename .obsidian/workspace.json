@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2025-01-03.md",
+                "file": "Journal/2025-01-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-03"
+              "title": "2025-01-04"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2025-01-03.md",
+                "file": "Journal/2025-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-03"
+              "title": "Backlinks for 2025-01-04"
             }
           },
           {
@@ -176,6 +176,7 @@
   "active": "9037af6257cd8c0c",
   "lastOpenFiles": [
     "Journal/2025-01-03.md",
+    "Journal/2025-01-04.md",
     "Inbox.md",
     "Journal/2025-01-02.md",
     "Templates/Default Note.md",
@@ -202,7 +203,6 @@
     "DND/Fantasia DND Campaign/Notes/Varis Nightbloom.md",
     "DND/Fantasia DND Campaign/Notes/Tilda Merryweather.md",
     "DND/Fantasia DND Campaign/Notes/Serena Lightfoot.md",
-    "DND/Fantasia DND Campaign/Notes/Marcus Kell.md",
     "Templates",
     "DND",
     "Programming",
