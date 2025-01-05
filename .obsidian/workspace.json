@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab/Cacophony.md",
+                "file": "Vocab/Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cacophony"
+              "title": "Table of Contents"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocab/Cacophony.md",
+                "file": "Vocab/Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cacophony"
+              "title": "Backlinks for Table of Contents"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "d43f6ed669df4263",
   "lastOpenFiles": [
-    "Vocab/Table of Contents.md",
     "Vocab/Cacophony.md",
+    "Vocab/Table of Contents.md",
     "Vocab/Throng.md",
     "Vocab/Aubergine.md",
     "Journal/2025-01-04.md",
