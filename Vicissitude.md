@@ -1,2 +1,2 @@
 A change or variation.
-A usually unforseen change in circumstances 
+A usually unforeseen change in circumstances or experience that affects one's life.
