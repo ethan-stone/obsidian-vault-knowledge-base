@@ -8,3 +8,5 @@
 - [[Opulent]]
 - [[Brevity]]
 - [[Cacophony]]
+- [[Homophone]]
+- [[Morose]]
