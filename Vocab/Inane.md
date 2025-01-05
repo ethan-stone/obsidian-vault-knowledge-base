@@ -1,1 +1,1 @@
-Vacuous
+Vacuous or complacent and unconscious foolish.
