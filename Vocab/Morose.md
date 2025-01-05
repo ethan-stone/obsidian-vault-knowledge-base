@@ -1,0 +1,1 @@
+Of a sour temper; sever; sullen; austere.

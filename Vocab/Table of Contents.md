@@ -10,3 +10,4 @@
 - [[Cacophony]]
 - [[Homophone]]
 - [[Morose]]
+- [[Inane]]
