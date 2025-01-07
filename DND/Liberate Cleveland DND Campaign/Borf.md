@@ -8,7 +8,7 @@
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d10
 	- Max - 5
-	- Have - 3
+	- Have - 2
 - Dark Vision - 60ft
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
