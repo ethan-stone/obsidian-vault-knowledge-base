@@ -84,3 +84,5 @@ Last members are Johnathon Black and Draxon Greenscale. They are headed to Highp
 
 I am now a wereboar.
 
+We are in Sky's Rest.
+
