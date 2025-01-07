@@ -11,10 +11,14 @@
             "id": "c7cd78c7cd20a7e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Checkout Epoch Semantic Versioning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Checkout Epoch Semantic Versioning"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Checkout Epoch Semantic Versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Checkout Epoch Semantic Versioning"
             }
           },
           {
@@ -107,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2025-01-03.md",
+                "file": "Checkout Epoch Semantic Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-03"
+              "title": "Outgoing links from Checkout Epoch Semantic Versioning"
             }
           },
           {
@@ -133,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Checkout Epoch Semantic Versioning.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Checkout Epoch Semantic Versioning"
             }
           },
           {
@@ -153,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,11 +178,15 @@
   },
   "active": "c7cd78c7cd20a7e4",
   "lastOpenFiles": [
+    "Vocab/Table of Contents.md",
+    "Vocab/Vicissitude.md",
+    "Todo.md",
+    "Inbox.md",
+    "Templates/Default Note.md",
+    "Checkout Epoch Semantic Versioning.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
     "DND/Liberate Cleveland DND Campaign/Quests.md",
-    "Vicissitude.md",
-    "Vocab/Table of Contents.md",
     "Vocab/Inane.md",
     "Vocab/Morose.md",
     "Vocab/Homophone.md",
@@ -184,12 +195,9 @@
     "Vocab/Aubergine.md",
     "Journal/2025-01-04.md",
     "Journal/2025-01-03.md",
-    "Inbox.md",
     "Journal/2025-01-02.md",
-    "Templates/Default Note.md",
     "Templates/Daily Journal.md",
     "Journal",
-    "Todo.md",
     "Another Note.md",
     "New Note.md",
     "Vocab/Shellac.md",
@@ -198,7 +206,6 @@
     "DND/Fantasia DND Campaign/Notes/Celestria.md",
     "DND/Fantasia DND Campaign/Notes/The Velvet Hand.md",
     "DND/Fantasia DND Campaign/Notes/The Iron Circle.md",
-    "DND/Fantasia DND Campaign/Notes/Fantasia.md",
     "Templates",
     "DND",
     "Programming",
