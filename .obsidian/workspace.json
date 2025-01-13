@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checkout Epoch Semantic Versioning.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checkout Epoch Semantic Versioning"
+              "title": "Todo"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Checkout Epoch Semantic Versioning.md",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Checkout Epoch Semantic Versioning"
+              "title": "Outgoing links from Todo"
             }
           },
           {
@@ -178,11 +178,15 @@
   },
   "active": "c7cd78c7cd20a7e4",
   "lastOpenFiles": [
-    "2025-01-11 Workout.md",
-    "2025-01-09 Workout.md",
+    "Fitness/Lifting/Log/2025-01-07 Workout.md",
     "Checkout Epoch Semantic Versioning.md",
-    "2025-01-08 Workout.md",
-    "2025-01-07 Workout.md",
+    "Fitness/Lifting/Log",
+    "Fitness/Lifting/Log.md",
+    "Fitness/Lifting",
+    "Fitness/Running/Untitled.md",
+    "Fitness/Lifting/Log/2025-01-11 Workout.md",
+    "Fitness/Lifting/Log/2025-01-09 Workout.md",
+    "Fitness/Lifting/Log/2025-01-08 Workout.md",
     "Vocab/Table of Contents.md",
     "Vocab/Vicissitude.md",
     "Todo.md",
@@ -202,9 +206,6 @@
     "Journal/2025-01-02.md",
     "Templates/Daily Journal.md",
     "Journal",
-    "Another Note.md",
-    "New Note.md",
-    "Vocab/Shellac.md",
     "Inbox",
     "Templates",
     "DND",
@@ -212,8 +213,6 @@
     "Personal Improvement",
     "Work",
     "Fitness",
-    "Projects",
-    "Projects/Optra",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]
