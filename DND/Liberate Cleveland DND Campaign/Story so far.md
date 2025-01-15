@@ -86,3 +86,4 @@ I am now a wereboar.
 
 We are in Sky's Rest.
 
+Pick another blessing

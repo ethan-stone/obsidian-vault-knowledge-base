@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "Story so far"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Borf"
+              "title": "Outgoing links from Story so far"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md"
+                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Borf"
+              "title": "Outline of Story so far"
             }
           },
           {
@@ -176,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a65a34a905a2696",
+  "active": "344fe1ffbd52d14a",
   "lastOpenFiles": [
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
     "Checkout Epoch Semantic Versioning.md",
     "Fitness/Lifting/Log/2025-01-13 Workout.md",
@@ -194,7 +195,6 @@
     "Vocab/Vicissitude.md",
     "Inbox.md",
     "Templates/Default Note.md",
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Quests.md",
     "Vocab/Inane.md",
     "Vocab/Morose.md",
