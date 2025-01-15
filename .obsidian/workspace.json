@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Checkout Epoch Semantic Versioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Checkout Epoch Semantic Versioning"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Checkout Epoch Semantic Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo"
+              "title": "Outgoing links from Checkout Epoch Semantic Versioning"
             }
           },
           {
@@ -178,6 +178,7 @@
   },
   "active": "c7cd78c7cd20a7e4",
   "lastOpenFiles": [
+    "Todo.md",
     "Fitness/Lifting/Log/2025-01-07 Workout.md",
     "Checkout Epoch Semantic Versioning.md",
     "Fitness/Lifting/Log",
@@ -189,7 +190,6 @@
     "Fitness/Lifting/Log/2025-01-08 Workout.md",
     "Vocab/Table of Contents.md",
     "Vocab/Vicissitude.md",
-    "Todo.md",
     "Inbox.md",
     "Templates/Default Note.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
