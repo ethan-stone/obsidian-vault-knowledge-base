@@ -231,7 +231,7 @@ A creature of your choice that you can see within range perceives everything as 
 At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it’s triggered by damage. On a success, the spell ends.
 ## Level 2
 Spell Slots - 3
-Spell Slots Used - 0
+Spell Slots Used - 1
 ### Shatter
 **Casting Time:** 1 action  
 **Range:** 60 feet  
