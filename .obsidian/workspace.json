@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Checkout Epoch Semantic Versioning.md"
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Checkout Epoch Semantic Versioning"
+              "title": "Outline of Borf"
             }
           },
           {
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "6a65a34a905a2696",
   "lastOpenFiles": [
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
     "Checkout Epoch Semantic Versioning.md",
