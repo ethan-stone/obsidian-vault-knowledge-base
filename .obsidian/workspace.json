@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story so far"
+              "title": "Borf"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md",
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Story so far"
+              "title": "Outgoing links from Borf"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Story so far.md"
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Story so far"
+              "title": "Outline of Borf"
             }
           },
           {
@@ -176,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "344fe1ffbd52d14a",
+  "active": "6a65a34a905a2696",
   "lastOpenFiles": [
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Checkout Epoch Semantic Versioning.md",
     "Fitness/Lifting/Log/2025-01-13 Workout.md",
     "Todo.md",
