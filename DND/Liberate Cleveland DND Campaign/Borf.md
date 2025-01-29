@@ -49,7 +49,7 @@
 - Wisdom - (+1)
 - Charisma - (+10)^
 # Skills
-- Acrobatics - (+4)
+- Acrobatics - (+5)
 - Animal Handling - (+2)
 - Arcana - (+3)
 - Athletics - (+3)
