@@ -408,7 +408,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 **_At Higher Levels._** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 ## Level 7
 Spell Slots - 1
-Spell Slots Used - 0
+Spell Slots Used - 1
 ### Forcecage
 **Casting Time:** 1 action  
 **Range:** 100 feet  
