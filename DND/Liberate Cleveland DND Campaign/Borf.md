@@ -118,6 +118,8 @@ _**Tusks (Boar or Hybrid Form Only).** Melee Weapon Attack:_ +(STR + Prof) to 
 - Spell Attack Mod - 9
 ## Blessing of Magic Resistance
 You have advantage on saving throws against spells and other magical effects.
+## Blessing of Health Resistance
+You have advantage on saving throws against spells and other magical effects.
 ## Bones of the Earth at 9th Level Once a Day
 - Is Used - No
 **Casting Time:** 1 action  
