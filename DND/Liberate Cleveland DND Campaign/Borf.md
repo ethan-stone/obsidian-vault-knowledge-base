@@ -17,7 +17,7 @@
 - Proficient with light and medium armor
 - Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
 - Proficient with trumpet, bag pipes, and percussion instruments
-- Song of Rest - Allies get 1d8 HP during short rest
+- Song of Rest - Allies get 1d10 HP during short rest
 - Stone cunning - +2 on history checks related to stone
 - 2 free nat 20's to use whenever
 - Free +5 to any roll
@@ -52,7 +52,7 @@
 - Acrobatics - (+5)
 - Animal Handling - (+2)
 - Arcana - (+3)
-- Athletics - (+3)
+- Athletics - (+4)
 - Deception - (+5) Jack of All Trades
 - History - (+1)
 - Insight - (+2)
@@ -64,8 +64,8 @@
 - Performance - (+13)^^
 - Persuasion - (+13)^^
 - Religion - (+1)
-- Sleight of Hand - (+4)
-- Stealth - (+4)
+- Sleight of Hand - (+5)
+- Stealth - (+5)
 - Survival - (+2)
 # Equipment
 - Copper - 145
