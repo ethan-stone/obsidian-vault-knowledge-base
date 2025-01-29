@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Borf"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Todo"
+              "title": "Outline of Borf"
             }
           },
           {
@@ -178,12 +178,12 @@
   },
   "active": "da5ee963c50ca418",
   "lastOpenFiles": [
+    "Todo.md",
     "2025-01-13 Workout.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
     "Checkout Epoch Semantic Versioning.md",
     "Fitness/Lifting/Log/2025-01-13 Workout.md",
-    "Todo.md",
     "Fitness/Lifting/Log/2025-01-07 Workout.md",
     "Fitness/Lifting/Log",
     "Fitness/Lifting/Log.md",
