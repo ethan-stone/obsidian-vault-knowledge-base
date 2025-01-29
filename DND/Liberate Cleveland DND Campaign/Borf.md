@@ -33,7 +33,7 @@
 - Wisdom - 14 (+2)
 - Charsima - 20 (+5)
 - Passive Wisdom - 11
-- Armor Class - 16
+- Armor Class - 17
 - Initiative - (+3)
 - Speed - 104
 - Max HP - 104
@@ -118,8 +118,8 @@ _**Tusks (Boar or Hybrid Form Only).** Melee Weapon Attack:_ +(STR + Prof) to 
 - Spell Attack Mod - 9
 ## Blessing of Magic Resistance
 You have advantage on saving throws against spells and other magical effects.
-## Blessing of Health Resistance
-You have advantage on saving throws against spells and other magical effects.
+## Blessing of Protection
+You gain a +1 bonus to AC and saving throws.
 ## Bones of the Earth at 9th Level Once a Day
 - Is Used - No
 **Casting Time:** 1 action  
