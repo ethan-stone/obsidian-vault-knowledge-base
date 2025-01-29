@@ -26,12 +26,12 @@
 - Blessing of Health
 # Stats
 - Proficiency Bonus - (+4)
-- Strength - 18 (+4)
-- Dexterity - 17 (+3)
-- Constitution - 20 (+5) (Blessing of Health)
-- Intelligence - 9 (-1)
-- Wisdom - 14 (+2)
-- Charsima - 20 (+5)
+- Strength - 19 (+4)
+- Dexterity - 18 (+4)
+- Constitution - 21 (+5) (Blessing of Health)
+- Intelligence - 10 (0)
+- Wisdom - 15 (+2)
+- Charsima - 21 (+5)
 - Passive Wisdom - 11
 - Armor Class - 17
 - Initiative - (+3)
