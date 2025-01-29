@@ -35,9 +35,9 @@
 - Passive Wisdom - 11
 - Armor Class - 17
 - Initiative - (+3)
-- Speed - 104
-- Max HP - 104
-- HP - 68
+- Speed - 30
+- Max HP - 115
+- HP - 115
 - Hit Dice - 1d8
 	- Max - 11
 	- Have - 11
