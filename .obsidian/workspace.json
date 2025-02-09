@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "2025-01-13 Workout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "2025-01-13 Workout"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "2025-01-13 Workout.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Borf"
+              "title": "Outline of 2025-01-13 Workout"
             }
           },
           {
@@ -180,11 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da5ee963c50ca418",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/Liberate Cleveland DND Campaign/Quests.md",
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Todo.md",
     "2025-01-13 Workout.md",
     "Checkout Epoch Semantic Versioning.md",
