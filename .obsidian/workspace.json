@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "DND/One Shot/Elara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "Elara"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "404 550 5950.md",
+                "file": "DND/One Shot/Elara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 404 550 5950"
+              "title": "Outline of Elara"
             }
           },
           {
@@ -180,10 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "da5ee963c50ca418",
   "lastOpenFiles": [
-    "404 550 5950.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
+    "DND/One Shot/Elara.md",
+    "DND/One Shot",
+    "404 550 5950.md",
     "2025-02-10 Workout.md",
     "Fitness/Lifting/Log/2025-02-10 Workout.md",
     "Fitness/Lifting/Log/2025-01-13 Workout.md",
@@ -209,7 +211,6 @@
     "Vocab/Cacophony.md",
     "Vocab/Throng.md",
     "Vocab/Aubergine.md",
-    "Journal/2025-01-04.md",
     "Journal",
     "Inbox",
     "Templates",
@@ -217,7 +218,6 @@
     "Programming",
     "Personal Improvement",
     "Work",
-    "Fitness",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]
