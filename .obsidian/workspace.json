@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/One Shot/Elara.md",
+                "file": "DND/One Shot/Elian Sunspell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elara"
+              "title": "Elian Sunspell"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/One Shot/Elara.md",
+                "file": "DND/One Shot/Elian Sunspell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elara"
+              "title": "Outline of Elian Sunspell"
             }
           },
           {
@@ -183,7 +183,7 @@
   "active": "da5ee963c50ca418",
   "lastOpenFiles": [
     "DND/Liberate Cleveland DND Campaign/Borf.md",
-    "DND/One Shot/Elara.md",
+    "DND/One Shot/Elian Sunspell.md",
     "DND/One Shot",
     "404 550 5950.md",
     "2025-02-10 Workout.md",

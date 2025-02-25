@@ -1,4 +1,4 @@
-# Elian Meadowlight - 11th Level Wood Elf Rogue (Assassin)
+# 11th Level Wood Elf Rogue (Assassin)
 
 ## Character Summary
 
