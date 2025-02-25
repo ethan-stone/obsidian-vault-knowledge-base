@@ -1,8 +1,8 @@
-# 11th Level Wood Elf Rogue (Assassin)
+# Elian Meadowlight - 11th Level Wood Elf Rogue (Assassin)
 
 ## Character Summary
 
-*   **Name:** Elara Meadowlight
+*   **Name:** Elian Meadowlight
 *   **Race:** Wood Elf
 *   **Class:** Rogue (Assassin)
 *   **Level:** 11
@@ -58,7 +58,7 @@ Common, Elvish, Thieves' Cant
 *   Disguise kit
 *   A set of common clothes
 *   A small pouch with 30 gp
-*   A tarnished silver locket with a picture of a flower
+*   A tarnished silver locket with a picture of a dried flower
 
 ## Class Features
 
@@ -76,12 +76,12 @@ Common, Elvish, Thieves' Cant
 
 ## Backstory
 
-Elara grew up as an orphan on the streets, learning to survive by her wits and agility. She developed her skills in stealth and deception to avoid trouble and steal food. She was taken in briefly by a thieves' guild, where she honed her skills further, but she left when she realized their methods were too cruel. She now uses her skills to help those in need, often working as a vigilante, righting wrongs from the shadows. She is haunted by the things she had to do to survive as a child and seeks to atone for them by helping others. She is terrified of being caught or exposed, fearing that her past will catch up with her.
+Elian grew up as an orphan on the streets, learning to survive by his wits and agility. He developed his skills in stealth and deception to avoid trouble and steal food. He was taken in briefly by a thieves' guild, where he honed his skills further, but he left when he realized their methods were too cruel. He now uses his skills to help those in need, often working as a vigilante, righting wrongs from the shadows. He is haunted by the things he had to do to survive as a child and seeks to atone for them by helping others. He is terrified of being caught or exposed, fearing that his past will catch up with him.
 
 ## Roleplaying Notes
 
 *   **Voice:** Soft, hesitant, and quiet.
-*   **Body Language:** Fidgety, avoids eye contact, often hides in shadows or behind objects.
-*   **Motivations:** Driven by a desire to help others and atone for her past.
-*   **Fears:** Being exposed, being forced to return to her old life, hurting innocent people.
-*   **Quirks:** Carries a small, worn book of pressed flowers, which she uses to calm her nerves. She often mumbles to herself when nervous.
+*   **Body Language:** Fidgety, avoids eye contact, often pulls at his sleeves or adjusts his collar.
+*   **Motivations:** Driven by a desire to help others and atone for his past.
+*   **Fears:** Being exposed, being forced to return to his old life, hurting innocent people.
+*   **Quirks:** Carries a tarnished silver locket with a picture of a dried flower, a memento from his childhood. He often nervously polishes the locket when stressed. He also has a habit of apologizing excessively, even when he's done nothing wrong.
