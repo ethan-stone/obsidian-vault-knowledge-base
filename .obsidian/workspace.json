@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/One Shot/Elian Sunspell.md",
+                "file": "DND/One Shot/Volga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elian Sunspell"
+              "title": "Volga"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/One Shot/Elian Sunspell.md",
+                "file": "DND/One Shot/Volga.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elian Sunspell"
+              "title": "Outline of Volga"
             }
           },
           {
@@ -182,8 +182,9 @@
   },
   "active": "da5ee963c50ca418",
   "lastOpenFiles": [
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/One Shot/Elian Sunspell.md",
+    "DND/One Shot/Volga.md",
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/One Shot",
     "404 550 5950.md",
     "2025-02-10 Workout.md",
@@ -210,7 +211,6 @@
     "Vocab/Homophone.md",
     "Vocab/Cacophony.md",
     "Vocab/Throng.md",
-    "Vocab/Aubergine.md",
     "Journal",
     "Inbox",
     "Templates",
