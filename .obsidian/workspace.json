@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/One Shot/Volga Volarus.md",
+                "file": "DND/One Shot/Eldrin Julii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volga Volarus"
+              "title": "Eldrin Julii"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/One Shot/Volga Volarus.md",
+                "file": "DND/One Shot/Eldrin Julii.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Volga Volarus"
+              "title": "Outline of Eldrin Julii"
             }
           },
           {
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "da5ee963c50ca418",
   "lastOpenFiles": [
-    "DND/One Shot/Eldrin Sunspell.md",
     "DND/One Shot/Volga Volarus.md",
+    "DND/One Shot/Eldrin Julii.md",
     "Notes/Balatro Seeds.md",
     "Notes",
     "DND/Liberate Cleveland DND Campaign/Borf.md",

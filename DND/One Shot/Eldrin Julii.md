@@ -1,5 +1,3 @@
-**Character Name:** Eldrin Moonwhisper
-
 **Race:** High Elf
 
 **Class:** Wizard (School of Evocation)
