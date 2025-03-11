@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +183,10 @@
   },
   "active": "da5ee963c50ca418",
   "lastOpenFiles": [
-    "Notes/Balatro Seeds.md",
-    "Notes",
     "DND/One Shot/Volga.md",
     "DND/One Shot/Eldrin Sunspell.md",
+    "Notes/Balatro Seeds.md",
+    "Notes",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "DND/One Shot",
     "404 550 5950.md",
