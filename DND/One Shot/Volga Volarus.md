@@ -15,7 +15,7 @@
 
 ## Combat
 
-*   **HP:** 63
+*   **HP:** 58
 *   **AC:** 15 (Unarmored Defense: 10 + Dex + Con)
 *   **Speed:** 45 ft. (Fast Movement)
 *   **Rage Damage:** +4
