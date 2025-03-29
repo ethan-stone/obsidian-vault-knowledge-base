@@ -15,3 +15,6 @@ I62KX3D9
 - oops all sixes bloodstone blue print dna lucky cat halagram etc.
 
 AFSZ859J good potential lucky build
+
+CTY8Y5ET
+High score build 
