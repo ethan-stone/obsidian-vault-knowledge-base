@@ -112,7 +112,6 @@ The [wereboar](https://www.dndbeyond.com/monsters/17054-wereboar) was introduc
 
 _**Multiattack (Humanoid or Hybrid Form Only).**_ The wereboar makes two attacks, only one of which can be with its tusks.  
 
-_**Tusks (Boar or Hybrid Form Only).** Melee Weapon Attack:_ +(STR + Prof) to hit, reach 5 ft., one target. _Hit:_ (2d6 + STR) slashing damage. If the target is a humanoid, it must succeed on a DC (8 + CON + Prof) Constitution saving throw or be cursed with wereboar lycanthropy.
 # Spells
 - Spell DC - 17
 - Spell Attack Mod - 9
