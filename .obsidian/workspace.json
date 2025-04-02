@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da36e26fba0ece54",
+        "id": "d6ae4ef201b1b31d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a46452a6fda5c72",
+            "id": "a682ff6d1c6b70e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Borf"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a46452a6fda5c72",
+  "active": "a682ff6d1c6b70e7",
   "lastOpenFiles": [
     "DND/One Shot/Volga Volarus.md",
     "DND/One Shot/Eldro Julii.md",
