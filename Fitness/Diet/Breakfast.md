@@ -1,5 +1,6 @@
 # Scrambled Eggs with Peanut Butter Toast and Honey
 - Totals
+	- 26 grams of protein
 	- 
 - 3 Scrambled Eggs
 	- 18 grams of protein
@@ -9,4 +10,5 @@
 - 2 Tbsp Peanut Butter
 	- 8 grams of protein
 	- 190 calories
-	- 
+- 1 Tbsp Honey
+	- 64 calories
