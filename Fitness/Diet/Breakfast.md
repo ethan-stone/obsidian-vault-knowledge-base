@@ -14,9 +14,12 @@
 	- 64 calories
 # Smoothie
 - Totals
+	- 
 - Protein Powder
 	- 25 grams of protein
 	- 110 calories
 - 1 Cup Frozen Fruit
 	- 50 calories
 - 2 Cups of Milk
+	- 15 grams of protein
+	- 150 calories
