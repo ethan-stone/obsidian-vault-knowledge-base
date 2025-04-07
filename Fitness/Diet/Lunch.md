@@ -1,6 +1,6 @@
 # Ground Beef With Greek Yogurt Sauce
 - Totals
-	- 
+	- 86 grams of protein
 	- 755 calories
 - 300 Grams Ground Beef
 	- 81 grams of protein
