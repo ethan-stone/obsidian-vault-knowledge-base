@@ -4,6 +4,9 @@
 - 3 Scrambled Eggs
 	- 18 grams of protein
 	- 222 calories
-- 1 Slice of Break
+- 1 Apple
 	- 100 calories
-- 1 Tbsp Peanut Butter
+- 2 Tbsp Peanut Butter
+	- 8 grams of protein
+	- 190 calories
+	- 
