@@ -14,7 +14,8 @@
 	- 64 calories
 # Smoothie
 - Totals
-	- 
+	- 310 calories
+	- 40 grams of protein
 - Protein Powder
 	- 25 grams of protein
 	- 110 calories
