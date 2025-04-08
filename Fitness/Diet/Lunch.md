@@ -1,4 +1,4 @@
-# Ground Beef With Greek Yogurt Sauce
+# Ground Beef Patties or Chicken Breast With Greek Yogurt Sauce
 - Totals
 	- 86 grams of protein
 	- 755 calories
@@ -9,4 +9,4 @@
 	- 5 grams of protein
 	- 55 calories
 - 1 Cup Mango Slices
-	- 100 calories
+	- 100 calorie
