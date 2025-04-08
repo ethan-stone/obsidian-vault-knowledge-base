@@ -14,7 +14,7 @@
 	- 64 calories
 # Smoothie
 - Totals
-	- 310 calories
+	- 374 calories
 	- 40 grams of protein
 - Protein Powder
 	- 25 grams of protein
@@ -24,3 +24,5 @@
 - 2 Cups of Milk
 	- 15 grams of protein
 	- 150 calories
+- 1 Tbsp Honey
+	- 64 calories
