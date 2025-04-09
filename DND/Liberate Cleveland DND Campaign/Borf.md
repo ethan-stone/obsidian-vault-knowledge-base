@@ -32,7 +32,7 @@
 - Intelligence - 10 (0)
 - Wisdom - 15 (+2)
 - Charsima - 21 (+5)
-- Passive Wisdom - 11
+- Passive Perception - 11
 - Armor Class - 17
 - Initiative - (+3)
 - Speed - 30
