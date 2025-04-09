@@ -70,7 +70,7 @@
 # Equipment
 - Copper - 145
 - Silver - 55
-- Gold - 207
+- Gold - 202
 - Platinum - 0
 - Leather Armor
 - Entertainers Pack
