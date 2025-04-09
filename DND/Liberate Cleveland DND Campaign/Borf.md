@@ -37,10 +37,10 @@
 - Initiative - (+3)
 - Speed - 30
 - Max HP - 140
-- HP - 113
+- HP - 125
 - Hit Dice - 1d8
 	- Max - 11
-	- Have - 11
+	- Have - 10
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+8)^
