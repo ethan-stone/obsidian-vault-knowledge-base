@@ -23,7 +23,7 @@
 - Free +5 to any roll
 - Now have a GTD (Goblin Transmitted Disease)
 - Bell of the Whale. I now have a nemesis but get very clear direction of my biggest goal.
-- Blessing of Health
+- Blessing of Health.
 # Stats
 - Proficiency Bonus - (+4)
 - Strength - 19 (+4)
