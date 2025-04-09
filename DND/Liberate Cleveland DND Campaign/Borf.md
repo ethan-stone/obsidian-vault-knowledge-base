@@ -389,7 +389,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 ## Level 6
 Spell Slots - 1
-Spell Slots Used - 0
+Spell Slots Used - 1
 ### Mass Suggestion
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -407,7 +407,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 **_At Higher Levels._** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 ## Level 7
 Spell Slots - 1
-Spell Slots Used - 1
+Spell Slots Used - 0
 ### Forcecage
 **Casting Time:** 1 action  
 **Range:** 100 feet  
