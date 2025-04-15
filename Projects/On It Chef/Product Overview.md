@@ -5,6 +5,6 @@ An AI application to build recipes and learn how to enhance your cooking skills.
 - Ability to build off of existing recipes to build new recipes.
 - Have a vectorized DB of data to use when responding.
 	- Flavor combinations.
-	- Common subsititutes.
-	- What else
+	- Common substitutes.
+	- What else?
 - Ability to make recipes public and have others build off of them.
