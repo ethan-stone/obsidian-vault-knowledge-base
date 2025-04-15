@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ae4ef201b1b31d",
+        "id": "f396ce72b682871e",
         "type": "tabs",
         "children": [
           {
-            "id": "a682ff6d1c6b70e7",
+            "id": "d993403127083766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Projects/On It Chef/Product Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "Product Overview"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
+                "file": "Projects/On It Chef/Product Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Borf"
+              "title": "Outline of Product Overview"
             }
           },
           {
@@ -180,11 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a682ff6d1c6b70e7",
+  "active": "d993403127083766",
   "lastOpenFiles": [
+    "Projects/On It Chef/Product Overview.md",
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
+    "Projects/On It Chef",
     "Fitness/Lifting/Log/2025-02-10 Workout.md",
     "Fitness/Lifting/Log/2025-02-10 Workout 1.md",
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Fitness/Diet/Breakfast.md",
     "Fitness/Diet/Lunch.md",
     "Fitness/Diet",
@@ -212,12 +214,10 @@
     "Inbox.md",
     "Templates/Default Note.md",
     "Vocab/Inane.md",
-    "Vocab/Morose.md",
     "Journal",
     "Inbox",
     "Templates",
     "DND",
-    "Programming",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]
