@@ -11,4 +11,5 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 # Todo
 - [ ] Authentication.
 - [ ] Chat with chef.
+	- [ ] Normal AI chats, but it pulls from a vectorized database of knowledge as well.
 	- [ ] 
