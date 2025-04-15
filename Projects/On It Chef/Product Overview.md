@@ -12,4 +12,7 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 - [ ] Authentication.
 - [ ] Chat with chef.
 	- [ ] Normal AI chats, but it pulls from a vectorized database of knowledge as well.
-	- [ ] 
+	- [ ] Ability to "finalize" a chat into a recipe.
+	- [ ] Be able to start a chat from an existing recipe.
+- [ ] Recipes can be public or private.
+	- [ ] Basic status 
