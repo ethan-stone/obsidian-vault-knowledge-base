@@ -1,4 +1,4 @@
-An AI application to build recipes and learn how to enhance your cooking skills.
+An AI mobile app to build recipes and learn how to enhance your cooking skills.
 # Features
 - AI chats to help brainstorm and build recipes.
 - Once happy with a recipe you can finalize it, which formats into a proper recipe.
@@ -8,3 +8,5 @@ An AI application to build recipes and learn how to enhance your cooking skills.
 	- Common substitutes.
 	- What else?
 - Ability to make recipes public and have others build off of them.
+# Todo
+- [ ] 
