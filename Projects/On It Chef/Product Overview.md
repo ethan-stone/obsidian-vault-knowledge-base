@@ -10,3 +10,5 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 - Ability to make recipes public and have others build off of them.
 # Todo
 - [ ] Authentication.
+- [ ] Chat with chef.
+	- [ ] 
