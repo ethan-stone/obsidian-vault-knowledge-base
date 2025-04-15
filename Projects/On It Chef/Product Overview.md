@@ -17,3 +17,4 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 - [ ] Recipes can be public or private.
 	- [ ] Basic status of recipes being public or private.
 	- [ ] Like a recipe.
+	- [ ] Fork a recipe.
