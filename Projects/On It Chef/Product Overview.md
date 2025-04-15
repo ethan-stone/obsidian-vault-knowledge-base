@@ -9,4 +9,4 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 	- What else?
 - Ability to make recipes public and have others build off of them.
 # Todo
-- [ ] 
+- [ ] Authentication.
