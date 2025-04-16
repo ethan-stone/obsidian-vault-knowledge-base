@@ -15,7 +15,7 @@
 - Advantage with Brewers Supplies
 - Proficient with battleaxe, handaxe, light hammer, and warhammer
 - Proficient with light and medium armor
-- Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords
+- Proficient with simple weapons, hand crossbows, longswords, rapiers, and shortswords.
 - Proficient with trumpet, bag pipes, and percussion instruments
 - Song of Rest - Allies get 1d10 HP during short rest
 - Stone cunning - +2 on history checks related to stone
