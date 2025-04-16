@@ -104,7 +104,7 @@
 	- Magical
 - Pipsqueak
 	- Attack Bonus - (+4)
-	- Damage - 1d10 +4
+	- Damage - 1d10 +43
 - Musket
 - Flintlock
 # Wereboar
