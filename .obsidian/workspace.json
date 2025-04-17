@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f396ce72b682871e",
+        "id": "4151fce38ceeaca6",
         "type": "tabs",
         "children": [
           {
-            "id": "d993403127083766",
+            "id": "6ca691162f5a2e79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Borf"
+              "title": "Outline"
             }
           },
           {
@@ -180,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d993403127083766",
+  "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
-    "Projects/On It Chef/Product Overview.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
+    "Projects/On It Chef/Product Overview.md",
     "Projects/On It Chef",
     "Fitness/Lifting/Log/2025-02-10 Workout.md",
     "Fitness/Lifting/Log/2025-02-10 Workout 1.md",
