@@ -11,10 +11,14 @@
             "id": "6ca691162f5a2e79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vietnamese/Resources.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Resources"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vietnamese/Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Resources"
             }
           },
           {
@@ -177,6 +182,8 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Vietnamese/Resources.md",
+    "Vietnamese",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Projects/On It Chef/Product Overview.md",
     "Projects/On It Chef",
@@ -208,11 +215,9 @@
     "Vocab/Vicissitude.md",
     "Inbox.md",
     "Templates/Default Note.md",
-    "Vocab/Inane.md",
     "Journal",
     "Inbox",
     "Templates",
-    "DND",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]

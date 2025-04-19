@@ -1,0 +1,2 @@
+- Reddit post with resources https://www.reddit.com/r/learnvietnamese/comments/177frc0/learning_vietnamese_all_the_resources_you_need/
+- 
