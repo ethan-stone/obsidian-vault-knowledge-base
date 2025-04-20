@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Garage.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garage"
+              "title": "Objectives"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Garage.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Garage"
+              "title": "Outline of Objectives"
             }
           },
           {
@@ -183,17 +183,18 @@
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
     "Notes/Blue Prince/Conference Room.md",
+    "Notes/Blue Prince/Objectives.md",
+    "Notes/Blue Prince/Security Room.md",
+    "Notes/Blue Prince/Swim Bird.md",
+    "Notes/Blue Prince/RLCF.md",
+    "Notes/Blue Prince/Red Letter with The Number 4 by Daniel.md",
+    "Notes/Blue Prince/Marion Marigold.md",
+    "Notes/Blue Prince/Garage.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Treasure Map.md",
-    "Notes/Blue Prince/Swim Bird.md",
-    "Notes/Blue Prince/Garage.md",
-    "Notes/Blue Prince/Security Room.md",
     "Notes/Blue Prince/Terminal Password.md",
     "Notes/Blue Prince/Workshop.md",
-    "Notes/Blue Prince/Red Letter with The Number 4 by Daniel.md",
     "Notes/Blue Prince/Untitled",
-    "Notes/Blue Prince/Marion Marigold.md",
-    "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
     "Notes/Blue Prince Notes.md",
     "Notes/Blue Prince",
@@ -214,7 +215,6 @@
     "DND/One Shot",
     "404 550 5950.md",
     "Fitness/Lifting/Log/2025-01-13 Workout.md",
-    "DND/Liberate Cleveland DND Campaign/Quests.md",
     "Fitness/Lifting/Log",
     "Fitness/Lifting",
     "Journal",
