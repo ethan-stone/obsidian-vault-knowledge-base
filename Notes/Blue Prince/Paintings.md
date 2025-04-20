@@ -7,3 +7,4 @@
 5. Time and tie = M
 6. Spine and pine = S
 7. Paint and pint = A
+8. Stage and stag = E
