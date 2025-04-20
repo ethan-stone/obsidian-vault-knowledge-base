@@ -5,3 +5,4 @@
 - [ ] Get to rank 7 column 2 for treasure.
 - [ ] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
+- [ ] Remove water from fountain to access stairs.
