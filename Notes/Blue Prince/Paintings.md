@@ -1,4 +1,5 @@
 44 Letters
+Blueprint painting as big letter E in the 2nd Rank 1st Column
 
 1. Light and flight = F
 2. Chief and chef = I
@@ -15,4 +16,4 @@
 13. Tube and Tub = E
 14. Tier and Tie = R
 15. Bridge and Bride = G
-16. St
+16. Stairs and Stars = I
