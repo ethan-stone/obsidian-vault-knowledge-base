@@ -10,4 +10,5 @@
 8. Stage and stag = E
 9. Chart and Cart = H
 10. Tent and Ten = T
-11. Coast and 
+11. Coast and Coat = S
+12. Fire and Fir = E
