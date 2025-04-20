@@ -1,0 +1,6 @@
+- Note with the following book titles for Herbert written in different colors.
+	- Flight of the Queen (Red)
+	- March of the Count (Black)
+	- Fall of the Lord (Red)
+	- Passing of the Barons (Red)
+	- Herrings/Hearings of the Major ()
