@@ -5,4 +5,6 @@ Caleb Manning was arrested as a suspect of the bombing?
 Went missing Feb 21 1987
 
 August 22 1985 Marigold wins Herald Literary Medal for a second time.
-Jan 17 1986
+Jan 17 1986 Story about Red Prince and how she never considered herself a success
+Nov 11 1986 Bombing in Trinsdale killed four. Suspected [[RLCF]].
+Nov 17
