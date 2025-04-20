@@ -3,4 +3,4 @@
 	- March of the Count (Black)
 	- Fall of the Lord (Red)
 	- Passing of the Barons (Red)
-	- Herrings/Hearings of the Major ()
+	- Herrings/Hearings of the Major (Red). Maybe related to the Twelve Major Keys note?
