@@ -1,0 +1,1 @@
+Book by Marion Marigold. Really emphasizes the word "dare".
