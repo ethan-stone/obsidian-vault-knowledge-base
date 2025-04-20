@@ -1,0 +1,1 @@
+There is a stained window labeled 7 that looks similar to the statue in the Cloister room.
