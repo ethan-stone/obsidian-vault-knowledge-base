@@ -20,3 +20,7 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 17. Plane and Plan = E
 18. Row and Crow = C
 19. Dessert and Desert = S
+20. Pray and Pry = A
+21. Face and Ace = F
+22. Pine and Pin = E
+23. Bath 
