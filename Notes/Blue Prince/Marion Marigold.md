@@ -1,1 +1,2 @@
 Children's write. Author of "Swim Bird" and "Red Prince". Niece of Baron H. S. Sinclair (player characters mother?).
+Distanced herself from her publisher "Ruffington Press". She was the third to leave that week.
