@@ -1,2 +1,2 @@
 - Den has trunk.
-- Treasure is in 
+- Treasure is in Rank 5 Column 5
