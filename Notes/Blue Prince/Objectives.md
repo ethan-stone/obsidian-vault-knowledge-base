@@ -4,4 +4,4 @@
 - [ ] Find office for email about fuse box.
 - [ ] Get to rank 7 column 2 for treasure.
 - [ ] Figure out [[Workshop]] puzzle.
-- [ ] Unlock 
+- [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
