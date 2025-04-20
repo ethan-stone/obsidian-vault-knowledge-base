@@ -8,4 +8,6 @@
 6. Spine and pine = S
 7. Paint and pint = A
 8. Stage and stag = E
-9. Chart and Car = T
+9. Chart and Cart = H
+10. Tent and Ten = T
+11. Coast and 
