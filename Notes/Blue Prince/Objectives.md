@@ -7,3 +7,4 @@
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
 - [ ] Remove water from fountain to access stairs.
 - [ ] Find basement key and get to basement. Basement can be access via Foundation Elevator.
+- [ ] Broken handle goes to 
