@@ -1,4 +1,4 @@
-- [ ] Find conference room and unlock safe with code 9083.
+- [ ] Find conference room and unlock safe. Code is not 9083 unlike the note in teh
 - [ ] See if there is a place to enter RLCF.
 - [ ] Turn on bowler room for laboratory.
 - [x] Find office for email about fuse box.
