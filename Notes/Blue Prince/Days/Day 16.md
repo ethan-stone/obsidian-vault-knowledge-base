@@ -1,3 +1,3 @@
 - Den has trunk.
 - Treasure is in Rank 5 Column 5
-- Disc
+- Discovered on the look out to the mountain there are 4 flames that can be lit. One can bit lit with the Schoolhouse outdoor room and turning on the stove in the middle.
