@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Paintings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "Paintings"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Paintings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of Paintings"
             }
           },
           {
@@ -183,9 +183,10 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Objectives.md",
+    "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Alzara.md",
-    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Office.md",
     "Notes/Blue Prince/Conference Room.md",
     "Notes/Blue Prince/Greenhouse.md",
@@ -213,7 +214,6 @@
     "Fitness/Diet/Lunch.md",
     "Fitness/Diet",
     "DND/One Shot/Volga Volarus.md",
-    "DND/One Shot/Eldro Julii.md",
     "Notes",
     "DND/One Shot",
     "Fitness/Lifting/Log",
