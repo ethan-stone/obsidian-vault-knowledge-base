@@ -2,7 +2,6 @@
 - [ ] See if there is a place to enter RLCF.
 - [ ] Turn on bowler room for laboratory.
 - [ ] Find office for email about fuse box.
-- [ ] Get to rank 7 column 2 for treasure.
 - [ ] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
 - [ ] Remove water from fountain to access stairs.

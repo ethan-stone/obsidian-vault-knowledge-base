@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Day 16.md",
+                "file": "Notes/Blue Prince/Days/Day 16.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Day 16.md",
+                "file": "Notes/Blue Prince/Days/Day 16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca691162f5a2e79",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Greenhouse.md",
-    "Notes/Blue Prince/Day 16.md",
+    "Notes/Blue Prince/Days",
     "Notes/Blue Prince/Objectives.md",
+    "Notes/Blue Prince/Days/Day 16.md",
+    "Notes/Blue Prince/Greenhouse.md",
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Treasure Map.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
@@ -197,7 +198,6 @@
     "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Red Letter with The Number 4 by Daniel.md",
     "Notes/Blue Prince/Alzara.md",
-    "Notes/Blue Prince/Untitled",
     "Notes/Blue Prince Notes.md",
     "Notes/Blue Prince",
     "Vietnamese/Resources.md",
@@ -212,7 +212,6 @@
     "Fitness/Diet",
     "DND/One Shot/Volga Volarus.md",
     "DND/One Shot/Eldro Julii.md",
-    "Notes/Balatro Seeds.md",
     "Notes",
     "DND/One Shot",
     "Fitness/Lifting/Log",
