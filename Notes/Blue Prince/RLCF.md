@@ -1,1 +1,1 @@
-Aka The Children of Black Water. An insurgent group involved in a
+Aka The Children of Black Water. An insurgent group involved in a terrorist attack.
