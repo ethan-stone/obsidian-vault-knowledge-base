@@ -17,3 +17,6 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 14. Tier and Tie = R
 15. Bridge and Bride = G
 16. Stairs and Stars = I
+17. Plane and Plan = E
+18. Row and Crow = C
+19. Dessert and Desert = S
