@@ -1,1 +1,1 @@
-There is something in the 7th Rank 2
+There is something in the 7th Rank 2nd Column
