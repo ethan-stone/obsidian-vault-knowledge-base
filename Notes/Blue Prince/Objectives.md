@@ -1,5 +1,5 @@
-- [ ] Unlock safe. Code is not 9083 unlike the note in the conference room says.
-- [ ] 
+- [ ] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
+- [ ] Unlock safe in study. Don't know code.
 - [ ] See if there is a place to enter RLCF.
 - [ ] Turn on bowler room for laboratory.
 - [x] Find office for email about fuse box.
