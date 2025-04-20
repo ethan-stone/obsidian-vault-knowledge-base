@@ -23,4 +23,6 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 20. Pray and Pry = A
 21. Face and Ace = F
 22. Pine and Pin = E
-23. Bath 
+23. Bath and Bat = H
+24. Cart and Car = T
+25. Peak and Pea = K
