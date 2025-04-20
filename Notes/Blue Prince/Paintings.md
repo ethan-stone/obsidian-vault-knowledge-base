@@ -26,3 +26,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 23. Bath and Bat = H
 24. Cart and Car = T
 25. Peak and Pea = K
+26. Stag and Tag = S
