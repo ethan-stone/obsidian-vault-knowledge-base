@@ -1,1 +1,1 @@
-Daniel is angry at Herbert for omitting the details of Marion's "disappearance" from the public record. Interesting that disappearance is in quotes. Marion sacrificed a lot for a good cause.
+Daniel is angry at Herbert for omitting the details of Marion's "disappearance" from the public record. Interesting that disappearance is in quotes. Marion sacrificed a lot for a good cause. Confirmed Marion is Simon's mother and Daniel is maybe Herberts brother or something.
