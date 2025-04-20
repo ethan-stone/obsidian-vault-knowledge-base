@@ -13,3 +13,6 @@
 11. Coast and Coat = S
 12. Fire and Fir = E
 13. Tube and Tub = E
+14. Tier and Tie = R
+15. Bridge and Bride = G
+16. St

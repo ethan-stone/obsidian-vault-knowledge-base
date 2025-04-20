@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Chapel.md",
+                "file": "Notes/Blue Prince/Paintings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapel"
+              "title": "Paintings"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Chapel.md",
+                "file": "Notes/Blue Prince/Paintings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapel"
+              "title": "Outline of Paintings"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Chapel.md",
+    "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Office.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
