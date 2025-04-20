@@ -1,3 +1,6 @@
-Light and flight = F
-Chief and chef = I
-Crate and rate = C
+44 Letters
+
+1. Light and flight = F
+2. Chief and chef = I
+3. Crate and rate = C
+Boat and bat = O
