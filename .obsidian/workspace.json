@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Security Room.md",
+                "file": "Notes/Blue Prince/Garage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Room"
+              "title": "Garage"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Security Room.md",
+                "file": "Notes/Blue Prince/Garage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Security Room"
+              "title": "Outline of Garage"
             }
           },
           {
@@ -182,8 +182,9 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Terminal Password.md",
     "Notes/Blue Prince/Security Room.md",
+    "Notes/Blue Prince/Garage.md",
+    "Notes/Blue Prince/Terminal Password.md",
     "Notes/Blue Prince/Conference Room.md",
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Red Letter with The Number 4 by Daniel.md",
@@ -214,7 +215,6 @@
     "DND/Liberate Cleveland DND Campaign/Story so far.md",
     "Todo.md",
     "Checkout Epoch Semantic Versioning.md",
-    "Fitness/Lifting/Log/2025-01-07 Workout.md",
     "Fitness/Lifting/Log",
     "Fitness/Lifting",
     "Journal",

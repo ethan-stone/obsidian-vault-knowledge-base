@@ -1,0 +1,1 @@
+There is a note in the card about 14227 Sandy Heights in Trinsdale saying the goods are in the trunk. Related to the bombing?
