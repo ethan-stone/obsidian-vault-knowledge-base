@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Red Letters with The Number 4 by Daniel.md",
+                "file": "Notes/Blue Prince/Red Letters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Letters with The Number 4 by Daniel"
+              "title": "Red Letters"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Red Letters with The Number 4 by Daniel.md",
+                "file": "Notes/Blue Prince/Red Letters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Red Letters with The Number 4 by Daniel"
+              "title": "Outline of Red Letters"
             }
           },
           {
@@ -199,7 +199,7 @@
     "Notes/Blue Prince/Security Room.md",
     "Notes/Blue Prince/Marion Marigold.md",
     "Notes/Blue Prince/RLCF.md",
-    "Notes/Blue Prince/Red Letters with The Number 4 by Daniel.md",
+    "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince Notes.md",
     "Notes/Blue Prince",
     "Vietnamese/Resources.md",
