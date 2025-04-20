@@ -1,2 +1,4 @@
 # Number 4
 By Daniel. Daniel is angry at Herbert for omitting the details of Marion's "disappearance" from the public record. Interesting that disappearance is in quotes. Marion sacrificed a lot for a good cause. He thinks all countrymen should be aware of the "the price she paid and must be made to see the color of the flag she flew as she rod into the darkness of a hundred nights". Confirmed Marion is Simon's mother and Daniel is maybe Herberts brother or something.
+
+# Number 7
