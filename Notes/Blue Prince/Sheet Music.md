@@ -14,4 +14,12 @@ The clue you hold can not be paid
 With gems nor coin so toss away
 These sheets you find a worthy trade
 
-"sheets" is in bold letters.
+# Number 6
+"are" is bold
+Under these stars the dance is held
+And to the floor we are compelled
+The gowns glide on and music swells
+And at the end the clock strikes twelve
+What that means only time can tell
+
+# Number 7
