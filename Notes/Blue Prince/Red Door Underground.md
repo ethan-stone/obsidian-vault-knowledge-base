@@ -1,0 +1,1 @@
+There is a red door in the hallway leading to the north lever. No idea how to unlock it.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Dart Board Puzzle.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dart Board Puzzle"
+              "title": "Objectives"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Dart Board Puzzle.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dart Board Puzzle"
+              "title": "Outline of Objectives"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Red Door Underground.md",
+    "Notes/Blue Prince/Dart Board Puzzle.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Objectives.md",
@@ -195,7 +197,6 @@
     "Notes/Blue Prince/Marion Marigold.md",
     "Notes/Blue Prince/Greenhouse.md",
     "Notes/Blue Prince/Garage.md",
-    "Notes/Blue Prince/Dart Board Puzzle.md",
     "Notes/Blue Prince/Conference Room.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Days/Day 16.md",
@@ -211,7 +212,6 @@
     "Notes/Blue Prince",
     "Vietnamese/Resources.md",
     "Vietnamese",
-    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Projects/On It Chef",
     "Fitness/Diet",
     "Notes",
