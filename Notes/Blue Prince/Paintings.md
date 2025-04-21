@@ -32,3 +32,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 29. Tiger and Tier = G
 30. Planet and Plane = T
 31. Coat and Cot = A
+32. Flan and Fan = L
