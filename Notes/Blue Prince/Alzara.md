@@ -5,4 +5,4 @@ Said something about a black cat with a red flag and the wind is blowing but the
 Sees the house being run down. Sees eight red envelopes on eight pedestals. In each envelope is a letter written by a different person. Says I will only find seven. Much like art hanging on the wall of the rooms, there is a letter missing.
 
 # Third Vision
-Sees a go in th e
+Sees a vision of a 
