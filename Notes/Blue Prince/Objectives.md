@@ -10,4 +10,4 @@
 - [ ] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
 - [ ] There are 12 Major Keys on a green piece of paper?
-- [ ] How to unlock red door that's undergrou
+- [ ] How to unlock red door that's underground.
