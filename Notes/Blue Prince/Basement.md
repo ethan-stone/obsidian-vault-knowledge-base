@@ -1,0 +1,1 @@
+Note that says Hundred Bells Sandy Heights 5pm. Name of restaurant or something from the sightseeing guide?
