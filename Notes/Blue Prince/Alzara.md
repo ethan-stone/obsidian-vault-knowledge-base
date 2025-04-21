@@ -5,4 +5,4 @@ Said something about a black cat with a red flag and the wind is blowing but the
 Sees the house being run down. Sees eight red envelopes on eight pedestals. In each envelope is a letter written by a different person. Says I will only find seven. Much like art hanging on the wall of the rooms, there is a letter missing.
 
 # Third Vision
-Sees a vision of a guy (not Simon) in the halls (specifically the photo red room). He wears a fedora. He's taking items and watching me. There is also a vision of a room specifically with 
+Sees a vision of a guy (not Simon) in the halls (specifically the photo red room). He wears a fedora. He's taking items and watching me. There is also a vision of a room a statue of essentially the grim reaper.
