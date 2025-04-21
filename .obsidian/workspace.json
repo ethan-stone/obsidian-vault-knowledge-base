@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Sheet Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "Sheet Music"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Sheet Music.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of Sheet Music"
             }
           },
           {
@@ -183,21 +183,22 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Workshop.md",
+    "Notes/Blue Prince/Utility Room Fuse Box.md",
+    "Notes/Blue Prince/Sheet Music.md",
+    "Notes/Blue Prince/Greenhouse.md",
+    "Notes/Blue Prince/Conference Room.md",
+    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Red Door Underground.md",
     "Notes/Blue Prince/Dart Board Puzzle.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Paintings.md",
-    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Security Room.md",
     "Notes/Blue Prince/Terminal Password.md",
-    "Notes/Blue Prince/Utility Room Fuse Box.md",
-    "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Office.md",
     "Notes/Blue Prince/Marion Marigold.md",
-    "Notes/Blue Prince/Greenhouse.md",
     "Notes/Blue Prince/Garage.md",
-    "Notes/Blue Prince/Conference Room.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Days/Day 16.md",
     "Notes/Blue Prince/Basement.md",
@@ -210,7 +211,6 @@
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince Notes.md",
     "Notes/Blue Prince",
-    "Vietnamese/Resources.md",
     "Vietnamese",
     "Projects/On It Chef",
     "Fitness/Diet",
