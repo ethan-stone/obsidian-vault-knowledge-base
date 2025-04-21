@@ -30,3 +30,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 27. Road and Rod = A
 28. Card and Car = D
 29. Tiger and Tier = G
+30. Planet and Plane = T
