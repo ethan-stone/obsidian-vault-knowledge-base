@@ -29,3 +29,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 26. Stag and Tag = S
 27. Road and Rod = A
 28. Card and Car = D
+29. Tiger and Tier = G
