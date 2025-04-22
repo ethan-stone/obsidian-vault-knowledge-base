@@ -34,3 +34,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 31. Coat and Cot = A
 32. Flan and Fan = L
 33. Coast and Cost = A
+34. Picture of a stage and picture of some flowers = ???
