@@ -36,3 +36,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 33. Coast and Cost = A
 34. Picture of a stage and picture of some flowers. Dais and Daisy = Y ???
 35. Sand and And = S
+36. Pilot and Plot = I
