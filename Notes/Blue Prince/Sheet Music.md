@@ -23,3 +23,9 @@ And at the end the clock strikes twelve
 What that means only time can tell
 
 # Number 7
+"true" is bold
+Two remain for one last dance
+And spin again around clock hands
+And as they turn a second chance
+To rise above the falling sands
+The true time lost in past romance
