@@ -9,3 +9,4 @@ There are 7 stained glass paintings with numbers. They seem to match the tomb.
 5. Made with broom
 6. Horse rider with whip
 7. Queen with mace
+8. ???
