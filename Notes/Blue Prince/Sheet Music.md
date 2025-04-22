@@ -44,4 +44,4 @@ The true time lost in past romance
 
 First words on the sheets are true message
 
-Find A The White Tree Under Two Stones
+Find Among The White Tree Under Two Stones
