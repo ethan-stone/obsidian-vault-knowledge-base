@@ -3,8 +3,8 @@
 - [ ] See if there is a place to enter RLCF.
 - [ ] Turn on bowler room for laboratory.
 - [x] Find office for email about fuse box.
-	- [ ] Need the following sequence for something. off, blue, green, white, red, purple.
-- [ ] Figure out [[Workshop]] puzzle.
+	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
+- [x] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
 - [ ] Remove water from fountain to access stairs.
 - [ ] Find basement key and get to basement. Basement can be access via Foundation Elevator.
