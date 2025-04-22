@@ -4,4 +4,4 @@ Has the following books
 - The Curse of Black Bridge.
 - Realm and Ruin
 - Drafting Strategy Vol. 4. Vol. 3 is in the library.
-- Drafting Strategy Vo
+- Drafting Strategy Vol. 5. Vol. 3 is in the library.
