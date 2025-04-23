@@ -13,4 +13,4 @@
 - [ ] How to unlock red door that's underground.
 - [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
 - [ ] Get reservoir down to 6 for "entry level". 
-- [ ] Find 4 character code that locks the 
+- [ ] Find 4 character code that locks the gate behind the red door in the gears.
