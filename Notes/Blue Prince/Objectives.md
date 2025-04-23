@@ -12,3 +12,4 @@
 - [ ] There are 12 Major Keys on a green piece of paper?
 - [ ] How to unlock red door that's underground.
 - [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
+- [ ] Get reservoir down to 6 for "entry level". 
