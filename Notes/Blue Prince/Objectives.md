@@ -1,7 +1,7 @@
 - [ ] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
 - [ ] Unlock safe in study. Don't know code.
 - [ ] See if there is a place to enter RLCF.
-- [ ] Turn on bowler room for laboratory.
+- [x] Turn on boiler room for laboratory.
 - [x] Find office for email about fuse box.
 	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
 - [x] Figure out [[Workshop]] puzzle.
@@ -10,7 +10,8 @@
 - [x] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
 - [ ] There are 12 Major Keys on a green piece of paper?
-- [ ] How to unlock red door that's underground.
+- [x] How to unlock red door that's underground.
 - [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
 - [ ] Get reservoir down to 6 for "entry level". 
-- [ ] Find 4 character code that locks the gate behind the red door in the gears.
+- [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
+- [ ] Find admin key 
