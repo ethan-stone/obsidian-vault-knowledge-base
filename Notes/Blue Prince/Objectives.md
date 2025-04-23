@@ -7,7 +7,7 @@
 - [x] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
 - [ ] Remove water from fountain to access stairs.
-- [ ] Find basement key and get to basement. Basement can be access via Foundation Elevator.
+- [x] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
 - [ ] There are 12 Major Keys on a green piece of paper?
 - [ ] How to unlock red door that's underground.
