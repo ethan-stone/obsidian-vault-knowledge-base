@@ -13,4 +13,4 @@ Thorium (Th) (90) = 4
 Protactinium (Pa) (91) = 7
 Plutonium (Pu) (94) = 1
 
-Pu S H Th
+Pu S H Th Re Eu Pa F 
