@@ -2,4 +2,5 @@
 
 Helium (H) (1) = 3
 Fluorine (Fe) (9) = 8
-Neon (Ne) (12) = 
+Neon (Ne) (12) = 10
+Sulfur (S) (16) = 2
