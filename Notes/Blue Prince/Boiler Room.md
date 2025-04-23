@@ -12,3 +12,5 @@ Europium (Eu) (63) = 6
 Thorium (Th) (90) = 4
 Protactinium (Pa) (91) = 7
 Plutonium (Pu) (94) = 1
+
+Pu S H Th
