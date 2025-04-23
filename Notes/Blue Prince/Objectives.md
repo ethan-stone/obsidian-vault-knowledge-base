@@ -15,3 +15,4 @@
 - [ ] Get reservoir down to 6 for "entry level". 
 - [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
 - [ ] Find admin key black bridge. Maybe it's in the book in the book store titled the curse of black bridge.
+- [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA
