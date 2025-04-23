@@ -1,4 +1,5 @@
 3 8 12 2 9 11 5 10 6 4 7 
 
-Helium (1) = 3
-Iron ()
+Helium (H) (1) = 3
+Fluorine (Fe) (9) = 8
+Neon (Ne) (12) = 
