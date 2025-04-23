@@ -4,5 +4,8 @@ Helium (H) (1) = 3
 Fluorine (Fe) (9) = 8
 Neon (Ne) (12) = 10
 Sulfur (S) (16) = 2
-Polonium (Po) (84)
+Polonium (Po) (84) = 9
+Astatine (At) (85) = 11
 Rhenium (Re) (75) = 5
+Oganesson (Og) (118) = 10
+
