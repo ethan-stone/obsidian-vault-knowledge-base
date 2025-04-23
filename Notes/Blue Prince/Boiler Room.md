@@ -15,4 +15,4 @@ Plutonium (Pu) (94) = 1
 
 Pu S H Th Re Eu Pa F Te Rn I Ne
 
-Pu
+Push Three Up After Nine
