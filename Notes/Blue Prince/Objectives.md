@@ -5,8 +5,8 @@
 - [x] Find office for email about fuse box.
 	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
 - [x] Figure out [[Workshop]] puzzle.
-- [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber in the West Wing.
-- [ ] Remove water from fountain to access stairs.
+- [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber. No idea where the key is.
+- [x] Remove water from fountain to access stairs.
 - [x] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
 - [ ] There are 12 Major Keys on a green piece of paper?
@@ -14,5 +14,5 @@
 - [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
 - [ ] Get reservoir down to 6 for "entry level". 
 - [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
-- [ ] Find admin key black bridge. Maybe it's in the book in the book store titled the curse of black bridge.
+- [ ] Find admin key for black bridge. Maybe it's in the book in the book store titled the curse of black bridge. Need at least 40 dollars to buy it though.
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA.
