@@ -8,4 +8,6 @@ Polonium (Po) (84) = 9
 Astatine (At) (85) = 11
 Rhenium (Re) (75) = 5
 Oganesson (Og) (118) = 10
-
+Europium (Eu) (63) = 6
+Thorium (Th) (90) = 4
+Protactinium (Pa) ()
