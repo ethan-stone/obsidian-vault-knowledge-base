@@ -10,4 +10,5 @@ Rhenium (Re) (75) = 5
 Oganesson (Og) (118) = 10
 Europium (Eu) (63) = 6
 Thorium (Th) (90) = 4
-Protactinium (Pa) ()
+Protactinium (Pa) (91) = 7
+Plutonium (Pu) (94) = 1
