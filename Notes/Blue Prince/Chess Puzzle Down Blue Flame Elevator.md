@@ -8,3 +8,6 @@ There are the following chess pieces.
 - 1 Queen
 
 Need to place them in the correct spot? Feels like every room has a chess piece though.
+
+King - D8
+Bishop - 
