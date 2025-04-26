@@ -8,5 +8,6 @@
 - indignity
 - lockbox
 - Totemic
+- ajentor
 
 # Part One: The Berry Picker From Oris
