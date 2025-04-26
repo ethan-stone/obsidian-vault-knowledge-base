@@ -17,3 +17,4 @@ Bishop - A4
 Pawn - A3
 Pawn - D4
 Rook - E4
+Pawn - D5
