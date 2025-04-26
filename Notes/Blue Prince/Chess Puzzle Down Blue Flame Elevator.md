@@ -14,4 +14,5 @@ Bishop - D7
 Pawn -  C5
 Pawn - A5
 Bishop - A4
-PAWN
+Pawn - A3
+Pawn - 
