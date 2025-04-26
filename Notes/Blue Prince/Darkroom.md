@@ -1,0 +1,1 @@
+One of the pictures has text that can only ge

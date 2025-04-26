@@ -18,3 +18,4 @@
 - [ ] Get reservoir down to 6 for "entry level". 
 - [x] Find admin key for black bridge. Maybe it's in the book in the book store titled the curse of black bridge. Need at least 40 dollars to buy it though.
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA. 
+- [ ] Code to apple tree area. Might be 1128???
