@@ -39,4 +39,4 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 36. Pilot and Plot = I
 37. Plane and Pane = L
 
-EIGHT 
+EIGHT
