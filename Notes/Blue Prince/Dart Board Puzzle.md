@@ -3,4 +3,5 @@ Yellow = Subtraction
 Pink = Multiplication
 Purple = Division
 
-Square = Square the nunber
+Square = Square the numbers
+Diamond = Flip numbers around
