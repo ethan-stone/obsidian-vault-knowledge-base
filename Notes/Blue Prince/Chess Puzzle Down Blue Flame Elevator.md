@@ -10,4 +10,4 @@ There are the following chess pieces.
 Need to place them in the correct spot? Feels like every room has a chess piece though.
 
 King - D8
-Bishop - 
+Bishop - D7
