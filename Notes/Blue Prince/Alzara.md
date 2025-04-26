@@ -6,4 +6,4 @@ Sees the house being run down. Sees eight red envelopes on eight pedestals. In e
 # Third Vision
 Sees a vision of a guy (not Simon) in the halls (specifically the photo red room). He wears a fedora. He's taking items and watching me. There is also a vision of a room a statue of essentially the grim reaper.
 # Fourth Vision
-Hears children in the forest.
+Hears children in the forest. Hears children laughing in the courtyard. Sees an old man in an older chair. Here sees a bunch of old people that sat in the same chair with many stories.
