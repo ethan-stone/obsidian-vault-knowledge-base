@@ -7,5 +7,6 @@
 - Tanner Fork
 - indignity
 - lockbox
+- Totemic
 
 # Part One: The Berry Picker From Oris
