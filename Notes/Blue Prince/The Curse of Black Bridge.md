@@ -9,5 +9,6 @@
 - lockbox
 - Totemic
 - ajentor
+- Blackguard
 
 # Part One: The Berry Picker From Oris
