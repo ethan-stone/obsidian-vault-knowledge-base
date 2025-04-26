@@ -40,5 +40,6 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 37. Plane and Pane = L
 38. Wheat and Heat = W
 39. Crow and Crown = N
+40. Hose and house = U
 
 EIGHT
