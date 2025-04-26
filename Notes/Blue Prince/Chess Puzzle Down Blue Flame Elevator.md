@@ -15,4 +15,5 @@ Pawn -  C5
 Pawn - A5
 Bishop - A4
 Pawn - A3
-Pawn - 
+Pawn - D4
+Rook - E4
