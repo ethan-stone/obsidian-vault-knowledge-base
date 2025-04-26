@@ -18,5 +18,5 @@ Page is ripped out. Need to buy from library.
 # Motes
 - 
 
-To decipher the sigil do the following.
-1. Identify the core 
+
+# Sigil Underground
