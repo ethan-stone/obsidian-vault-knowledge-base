@@ -1,5 +1,7 @@
 - [ ] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
 - [ ] Unlock safe in study. Don't know code.
+- [ ] Unlock safe in drawing room.
+- [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
 - [ ] See if there is a place to enter RLCF.
 - [x] Turn on boiler room for laboratory.
 - [x] Find office for email about fuse box.
@@ -13,6 +15,5 @@
 - [x] How to unlock red door that's underground.
 - [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
 - [ ] Get reservoir down to 6 for "entry level". 
-- [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
 - [x] Find admin key for black bridge. Maybe it's in the book in the book store titled the curse of black bridge. Need at least 40 dollars to buy it though.
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA.
