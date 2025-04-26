@@ -4,5 +4,13 @@ Made of four things.
 - The motes
 - The border
 
+# Cores
+Page is ripped out. Need to buy from library.
+
+# Rays
+- Wavy means heat.
+- Three vertical lines means rain.
+- Jagged line is 
+
 To decipher the sigil do the following.
 1. Identify the core 
