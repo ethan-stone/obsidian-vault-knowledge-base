@@ -10,7 +10,13 @@ Page is ripped out. Need to buy from library.
 # Rays
 - Wavy means heat.
 - Three vertical lines means rain.
-- Jagged line is 
+- Jagged line is stormy.
+- Dotted line is means colder.
+- Curved line means windy.
+- Not sure this is all of them because pages are ripped out.
+
+# Motes
+- 
 
 To decipher the sigil do the following.
 1. Identify the core 
