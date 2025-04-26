@@ -1,1 +1,1 @@
-One of the pictures has text that can only ge
+One of the pictures has text that can only be seen with the magnifying glass. It says "Green memos in Hartley's room are always false". Does this mean the 12 Major Keys thing is false?
