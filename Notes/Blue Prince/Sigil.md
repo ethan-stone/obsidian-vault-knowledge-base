@@ -20,3 +20,7 @@ Page is ripped out. Need to buy from library.
 
 
 # Sigil Underground
+Core - Orinda Aries
+Rays - Location, Foggy
+Motes - Metropolitan
+Broder - Red???
