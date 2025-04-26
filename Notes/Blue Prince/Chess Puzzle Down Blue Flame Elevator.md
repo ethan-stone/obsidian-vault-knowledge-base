@@ -12,4 +12,6 @@ Need to place them in the correct spot? Feels like every room has a chess piece 
 King - D8
 Bishop - D7
 Pawn -  C5
-Pawn - 
+Pawn - A5
+Bishop - A4
+PAWN
