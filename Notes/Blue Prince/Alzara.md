@@ -7,3 +7,5 @@ Sees the house being run down. Sees eight red envelopes on eight pedestals. In e
 Sees a vision of a guy (not Simon) in the halls (specifically the photo red room). He wears a fedora. He's taking items and watching me. There is also a vision of a room a statue of essentially the grim reaper.
 # Fourth Vision
 Hears children in the forest. Hears children laughing in the courtyard. Sees an old man in an older chair. Here sees a bunch of old people that sat in the same chair with many stories.
+# Fifth Vision
+Sees a statue in a misty courtyard with a statue. Same statue of the general blessing. Sees me walking on the paths wondering and waiting for a shadow that will never be cast. Honestly seems similar to the sigil solution.

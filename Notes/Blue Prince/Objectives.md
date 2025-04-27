@@ -1,4 +1,6 @@
-- [ ] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
+- [ ] Is the code 1213 for anything? That is the number for MCCXIII which is the roman numerals underneath the Sinclair/Epsen crest.
+- [x] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
+	- [x] Code is 0303.
 - [ ] Unlock safe in study. Don't know code.
 - [ ] Unlock safe in drawing room.
 - [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.

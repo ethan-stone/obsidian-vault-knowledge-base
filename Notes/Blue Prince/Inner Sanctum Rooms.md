@@ -1,0 +1,14 @@
+# Room 1
+Contains a box puzzle that is called The Orinda Aries Variation. Says when BLACK TILES are pressed the entire row shifts to the right, as if on train rails.
+
+The chamber has a sigil that matches that in the other room. Lines up because the sigil describes the country as metropolitan, foggy, and uses trains as transportation.
+
+There is also a letter from Herbert to the estate about him setting out on a journey across 8 realms in 8 months. Says he did so without a map, but headed south to "a fragment of the old kingdom, a landmark as black as it is in name, and a story I feel closely connected to".
+
+Other things on the letter of note. There is a stamp with Fenn Aries with the numbers 1412112L. The address of the estate is Reddington Fenn Aries 63080.
+
+Next the letter is stone art of the statue that has the crown and the mace/scepter, and three small statues people in crowns holding out bowls. Two men and one woman.
+
+There is also a painting above the letter of some train tracks, maybe even a train station. There is a sign that says Reddington. There is a statue of an angel with a top hot.
+
+So in conclusion the first place Herbert when was Orinda Aries. That is part of the solution to the puzzle in room 46.

@@ -47,3 +47,13 @@ Blueprint painting as big letter E in the 2nd Rank 1st Column
 44. Create and crate = E
 
 EIGHT
+
+IF WE
+COUNT
+SMALL
+GATES
+EIGHT
+DATES 
+CRACK
+EIGHT
+SAFES

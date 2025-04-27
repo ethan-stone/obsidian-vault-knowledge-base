@@ -10,3 +10,5 @@ Also has a capital E printed into a rock.
 Now it had a capital T.
 Now it has a capital D.
 Now it has a capital G.
+Now it has a capital A.
+Now it has a capital C.
