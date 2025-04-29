@@ -26,4 +26,9 @@
 - [x] Buy Realm and Ruins book from book store.
 - [ ] Possible code is 1006 or 1005. It's a date in the history of Orindia. On October 5th King Desilets III died, and on October 6th self-proclaimed Prince Leerson of Fenn declared himself the true monarch and it started a civil war.
 - [ ] Grotto admin key format is first four letters of your last name, followed by first initial.
-	- BabbA
+	- BabbA: Personal access
+	- MoorR: Admin access
+	- ThomK: Admin access
+	- RuotH: Expired
+	- RevaD: Expired
+	- Three additional del
