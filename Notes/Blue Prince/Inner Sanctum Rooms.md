@@ -8,6 +8,7 @@ There is also a letter from Herbert to the estate about him setting out on a jou
 Other things on the letter of note. There is a stamp with Fenn Aries with the numbers 1412112L. The address of the estate is Reddington Fenn Aries 63080.
 
 Next the letter is stone art of the statue that has the crown and the mace/scepter, and three small statues people in crowns holding out bowls. Two men and one woman.
+- Update: The three people are the three children of the fourth king of Orindia who split the land into three parts, one for each kid.
 
 There is also a painting above the letter of some train tracks, maybe even a train station. There is a sign that says Reddington. There is a statue of an angel with a top hot.
 
