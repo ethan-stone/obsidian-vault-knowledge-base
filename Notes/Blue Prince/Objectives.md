@@ -31,4 +31,4 @@
 	- ThomK: Admin access
 	- RuotH: Expired
 	- RevaD: Expired
-	- Three additional del
+	- Three additional delisted admin keys
