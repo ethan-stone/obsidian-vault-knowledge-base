@@ -2,7 +2,8 @@
 - [x] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
 	- [x] Code is 0303.
 - [ ] Unlock safe in study. Don't know code.
-- [ ] Unlock safe in drawing room.
+- [x] Unlock safe in drawing room.
+	- [x] Code is 0415
 - [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
 - [ ] See if there is a place to enter RLCF.
 - [x] Turn on boiler room for laboratory.
@@ -15,8 +16,9 @@
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
 - [ ] There are 12 Major Keys on a green piece of paper?
 - [x] How to unlock red door that's underground.
-- [ ] Get to Drafting Studio with magnifying glass for paper model of safe.
-	- [ ] Allows you to put in code but don't know code.
+- [x] Get to Drafting Studio with magnifying glass for paper model of safe.
+	- [x] Allows you to put in code but don't know code.
+	- [x] Code is 1108
 - [ ] Get reservoir down to 6 for "entry level". 
 - [x] Find admin key for black bridge. Maybe it's in the book in the book store titled the curse of black bridge. Need at least 40 dollars to buy it though.
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA. 
