@@ -24,4 +24,4 @@
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA. 
 - [x] Code to apple tree area. Might be 1128???
 - [x] Buy Realm and Ruins book from book store.
-- [ ] Possible code is 1006 or 1005. It's a date in the history of Orindia. On October 5th King Desilets III died, and the
+- [ ] Possible code is 1006 or 1005. It's a date in the history of Orindia. On October 5th King Desilets III died, and on October 6th self-proclaimed Prince Leerson of Fenn declared himself the true monarch and it started a civil war.
