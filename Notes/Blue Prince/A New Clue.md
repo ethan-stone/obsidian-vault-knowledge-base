@@ -19,4 +19,5 @@ The check corner case rooms are
 - Office
 - Pantry
 
-Route 8 Depart Keep Left To Tanner Fork Dead End Record Each Stop
+Route 8 Depart Keep Left To Tanner Fork Dead End Record Each Stop\
+
