@@ -11,4 +11,10 @@ found = 11
 a = 7
 clue = 10
 
-all check corner case rooms had a low case clue found 
+all check corner case rooms had a low case clue found in the rooms
+
+The check corner case rooms are 
+- Patio
+- Nook
+- Office
+- Pantry
