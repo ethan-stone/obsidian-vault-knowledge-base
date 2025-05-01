@@ -8,7 +8,8 @@
 - [ ] See if there is a place to enter RLCF.
 - [x] Turn on boiler room for laboratory.
 - [x] Find office for email about fuse box.
-	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
+	- [x] Need the following seque
+	- [ ] nce for something. off, blue, green, white, red, purple.
 - [x] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber. No idea where the key is.
 - [x] Remove water from fountain to access stairs.
@@ -32,3 +33,4 @@
 	- RuotH: Expired
 	- RevaD: Expired
 	- Three additional delisted admin keys
+	- There is an admink
