@@ -1,4 +1,5 @@
 - [ ] Is the code 1213 for anything? That is the number for MCCXIII which is the roman numerals underneath the Sinclair/Epsen crest.
+- [ ] Could 1130 be code to anything? That is the time in the clock tower floor?
 - [x] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
 	- [x] Code is 0303.
 - [ ] Unlock safe in study. Don't know code.
