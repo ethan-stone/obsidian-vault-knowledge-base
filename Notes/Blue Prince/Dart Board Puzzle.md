@@ -14,3 +14,6 @@ Three spirals =
 4
 6
 9
+6
+14
+10
