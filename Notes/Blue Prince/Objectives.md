@@ -36,3 +36,6 @@
 	- Three additional delisted admin keys
 	- There is an admin key that does not fit the usual format created by MoorR.
 	- [ ] Need to find key with archive access?
+- [ ] Figure out where A New Clue applies.
+	- [ ] What does message about route 8 pertain to?
+	- [ ] What does the book puzzle/cipher refer too?
