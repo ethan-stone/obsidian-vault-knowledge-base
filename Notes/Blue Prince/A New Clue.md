@@ -23,4 +23,7 @@ Route 8 Depart Keep Left To Tanner Fork Turn Right Dead End Record Each Stop On 
 
 Uncle Awe = Purple = A New Clue
 Draft The Sixes = The Fixed Stars = Blue
-Tender Cipher
+Tender Cipher = The Red Prince = Red
+Lunar Renamed = 
+
+Realm and rune
