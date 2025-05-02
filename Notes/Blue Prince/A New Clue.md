@@ -17,7 +17,7 @@ The check corner case rooms are
 - Patio
 - Nook = beside
 - Office = 
-- Pantry
+- Pantry = bridgette?
 
 Route 8 Depart Keep Left To Tanner Fork Turn Right Dead End Record Each Stop On The Way
 
