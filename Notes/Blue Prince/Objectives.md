@@ -34,6 +34,9 @@
 	- RuotH: Expired
 	- RevaD: Expired
 	- Three additional delisted admin keys
+		- LeeB
+		- ProvC
+		- HounU
 	- There is an admin key that does not fit the usual format created by MoorR.
 	- [ ] Need to find key with archive access?
 - [ ] Figure out where A New Clue applies.
