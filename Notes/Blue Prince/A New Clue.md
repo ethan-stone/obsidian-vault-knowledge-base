@@ -21,5 +21,3 @@ The check corner case rooms are
 
 Route 8 Depart Keep Left To Tanner Fork Turn Right Dead End Record Each Stop On The Way
 
-1. RD
-
