@@ -15,7 +15,7 @@ all check corner case rooms had a low case clue found in the rooms
 
 The check corner case rooms are 
 - Patio
-- Nook
+- Nook = beside
 - Office
 - Pantry
 
