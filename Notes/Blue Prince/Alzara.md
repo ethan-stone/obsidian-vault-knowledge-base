@@ -9,3 +9,4 @@ Sees a vision of a guy (not Simon) in the halls (specifically the photo red room
 Hears children in the forest. Hears children laughing in the courtyard. Sees an old man in an older chair. Here sees a bunch of old people that sat in the same chair with many stories.
 # Fifth Vision
 Sees a statue in a misty courtyard with a statue. Same statue of the general blessing. Sees me walking on the paths wondering and waiting for a shadow that will never be cast. Honestly seems similar to the sigil solution.
+# 
