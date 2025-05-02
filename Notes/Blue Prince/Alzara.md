@@ -10,4 +10,4 @@ Hears children in the forest. Hears children laughing in the courtyard. Sees an 
 # Fifth Vision
 Sees a statue in a misty courtyard with a statue. Same statue of the general blessing. Sees me walking on the paths wondering and waiting for a shadow that will never be cast. Honestly seems similar to the sigil solution.
 # Sixth (Final) Vision
-Vision of a train station, a cave with the 8 or infinity symbol, a bridge with a cottage, a cavern wall of stone, a hollow lit by a sea of a thousand burning stars, a treasure buried beneath the cliff rock (blue flame elevator), a black mirror in the mirror is a figure of myself. Mirror is in the shape of Oris.
+Vision of a train station, a cave with the 8 or infinity symbol, a bridge with a cottage, a cavern wall of stone, a hollow lit by a sea of a thousand burning stars, a treasure buried beneath the cliff rock (blue flame elevator), a black mirror in the mirror is a figure of myself. It is snowey and there is a chest. Mirror is in the shape of Oris.
