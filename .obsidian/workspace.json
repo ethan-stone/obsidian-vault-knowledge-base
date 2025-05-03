@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/History of Orindia.md",
+                "file": "Notes/Blue Prince/Room 46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Orindia"
+              "title": "Room 46"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
-    "Todo.md",
     "Notes/Blue Prince/History of Orindia.md",
+    "Todo.md",
     "Notes/Blue Prince/A New Clue.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Objectives.md",
