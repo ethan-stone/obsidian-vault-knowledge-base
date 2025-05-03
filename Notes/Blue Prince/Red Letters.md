@@ -19,4 +19,4 @@ This one is written by Mary to Herbert. It's about her leaving on a trolly to th
 This one is written by Mr Worth Laude. His father worked for Herbert's father (Thomas Sinclair) between 1915 and 1918. He seemed to be a miner, and took a bunch of the Sinclair family secrets to his grave. But he heard a bunch of stories during conversations. He doesn't believe the stories, but wants to share them.
 
 # Number 2
-Addressed to just M (Mary?) from Caleb. Talks about being plans be set for a month or two from now
+Addressed to just M (Mary?) from Caleb. Talks about being plans be set for a month or two from now. Talks about a "flexible" floorplan for a trial run, and that Herbert actually agree. Seems to be about the robbery at the museum.
