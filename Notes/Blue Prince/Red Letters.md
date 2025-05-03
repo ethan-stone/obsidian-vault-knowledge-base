@@ -16,4 +16,4 @@ This one is written to Mary from Herbert. He "principal desire" has been Simon e
 This one is written by Mary to Herbert. It's about her leaving on a trolly to the southern border. Again she says she is following in her father's footsteps. She says we, so she is traveling with at least one other person. She left a message for Simon in the Safehouse. She says if something should happen to her, Herbert should guide Simon to that place and should teach me the intersection between foolishness and doctirine.
 
 # Number 1
-This one is written by Mr Worth Laude. His father worked for Herbert's father (Thomas Sinclair) between 1915 and 1918. He seemed to be a miner, and took a bunch of the Sinclair family secrets to his grave. He wr
+This one is written by Mr Worth Laude. His father worked for Herbert's father (Thomas Sinclair) between 1915 and 1918. He seemed to be a miner, and took a bunch of the Sinclair family secrets to his grave. But he heard a bunch of stories during conversations. He doesn't believe the stories, but wants to share them.
