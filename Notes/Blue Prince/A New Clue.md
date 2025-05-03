@@ -16,7 +16,7 @@ all check corner case rooms had a low case clue found in the rooms
 The check corner case rooms are 
 - Patio = buried
 - Nook = beside
-- Office = 
+- Office = west
 - Pantry = bridgette?
 
 Route 8 Depart Keep Left To Tanner Fork Turn Right Dead End Record Each Stop On The Way
