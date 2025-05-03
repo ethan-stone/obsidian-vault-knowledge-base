@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Paintings.md",
+                "file": "Notes/Blue Prince/Red Letters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paintings"
+              "title": "Red Letters"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/A New Clue.md",
     "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/Workshop.md",
@@ -199,7 +200,6 @@
     "Notes/Blue Prince/Office.md",
     "Notes/Blue Prince/Red Door Underground.md",
     "Notes/Blue Prince/Master Bedroom.md",
-    "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Security Room.md",
     "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Red Letters.md",
