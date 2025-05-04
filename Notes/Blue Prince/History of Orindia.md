@@ -9,6 +9,6 @@ Not technically a country anymore. It is now Fenn Aries.
 North of Orinda Aries. Mountainous.
 ## Sigil
 - Core = Arch Aries
-- Rays = ??? + Stormy
+- Rays = Trains + Stormy
 - Motes = ???
 - Border = ???
