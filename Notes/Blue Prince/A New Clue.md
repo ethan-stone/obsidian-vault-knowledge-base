@@ -21,7 +21,7 @@ The check corner case rooms are
 
 Route 8 Depart Keep Left To Tanner Fork Turn Right Dead End Record Each Stop On The Way
 
-Uncle Awe = Purple = A New Clue
+Uncle Awe = A New Clue = Purple
 Draft The Sixes = The Fixed Stars = Blue
 Tender Cipher = The Red Prince = Red
 Lunar Renamed = Realm and Rune = Green
