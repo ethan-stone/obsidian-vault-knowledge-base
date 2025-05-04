@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Room 46.md",
+                "file": "Notes/Blue Prince/A New Clue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "A New Clue"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Room 46.md",
+                "file": "Notes/Blue Prince/A New Clue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Room 46"
+              "title": "Outline of A New Clue"
             }
           },
           {
@@ -182,13 +182,13 @@
   },
   "active": "6ca691162f5a2e79",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Safe Codes.md",
     "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Untitled.md",
     "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/A New Clue.md",
-    "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/History of Orindia.md",
     "Todo.md",
