@@ -39,8 +39,8 @@
 - Max HP - 140
 - HP - 98
 - Hit Dice - 1d8
-	- Max - 11
-	- Have - 9
+	- Max - 13
+	- Have - 10
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+8)^
