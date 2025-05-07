@@ -478,7 +478,7 @@ At 6th level, you gain the ability to cloak yourself in a fey magic that makes o
 Any creature charmed by you automatically fails its saving throw against the [Command](http://dnd5e.wikidot.com/spell:command) you cast with this feature.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-### Unbreakable Majesty
+## Unbreakable Majesty
 At 14th level, your appearance permanently gains an otherworldly aspect that makes you look more lovely and fierce.
 
 In addition, as a bonus action, you can assume a magically majestic presence for 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma saving throw against your spell save DC. On a failed save, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful save, it can attack you on this turn, but it has disadvantage on any saving throw it makes against your spells on your next turn.
