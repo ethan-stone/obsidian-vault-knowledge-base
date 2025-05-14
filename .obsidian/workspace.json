@@ -11,10 +11,14 @@
             "id": "efbf277979401c06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fitness/Diet/Lunch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lunch"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Fitness/Diet/Lunch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lunch"
             }
           },
           {
@@ -177,6 +182,7 @@
   },
   "active": "efbf277979401c06",
   "lastOpenFiles": [
+    "Fitness/Diet/Breakfast.md",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/Inner Sanctum Rooms.md",
@@ -202,7 +208,6 @@
     "Notes/Blue Prince/Security Room.md",
     "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Marion Marigold.md",
-    "Notes/Blue Prince/Sheet Music.md",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
     "Vietnamese",
