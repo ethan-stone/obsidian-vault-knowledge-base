@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b25830bec33f1c64",
+        "id": "dc771926a1a57057",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fe8030866406ff",
+            "id": "efbf277979401c06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Borf"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Liberate Cleveland DND Campaign/Borf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Borf"
+              "title": "Outline"
             }
           },
           {
@@ -180,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fe8030866406ff",
+  "active": "efbf277979401c06",
   "lastOpenFiles": [
+    "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/History of Orindia.md",
@@ -207,7 +203,6 @@
     "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Marion Marigold.md",
     "Notes/Blue Prince/Sheet Music.md",
-    "Notes/Blue Prince/Family Symbol in Wine Cellar.md",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
     "Vietnamese",
