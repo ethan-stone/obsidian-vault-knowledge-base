@@ -36,7 +36,7 @@
 - Armor Class - 17
 - Initiative - (+3)
 - Speed - 30
-- Max HP - 140
+- Max HP - 120
 - HP - 98
 - Hit Dice - 1d8
 	- Max - 13
