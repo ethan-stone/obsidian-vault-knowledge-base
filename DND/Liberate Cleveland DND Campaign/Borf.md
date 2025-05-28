@@ -331,7 +331,7 @@ The target must make a Wisdom saving throw. On a failed save, the target becomes
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 ## Level 5
 Spell Slots - 2
-Spell Slots Used - 1
+Spell Slots Used - 2
 ### Animate Objects
 **Casting Time:** 1 action  
 **Range:** 120 feet  
