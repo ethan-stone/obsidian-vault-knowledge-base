@@ -33,7 +33,7 @@
 - Wisdom - 15 (+2)
 - Charsima - 21 (+5)
 - Passive Perception - 11
-- Armor Class - 19
+- Armor Class - 21
 - Initiative - (+3)
 - Speed - 30
 - Max HP - 120
@@ -72,7 +72,9 @@
 - Silver - 55
 - Gold - 52
 - Platinum - 0
-- Leather Armor
+- Leather Armor +11 AC
+- Boar Helmet +2 AC
+- Amulet +2 AC
 - Entertainers Pack
 - Backpack
 - Bedroll
