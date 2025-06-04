@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Objectives"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Todo"
+              "title": "Outline of Objectives"
             }
           },
           {
@@ -182,6 +182,9 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Todo.md",
+    "Notes/Blue Prince/Castle Puzzle.md",
+    "Castle Puzzle",
     "DND/Liberate Cleveland DND Campaign/Borf.md",
     "Fitness/Diet/Lunch.md",
     "Fitness/Diet/Breakfast.md",
@@ -197,7 +200,6 @@
     "Notes/Blue Prince/Untitled.md",
     "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Workshop.md",
-    "Todo.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Clocktower.md",
     "Notes/Blue Prince/Dart Board Puzzle.md",
@@ -207,7 +209,6 @@
     "Notes/Blue Prince/Red Door Underground.md",
     "Notes/Blue Prince/Master Bedroom.md",
     "Notes/Blue Prince/Security Room.md",
-    "Notes/Blue Prince/RLCF.md",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
     "Vietnamese",
@@ -217,7 +218,6 @@
     "DND/One Shot",
     "Fitness/Lifting/Log",
     "Fitness/Lifting",
-    "Journal",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]
