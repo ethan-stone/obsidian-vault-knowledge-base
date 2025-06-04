@@ -1,1 +1,1 @@
-The symbol of Arch Archies is in this room. [[History of Orindia]]. Maybe Arch 
+The symbol of Arch Aries is in this room. [[History of Orindia]]. Maybe Arch Aries is Tribal, Agricultural or Spiritual?
