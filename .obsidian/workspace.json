@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cellar",
+                "query": "aries",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,10 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Inner Sanctum Rooms.md",
+    "Notes/Blue Prince/Dining Room.md",
+    "Notes/Blue Prince/History of Orindia.md",
     "Notes/Blue Prince/Sigil.md",
+    "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/Objectives.md",
     "Todo.md",
     "Notes/Blue Prince/Castle Puzzle.md",
@@ -192,12 +194,10 @@
     "Fitness/Diet/Lunch.md",
     "Fitness/Diet/Breakfast.md",
     "Notes/Blue Prince/Room 46.md",
-    "Notes/Blue Prince/History of Orindia.md",
     "Notes/Blue Prince/Safe Codes.md",
     "Notes/Blue Prince/Swim Bird.md",
     "Notes/Blue Prince/A New Clue.md",
     "Notes/Blue Prince/Red Letters.md",
-    "Notes/Blue Prince/Untitled.md",
     "Notes/Blue Prince/Paintings.md",
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Alzara.md",

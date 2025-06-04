@@ -1,0 +1,1 @@
+The symbol of Arch Archies is in this room. [[History of Orindia]].
