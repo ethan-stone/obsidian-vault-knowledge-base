@@ -1,16 +1,15 @@
-- [ ] Is the code 1213 for anything? That is the number for MCCXIII which is the roman numerals underneath the Sinclair/Epsen crest.
-- [ ] Could 0130 be code to anything? That is the time in the clock tower floor.
+- [x] Is the code 1213 for anything? That is the number for MCCXIII which is the roman numerals underneath the Sinclair/Epsen crest.
+- [x] Could 0130 be code to anything? That is the time in the clock tower floor.
 - [x] Unlock safe in office. The code is not 9083 unlike the note in the conference room says.
 	- [x] Code is 0303.
-- [ ] Unlock safe in study. Don't know code.
+- [x] Unlock safe in study. Don't know code.
 - [x] Unlock safe in drawing room.
 	- [x] Code is 0415
-- [ ] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
-- [ ] See if there is a place to enter RLCF.
+- [x] Find 4 character code that locks the gate behind the red door in the gears. Need the boiler room to turn it on.
+- [x] See if there is a place to enter RLCF.
 - [x] Turn on boiler room for laboratory.
 - [x] Find office for email about fuse box.
-	- [x] Need the following seque
-	- [ ] nce for something. off, blue, green, white, red, purple.
+	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
 - [x] Figure out [[Workshop]] puzzle.
 - [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber. No idea where the key is.
 - [x] Remove water from fountain to access stairs.
@@ -21,7 +20,7 @@
 - [x] Get to Drafting Studio with magnifying glass for paper model of safe.
 	- [x] Allows you to put in code but don't know code.
 	- [x] Code is 1108
-- [ ] Get reservoir down to 6 for "entry level". 
+- [x] Get reservoir down to 6 for "entry level". 
 - [x] Find admin key for black bridge. Maybe it's in the book in the book store titled the curse of black bridge. Need at least 40 dollars to buy it though.
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA. 
 - [x] Code to apple tree area. Might be 1128???
@@ -40,5 +39,6 @@
 	- There is an admin key that does not fit the usual format created by MoorR.
 	- [ ] Need to find key with archive access?
 - [ ] Figure out where A New Clue applies.
-	- [ ] What does message about route 8 pertain to?
-	- [ ] What does the book puzzle/cipher refer too?
+	- [x] What does message about route 8 pertain to?
+	- [x] What does the book puzzle/cipher refer too?
+- [ ] 
