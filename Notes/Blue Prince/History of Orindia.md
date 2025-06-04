@@ -10,5 +10,5 @@ North of Orinda Aries. Mountainous.
 ## Sigil
 - Core = Arch Aries
 - Rays = Trains + Stormy
-- Motes = ???
+- Motes = Tribal or Agricultural 
 - Border = ???

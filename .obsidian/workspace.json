@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Sigil.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sigil"
+              "title": "History of Orindia"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Sigil.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sigil"
+              "title": "Outline of History of Orindia"
             }
           },
           {
@@ -182,9 +182,9 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Sigil.md",
     "Notes/Blue Prince/Dining Room.md",
     "Notes/Blue Prince/History of Orindia.md",
-    "Notes/Blue Prince/Sigil.md",
     "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/Objectives.md",
     "Todo.md",
