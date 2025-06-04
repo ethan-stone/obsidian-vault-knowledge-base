@@ -41,4 +41,7 @@
 - [ ] Figure out where A New Clue applies.
 	- [x] What does message about route 8 pertain to?
 	- [x] What does the book puzzle/cipher refer too?
+- [ ] Get all 8 class rooms
+- [ ] Light the candles in the tomb
+- [ ] Castle cipher
 - [ ] 
