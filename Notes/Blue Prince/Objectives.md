@@ -44,4 +44,4 @@
 - [ ] Get all 8 class rooms
 - [ ] Light the candles in the tomb
 - [ ] Castle cipher
-- [ ] 
+- [ ] Buy the rest of the book
