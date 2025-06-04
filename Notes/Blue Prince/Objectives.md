@@ -46,3 +46,4 @@
 - [ ] Castle cipher
 - [ ] Buy the rest of the book
 - [ ] Get the armory
+- [ ] Op
