@@ -45,3 +45,4 @@
 - [ ] Light the candles in the tomb
 - [ ] Castle cipher
 - [ ] Buy the rest of the book
+- [ ] Get the armory
