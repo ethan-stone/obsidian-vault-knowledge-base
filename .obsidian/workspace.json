@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Workshop.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshop"
+              "title": "History of Orindia"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Workshop.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Workshop"
+              "title": "Outline of History of Orindia"
             }
           },
           {
@@ -180,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8932114d14693425",
+  "active": "9387c4d9cd19f622",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
     "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Bookshop.md",
@@ -204,7 +205,6 @@
     "Notes/Blue Prince/Swim Bird.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Paintings.md",
-    "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Alzara.md",
     "Notes/Blue Prince/Clocktower.md",
     "Notes/Blue Prince/Dart Board Puzzle.md",
