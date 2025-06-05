@@ -11,7 +11,7 @@
 - [x] Find office for email about fuse box.
 	- [x] Need the following sequence for something. off, blue, green, white, red, purple.
 - [x] Figure out [[Workshop]] puzzle.
-- [ ] Unlock Her Ladyship's Diary in Her Ladyship's Chamber. No idea where the key is.
+- [x] Unlock Her Ladyship's Diary in Her Ladyship's Chamber. No idea where the key is.
 - [x] Remove water from fountain to access stairs.
 - [x] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
@@ -42,9 +42,9 @@
 	- [x] What does message about route 8 pertain to?
 	- [x] What does the book puzzle/cipher refer too?
 - [ ] Get all 8 class rooms
-- [ ] Light the candles in the tomb
+- [x] Light the candles in the tomb
 - [ ] Castle cipher
 - [ ] Buy the rest of the book
 - [ ] Get the armory
 - [ ] Find other levers
-- [ ] Castle
+- [ ] Castle king and rook pieces
