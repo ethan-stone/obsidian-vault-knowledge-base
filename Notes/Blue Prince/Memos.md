@@ -1,0 +1,3 @@
+- Blue Memos = True
+- Red Memos = Lies (unless written by end)
+- Green Memos = True or False depending on context
