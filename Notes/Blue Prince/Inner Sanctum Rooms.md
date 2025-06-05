@@ -15,4 +15,6 @@ There is also a painting above the letter of some train tracks, maybe even a tra
 So in conclusion the first place Herbert when was Orinda Aries. That is part of the solution to the puzzle in room 46.
 
 # Room 3
-This is the room of Arch Aries. See
+This is the room of Arch Aries. See [[History of Orindia]].
+
+Letter from Herbert saying he arrived to Renebaum, Arch Aries after a few days of sailing and it made him realize how much more convenient it would have been in the old days when the railway trc
