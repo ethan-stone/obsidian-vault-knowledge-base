@@ -1,2 +1,3 @@
 - Yellow pieces move North
 - Black pieces move West
+- Green pieces move to the opposite side.
