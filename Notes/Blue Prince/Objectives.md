@@ -47,3 +47,4 @@
 - [ ] Buy the rest of the book
 - [ ] Get the armory
 - [ ] Find other levers
+- [ ] Castle
