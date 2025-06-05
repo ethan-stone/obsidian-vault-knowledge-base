@@ -17,4 +17,4 @@ So in conclusion the first place Herbert when was Orinda Aries. That is part of 
 # Room 3
 This is the room of Arch Aries. See [[History of Orindia]].
 
-Letter from Herbert saying he arrived to Renebaum, Arch Aries after a few days of sailing and it made him realize how much more convenient it would have been in the old days when the railway trc
+Letter from Herbert saying he arrived to Renebaum, Arch Aries after a few days of sailing and it made him realize how much more convenient it would have been in the old days when the railway tracks extended all the way north. Arch Aries is a destination with which I am well acquainted, having traveled here countless time on business for Synka,. This time however, I will avoid the familiar towns and factories and will instead trek along the northern coast, an area with which he is wholly unfamiliar.
