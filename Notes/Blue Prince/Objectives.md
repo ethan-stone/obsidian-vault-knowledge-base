@@ -15,7 +15,7 @@
 - [x] Remove water from fountain to access stairs.
 - [x] Find basement key and get to basement. Basement can be access via Foundation Elevator.
 - [x] Broken lever goes to green house which appears to open a door to the Antechamber
-- [ ] There are 12 Major Keys on a green piece of paper?
+- [x] There are 12 Major Keys on a green piece of paper?
 - [x] How to unlock red door that's underground.
 - [x] Get to Drafting Studio with magnifying glass for paper model of safe.
 	- [x] Allows you to put in code but don't know code.
@@ -25,7 +25,7 @@
 - [ ] Maid's Chamber has a small statue of the made angel with a broom with the letter MILA. 
 - [x] Code to apple tree area. Might be 1128???
 - [x] Buy Realm and Ruins book from book store.
-- [ ] Possible code is 1006 or 1005. It's a date in the history of Orindia. On October 5th King Desilets III died, and on October 6th self-proclaimed Prince Leerson of Fenn declared himself the true monarch and it started a civil war.
+- [x] Possible code is 1006 or 1005. It's a date in the history of Orindia. On October 5th King Desilets III died, and on October 6th self-proclaimed Prince Leerson of Fenn declared himself the true monarch and it started a civil war.
 - [ ] Grotto admin key format is first four letters of your last name, followed by first initial.
 	- BabbA: Personal access
 	- MoorR: Admin access
@@ -38,13 +38,13 @@
 		- HounU
 	- There is an admin key that does not fit the usual format created by MoorR.
 	- [ ] Need to find key with archive access?
-- [ ] Figure out where A New Clue applies.
+- [x] Figure out where A New Clue applies.
 	- [x] What does message about route 8 pertain to?
 	- [x] What does the book puzzle/cipher refer too?
 - [ ] Get all 8 class rooms
 - [x] Light the candles in the tomb
 - [ ] Castle cipher
-- [ ] Buy the rest of the book
+- [ ] Buy the rest of the books from the book store
 - [ ] Get the armory
 - [ ] Find other levers
 - [ ] Castle king and rook pieces
