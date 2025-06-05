@@ -13,3 +13,6 @@ Next the letter is stone art of the statue that has the crown and the mace/scept
 There is also a painting above the letter of some train tracks, maybe even a train station. There is a sign that says Reddington. There is a statue of an angel with a top hot.
 
 So in conclusion the first place Herbert when was Orinda Aries. That is part of the solution to the puzzle in room 46.
+
+# Room 3
+This is the room of Arch Aries. See
