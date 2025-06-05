@@ -10,5 +10,5 @@ North of Orinda Aries. Mountainous.
 ## Sigil
 - Core = Arch Aries
 - Rays = Trains + Stormy
-- Motes = Tribal or Agricultural or Spiritual because of symbol appearing in dining room?
+- Motes = Tribal or Agricultural or Spiritual because of symbol appearing in dining room? Update. Maybe not because it also appears in the nook as a shelf.
 - Border = ???
