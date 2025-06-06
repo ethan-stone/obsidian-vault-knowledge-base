@@ -18,7 +18,7 @@ This is the room of Fenn Aries.
 
 Letter from Herbert.
 
-"I am actually writing this LAST postcard sitting at my desk at "
+"I am actually writing this LAST postcard sitting at my desk at home. I suppose I should put forth the extra effort and drop it in the mail for consistency, but I am tempted to save the post"
 
 # Room 3
 This is the room of Arch Aries. See [[History of Orindia]].
