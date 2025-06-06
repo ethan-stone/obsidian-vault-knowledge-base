@@ -12,3 +12,6 @@ North of Orinda Aries. Mountainous.
 - Rays = Trains + Stormy
 - Motes = Industrial
 - Border = Yellow
+
+# Eraja
+South of Orinda Aries

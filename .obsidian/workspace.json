@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "History of Orindia"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/History of Orindia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of History of Orindia"
             }
           },
           {
@@ -183,6 +182,7 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/The Shrine.md",
     "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/Castle Puzzle.md",
@@ -191,7 +191,6 @@
     "Notes/Blue Prince/Red Door Underground.md",
     "Notes/Blue Prince/Sigil.md",
     "Notes/Blue Prince/History of Orindia.md",
-    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
     "Notes/Blue Prince/Bookshop.md",
