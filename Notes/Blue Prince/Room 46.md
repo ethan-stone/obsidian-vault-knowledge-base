@@ -6,7 +6,7 @@ The third is high up, among all the clocks, (Found)
 And the fourth down below, beneath all the docks (Found).
 The fifth key is held by a king on his throne (Found),
 The sixth in a station, left by one of your own (Found),
-The seventh is major if you draft it quite late,
+The seventh is major if you draft it quite late, (Found)
 And the last key is waiting, behind the last door of eight.
 
 There is a puzzle of a map saying "8 realms in 8 months". Have to put pins on the map in the right order.
