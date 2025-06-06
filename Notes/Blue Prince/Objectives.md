@@ -44,7 +44,7 @@
 - [ ] Get all 8 class rooms
 - [x] Light the candles in the tomb
 - [ ] Castle cipher
-- [ ] Buy the rest of the books from the book store
+- [x] Buy the rest of the books from the book store
 - [ ] Get the armory
-- [ ] Find other levers
+- [x] Find other levers
 - [ ] Castle king and rook pieces
