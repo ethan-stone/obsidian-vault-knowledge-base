@@ -1,3 +1,5 @@
 - Yellow pieces move North
 - Black pieces move West
 - Green pieces move to the opposite side.
+- Purple pieces move South.
+- Red pieces make Black pieces Red.
