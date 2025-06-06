@@ -14,4 +14,9 @@ North of Orinda Aries. Mountainous.
 - Border = Yellow
 
 # Eraja
-South of Orinda Aries
+South of Orinda Aries/Fenn Aries.
+## Sigil
+- Core = Eraja
+- Rays = Trains + Rainy
+- Motes = Poetric
+- Border = Violet

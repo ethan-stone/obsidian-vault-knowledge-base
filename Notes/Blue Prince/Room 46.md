@@ -11,6 +11,8 @@ And the last key is waiting, behind the last door of eight.
 
 There is a puzzle of a map saying "8 realms in 8 months". Have to put pins on the map in the right order.
 - First place is Orinda Aries. Not sure what land area on the map that is though. Associated with trains.
+- Second place unknown.
+- Third place 
 
 There are 4 busts. One for each family. Sinclair, Epsen, Marigold, and Jones.
 
