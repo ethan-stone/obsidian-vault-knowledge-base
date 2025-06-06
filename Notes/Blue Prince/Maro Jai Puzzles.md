@@ -3,5 +3,5 @@
 - Green pieces move to the opposite side.
 - Purple pieces move South.
 - Red pieces make Black pieces Red, and make White pieces Black.
-- Orange pieces turns Red if touched by two or more Red pieces.
+- Orange pieces turn
 - White pieces turns Grey and makes adjacent Grey pieces White.
