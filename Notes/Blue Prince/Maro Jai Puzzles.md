@@ -2,4 +2,4 @@
 - Black pieces move West
 - Green pieces move to the opposite side.
 - Purple pieces move South.
-- Red pieces make Black pieces Red, and make White piecs
+- Red pieces make Black pieces Red, and make White pieces Black.
