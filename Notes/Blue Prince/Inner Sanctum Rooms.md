@@ -26,4 +26,7 @@ Letter from Herbert.
 
 "I was a little disappointed that there has not been a drop of rain during my time here as every Erajan story I have ever heard has begun with rain. I suppose the anecdotes I make on this trip will have to do without that flavorful setting. However, even without the rain, the puddles and ponds that dot the countryside make this place feel different than home.
 
-Lorja Yenna, Ajlor l
+Lorja Yenna, Ajlor Lune,
+
+Herbert
+"
