@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Inner Sanctum Rooms.md",
+                "file": "Notes/Blue Prince/Room 46.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inner Sanctum Rooms"
+              "title": "Room 46"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Inner Sanctum Rooms.md",
+                "file": "Notes/Blue Prince/Room 46.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inner Sanctum Rooms"
+              "title": "Outline of Room 46"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/The Shrine.md",
     "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Dart Board Puzzle.md",
@@ -189,7 +190,6 @@
     "Notes/Blue Prince/Maro Jai Puzzles.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Aquarium.md",
-    "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/Room 46.md",
     "Notes/Blue Prince/History of Orindia.md",
     "Notes/Blue Prince/Castle Puzzle.md",

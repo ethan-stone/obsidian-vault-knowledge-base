@@ -13,6 +13,10 @@ There is a puzzle of a map saying "8 realms in 8 months". Have to put pins on th
 - First place is Orinda Aries. Not sure what land area on the map that is though. Associated with trains.
 - Second place unknown.
 - Third place 
+- Correct Order
+	- 1 Orinda Aries
+	- 2 Eraja
+	- 3
 
 There are 4 busts. One for each family. Sinclair, Epsen, Marigold, and Jones.
 
