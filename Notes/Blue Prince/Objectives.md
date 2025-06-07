@@ -49,4 +49,5 @@
 - [x] Find other levers
 - [ ] Castle king and rook pieces
 - [ ] Get final 2 sanctum keys
-- [ ] 
+- [ ] Figure out how many coins are needed for blessings
+- [ ] Get down to safe house with magnifying glass
