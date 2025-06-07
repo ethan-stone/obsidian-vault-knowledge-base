@@ -7,5 +7,5 @@ A SULLEN CROSS AS FIVE STARS ALIGN
 A PATIENT FIGURE A RECKONING GREAT
 THE BLACK KEY IS LYING WITH THE LAST KING OF EIGHT
 
-
-
+Sacred hour = 1:30 I think
+A youth approach with empty arms without gifts nor gold nor mannered charms = go down to the area without any items or gold or gems or anything
