@@ -44,7 +44,13 @@ Lorja Yenna, Ajlor Lune,
 Herbert
 "
 # Room 6
+Room for Mora Jai
 
+Letter from Herbert.
+
+"
+After a short sea voyage, we arrived on the main island of Mora Jai last night in good spirits. The people here are belligered in their politeness and after spending a full day among hte Jaior
+"
 
 # Room 7
 Room for Verra.
