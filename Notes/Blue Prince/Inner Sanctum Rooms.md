@@ -49,7 +49,7 @@ Room for Mora Jai
 Letter from Herbert.
 
 "
-After a short sea voyage, we arrived on the main island of Mora Jai last night in good spirits. The people here are belligered in their politeness and after spending a full day among hte Jaior
+After a short sea voyage, we arrived on the main island of Mora Jai last night in good spirits. The people here are belligerent in their politeness and after spending a full day among the Jaioreil I am just as afraid of eating another dish as I am of rejecting their offers. I may try to sneak away tomorrow and spend some time alone with my books as I have noticed that each realm I have visited has on thing in common. They each have been short of solitude.
 "
 
 # Room 7
