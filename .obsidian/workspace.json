@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Dart Board Puzzle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "Dart Board Puzzle"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Dart Board Puzzle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of Dart Board Puzzle"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/Objectives.md",
+    "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/Maro Jai Puzzles.md",
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Aquarium.md",
