@@ -53,3 +53,6 @@
 	- [ ] Mechanarium
 - [ ] Figure out how many coins are needed for blessings
 - [ ] Get down to safe house with magnifying glass
+- [ ] See if there is something that points to opening a cabinet in the Archive
+- [ ] See if there is something that points to the grill in the Patio
+- [ ] See if there is something that points to the 
