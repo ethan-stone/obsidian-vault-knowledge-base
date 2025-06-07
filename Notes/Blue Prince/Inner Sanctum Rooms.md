@@ -78,3 +78,11 @@ Despite my prejudice against Mother Nature, I own that I have deeploy loved my t
 
 Confirmed Herbert went to Verra AFTER Mori Jai.
 
+# Room 8
+Room for Nuance.
+
+Letter from Herbert.
+
+"
+By far my favorite realm I have visited during this trip, but I hav always had a penchant for techn
+"
