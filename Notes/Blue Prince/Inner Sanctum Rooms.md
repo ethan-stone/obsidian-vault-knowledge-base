@@ -49,5 +49,5 @@ Room for Verra.
 Letter from Herbert.
 
 "
-Despite my prejudice against Mother Nature, I own that I have deeploy loved my time here at Verr
+Despite my prejudice against Mother Nature, I own that I have deeploy loved my time here at Verra. The memories of the youthful trip I took here with my brother have been relentless, and as I have gotten older, I find less and less occasion to recollect on such trivial pleasures. One thing I do remember vividly which has not lost a single 
 "
