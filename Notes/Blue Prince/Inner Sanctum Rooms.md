@@ -89,4 +89,4 @@ By far my favorite realm I have visited during this trip, but I hav always had a
 Herbert
 "
 
-Confirms Nuance was the last realm visited before coming hom
+Confirms Nuance was the last realm visited before coming home.
