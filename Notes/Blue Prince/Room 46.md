@@ -20,7 +20,8 @@ There is a puzzle of a map saying "8 realms in 8 months". Have to put pins on th
 	- 4 Mori Jai
 	- 5 Verra
 	- 6 Corarica
-	- 
+	- 7 Nuance
+	- 8 Fenn Aries
 
 There are 4 busts. One for each family. Sinclair, Epsen, Marigold, and Jones.
 
