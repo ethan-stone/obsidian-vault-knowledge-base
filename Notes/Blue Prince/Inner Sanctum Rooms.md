@@ -84,5 +84,9 @@ Room for Nuance.
 Letter from Herbert.
 
 "
-By far my favorite realm I have visited during this trip, but I hav always had a penchant for technology and am less moved by the beauty of nature than others. The soot-filled streets and soaring skyscrapers here are just as stirring to me as the mountains of Corarica or the beaches of Mora Jai. Perhaps I am just letting my child hood love of Dirigiblocks compromise my objectivity.
+By far my favorite realm I have visited during this trip, but I hav always had a penchant for technology and am less moved by the beauty of nature than others. The soot-filled streets and soaring skyscrapers here are just as stirring to me as the mountains of Corarica or the beaches of Mora Jai. Perhaps I am just letting my child hood love of Dirigiblocks compromise my objectivity. From the shops I have visited, it seems the series is just as popular here as it is back home. Speaking of home, as I look across the eastern sea, I can almost see its shores. I never thought that I would miss the sight of red flags.
+
+Herbert
 "
+
+Confirms Nuance was the last realm visited before coming hom
