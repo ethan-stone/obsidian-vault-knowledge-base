@@ -1,1 +1,2 @@
 - Mentions granting cuckoo clocks to Courtney Ferrine and Rygard Ferrine that are set eternally on the sacred hour. What is the sacred hour?
+	- Could be 1:30. That's the time for clock tower puzzle and the cuckoo clocks in Room 46 are set to 1:30.
