@@ -46,6 +46,8 @@ Herbert
 # Room 7
 Room for Verra.
 
-"
+Letter from Herbert.
 
+"
+Despite my prejudice against Mother Nature, I own that I have deeploy loved my time here at Verr
 "
