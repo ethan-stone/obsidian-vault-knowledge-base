@@ -48,3 +48,5 @@
 - [ ] Get the armory
 - [x] Find other levers
 - [ ] Castle king and rook pieces
+- [ ] Get final 2 sanctum keys
+- [ ] 
