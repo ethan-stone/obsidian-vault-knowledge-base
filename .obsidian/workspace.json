@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Castle Hidden Room.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Hidden Room"
+              "title": "Objectives"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Castle Hidden Room.md",
+                "file": "Notes/Blue Prince/Objectives.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Castle Hidden Room"
+              "title": "Outline of Objectives"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Maro Jai Puzzles.md",
     "Notes/Blue Prince/Castle Hidden Room.md",
+    "Notes/Blue Prince/Maro Jai Puzzles.md",
     "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/Herbert's Will.md",
     "Notes/Blue Prince/Room 46.md",

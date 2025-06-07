@@ -41,18 +41,19 @@
 - [x] Figure out where A New Clue applies.
 	- [x] What does message about route 8 pertain to?
 	- [x] What does the book puzzle/cipher refer too?
-- [ ] Get all 8 class rooms
+- [x] Get all 8 class rooms
 - [x] Light the candles in the tomb
-- [ ] Castle cipher
+- [x] Castle cipher
 - [x] Buy the rest of the books from the book store
 - [ ] Get the armory
 - [x] Find other levers
-- [ ] Castle king and rook pieces
-- [ ] Get final 2 sanctum keys
-	- [ ] Vault
-	- [ ] Mechanarium
+- [x] Castle king and rook pieces
+- [x] Get final 2 sanctum keys
+	- [x] Vault
+	- [x] Mechanarium
 - [ ] Figure out how many coins are needed for blessings
 - [x] Get down to safe house with magnifying glass
 - [ ] See if there is something that points to opening a cabinet in the Archive
 - [ ] See if there is something that points to the grill in the Patio
 - [ ] See if there is something that points to the washing machine in the Laundry
+- [ ] Get more treasure trove notes
