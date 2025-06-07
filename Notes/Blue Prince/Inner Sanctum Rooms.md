@@ -43,3 +43,9 @@ Lorja Yenna, Ajlor Lune,
 
 Herbert
 "
+# Room 7
+Room for Verra.
+
+"
+
+"

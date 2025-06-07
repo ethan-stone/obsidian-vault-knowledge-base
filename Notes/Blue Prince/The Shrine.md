@@ -4,7 +4,6 @@ Each time you draft a SHOP ROOM, gain 1 ivory dice. Gain 5 extra coins each time
 ## Blessing of the Dancer
 While drafting, you may pay gems to spin floorplans.
 
-
 | Coins | Blessing                    | Days |
 | ----- | --------------------------- | ---- |
 | 1     | Blessing of the Dancer      | 3    |
