@@ -16,7 +16,11 @@ There is a puzzle of a map saying "8 realms in 8 months". Have to put pins on th
 - Correct Order
 	- 1 Orinda Aries
 	- 2 Eraja
-	- 3
+	- 3 Arch Aries
+	- 4 Mori Jai
+	- 5 Verra
+	- 6 Corarica
+	- 
 
 There are 4 busts. One for each family. Sinclair, Epsen, Marigold, and Jones.
 
