@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Room 46.md",
+                "file": "Notes/Blue Prince/Herbert's Will.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "Herbert's Will"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Room 46.md",
+                "file": "Notes/Blue Prince/Herbert's Will.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Room 46"
+              "title": "Outline of Herbert's Will"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/Room 46.md",
+    "Notes/Blue Prince/Herbert's Will.md",
+    "Notes/Blue Prince/Inner Sanctum Rooms.md",
     "Notes/Blue Prince/The Shrine.md",
     "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Dart Board Puzzle.md",
@@ -222,7 +223,6 @@
     "Fitness/Diet/Lunch.md",
     "Fitness/Diet/Breakfast.md",
     "Notes/Blue Prince/Safe Codes.md",
-    "Notes/Blue Prince/Swim Bird.md",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
     "Vietnamese",
