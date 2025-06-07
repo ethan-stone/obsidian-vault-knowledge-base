@@ -6,3 +6,4 @@
 | 3      | Blue  | Sun    | Green             | The true treasure of the trove is not in the house.        | True because of 4 |
 | 4      | White | Wave   | Red (handwritten) | The previous box in this room contained a true statement.  | True              |
 | 5      | White | Wave   | Green             | Two realms have the same color banner.                     |                   |
+| 6      | Black | Moon   |                   |                                                            |                   |
