@@ -43,6 +43,15 @@ Lorja Yenna, Ajlor Lune,
 
 Herbert
 "
+# Room 5
+Room for Corarica
+
+Letter from Herbert.
+
+"
+
+"
+
 # Room 6
 Room for Mora Jai
 
