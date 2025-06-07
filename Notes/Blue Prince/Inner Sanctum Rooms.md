@@ -49,8 +49,14 @@ Room for Corarica
 Letter from Herbert.
 
 "
-There have been fewer and fewer opportunities, the further we travel up into the mountains, to attend my correspondence and I find myself regretting having brought so many books, as this is the first realm I have visited without porters. Here, every person is expected to carry their own belongings, and if you can't, you throw away "that which is expendable". It's looking like I'll be bringing back less souvenirs than I had planned. I never expected to appreciate the cold, but the frigid 
+There have been fewer and fewer opportunities, the further we travel up into the mountains, to attend my correspondence and I find myself regretting having brought so many books, as this is the first realm I have visited without porters. Here, every person is expected to carry their own belongings, and if you can't, you throw away "that which is expendable". It's looking like I'll be bringing back less souvenirs than I had planned. I never expected to appreciate the cold, but the frigid weather here is a welcome relief coming from the sweltering shores of Verra.
+
+P.S.
+
+I ended up forsaking all but one of my books
 "
+
+Confirms Herbert visited Corarica AFTER Verra.
 
 # Room 6
 Room for Mora Jai
