@@ -53,7 +53,7 @@ There have been fewer and fewer opportunities, the further we travel up into the
 
 P.S.
 
-I ended up forsaking all but one of my books
+I ended up forsaking all but one of my books.
 "
 
 Confirms Herbert visited Corarica AFTER Verra.
@@ -76,4 +76,4 @@ Letter from Herbert.
 Despite my prejudice against Mother Nature, I own that I have deeploy loved my time here at Verra. The memories of the youthful trip I took here with my brother have been relentless, and as I have gotten older, I find less and less occasion to recollect on such trivial pleasures. One thing I do remember vividly which has not lost a single speck of charm are the famous turtles. Each visitor of Verra, upon arriving, is lent one of these hard shell friends for the duration of their stay to serve as both steed, guide and companion. I am still under the spell of island life, even if the weather here is much more sever than it was on Mora Jai.
 "
 
-Confirmed Herbert went to Mora Jai before Verra.
+Confirmed Herbert went to Mora Jai BEFORE Verra.
