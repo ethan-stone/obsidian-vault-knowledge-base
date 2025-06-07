@@ -49,7 +49,7 @@ Room for Corarica
 Letter from Herbert.
 
 "
-
+There have been fewer and fewer opportunities, the further we travel up into the mountains, to attend my correspondence and I find myself regretting having brought so many books, as this is the first realm I have visited without porters. Here, every 
 "
 
 # Room 6
