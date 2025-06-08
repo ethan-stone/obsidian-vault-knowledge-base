@@ -57,3 +57,5 @@
 - [ ] See if there is something that points to the grill in the Patio
 - [ ] See if there is something that points to the washing machine in the Laundry
 - [ ] Get more treasure trove notes
+- [ ] Unlock trunk in Shrine
+- [ ] Get Antechamber in outer room
