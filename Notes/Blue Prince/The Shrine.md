@@ -8,11 +8,11 @@ For each different type of spread (as in spread keys or spread gems) that you do
 
 | Coins    | Blessing                     | Days  |
 | -------- | ---------------------------- | ----- |
-| 17n + 1  | Blessing of the Dancer       | n + 3 |
-| 17n + 3  | Blessing of the High Roller  | n + 3 |
-| 17n + 5  | Blessing of the Gardener     | n + 3 |
-| 17n + 7  | Blessing of the Chef         | n + 3 |
-| 17n + 9  | Blessing of the Red General  | n + 3 |
-| 17n + 11 | Blessing of the Tinkerer     | n + 3 |
-| 17n + 13 | Blessing of the Monk         | n + 3 |
-| 17n + 15 | Blessing of the Berry Picker | n + 3 |
+| 16n + 1  | Blessing of the Dancer       | n + 3 |
+| 16n + 3  | Blessing of the High Roller  | n + 3 |
+| 16n + 5  | Blessing of the Gardener     | n + 3 |
+| 16n + 7  | Blessing of the Chef         | n + 3 |
+| 16n + 9  | Blessing of the Red General  | n + 3 |
+| 16n + 11 | Blessing of the Tinkerer     | n + 3 |
+| 16n + 13 | Blessing of the Monk         | n + 3 |
+| 16n + 15 | Blessing of the Berry Picker | n + 3 |
