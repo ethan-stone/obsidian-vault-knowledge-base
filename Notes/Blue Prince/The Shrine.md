@@ -8,13 +8,9 @@ For each different type of spread (as in spread keys or spread gems) that you do
 
 | Coins | Blessing                    | Days |
 | ----- | --------------------------- | ---- |
-| 1     | Blessing of the Dancer      | 3    |
-| 2     | Blessing of the Dancer      | 3    |
-| 3     | Blessing of the High Roller | 3    |
-| 4     | Blessing of the High Roller | 3    |
-| 5     | Blessing of the Gardener    | 3    |
-| 6     | Blessing of the Gardener    | 3    |
-| 7     | Blessing of the Chef        | 3    |
-| 8     | Blessing of the Chef        | 3    |
-| 9     | Blessing of the Red General | 3    |
-|       |                             |      |
+| 1-2   | Blessing of the Dancer      | 3    |
+| 3-4   | Blessing of the High Roller | 3    |
+| 5-6   | Blessing of the Gardener    | 3    |
+| 7-8   | Blessing of the Chef        | 3    |
+| 9-10  | Blessing of the Red General | 3    |
+| 10    |                             |      |
