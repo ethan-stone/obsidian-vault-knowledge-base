@@ -16,3 +16,5 @@ For each different type of spread (as in spread keys or spread gems) that you do
 | 6     | Blessing of the Gardener    | 3    |
 | 7     | Blessing of the Chef        | 3    |
 | 8     | Blessing of the Chef        | 3    |
+| 9     | Blessing of the Red General | 3    |
+|       |                             |      |
