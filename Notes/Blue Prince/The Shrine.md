@@ -10,8 +10,8 @@ For each different type of spread (as in spread keys or spread gems) that you do
 | ---------- | ---------------------------- | ---- |
 | 1-2, 17-18 | Blessing of the Dancer       | 3, 4 |
 | 3-4, 19-20 | Blessing of the High Roller  | 3, 4 |
-| 5-6        | Blessing of the Gardener     | 3    |
-| 7-8        | Blessing of the Chef         | 3    |
+| 5-6, 21-22 | Blessing of the Gardener     | 3, 4 |
+| 7-8, 23-   | Blessing of the Chef         | 3    |
 | 9-10       | Blessing of the Red General  | 3    |
 | 11-12      | Blessing of the Tinkerer     | 3    |
 | 13-14      | Blessing of the Monk         | 3    |
