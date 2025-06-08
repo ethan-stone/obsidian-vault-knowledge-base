@@ -8,4 +8,5 @@ While drafting, you may pay gems to spin floorplans.
 | ----- | --------------------------- | ---- |
 | 1     | Blessing of the Dancer      | 3    |
 | 2     | Blessing of the Dancer      | 3    |
+| 3     | Blessing of the High Roller | 3    |
 | 4     | Blessing of the High Roller | 3    |
