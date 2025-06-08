@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/The Shrine.md",
+                "file": "Notes/Blue Prince/Treasure Trove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Shrine"
+              "title": "Treasure Trove"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/The Shrine.md",
+                "file": "Notes/Blue Prince/Treasure Trove.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Shrine"
+              "title": "Outline of Treasure Trove"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
-    "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/The Shrine.md",
+    "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Castle Hidden Room.md",
     "Notes/Blue Prince/The Curse of Black Bridge.md",
