@@ -61,3 +61,5 @@
 	- Reveals cursed effigy from that one book
 - [x] Get Antechamber in outer room
 	- Reveals note
+- [ ] Remove all crates from the tunnel.
+- [ ] Find out what blue doors are.
