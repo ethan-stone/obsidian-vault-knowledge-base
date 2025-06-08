@@ -8,4 +8,5 @@
 | 5      | White       | Wave         | Green             | Two realms have the same color banner.                     |                   |
 | 6      | Black       | Moon         | Green             | Boxes marked with Moon always contain false statements.    |                   |
 | 7      | White       | Wave         | Red               | The true treasure of the trove is not in this room.        | False             |
+| 8      | Black       | Sun          | Blue              | All boxes marked by Sun contain memos that are true.       | True              |
 |        |             |              |                   |                                                            |                   |
