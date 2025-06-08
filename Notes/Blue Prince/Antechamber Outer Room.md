@@ -1,0 +1,1 @@
+The pedestal in the ante chamber says "So close, yet so far away"

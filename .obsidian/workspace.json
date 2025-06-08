@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Antechamber Outer Room.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objectives"
+              "title": "Antechamber Outer Room"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Blue Prince/Objectives.md",
+                "file": "Notes/Blue Prince/Antechamber Outer Room.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Objectives"
+              "title": "Outline of Antechamber Outer Room"
             }
           },
           {
@@ -180,12 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9387c4d9cd19f622",
+  "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Notes/Blue Prince/Objectives.md",
+    "Notes/Blue Prince/Antechamber Outer Room.md",
     "Notes/Blue Prince/Untitled",
     "Notes/Blue Prince/Treasure Trove.md",
     "Notes/Blue Prince/The Shrine.md",
-    "Notes/Blue Prince/Objectives.md",
     "Notes/Blue Prince/Castle Hidden Room.md",
     "Notes/Blue Prince/The Curse of Black Bridge.md",
     "Notes/Blue Prince/Maro Jai Puzzles.md",
@@ -217,7 +218,6 @@
     "Notes",
     "DND/One Shot",
     "Fitness/Lifting/Log",
-    "Fitness/Lifting",
     "Fitness/Running/Pasted image 20231212134157.png",
     "Untitled.canvas"
   ]
