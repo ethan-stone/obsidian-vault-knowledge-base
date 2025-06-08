@@ -8,3 +8,5 @@ Deadly is the stone
 Heavy is the crown
 Ready is the throne
 "
+
+Need to get the scepter, cursed effigy, and crown in a single run and get to the throne room, just like in the picture in one of the class rooms.
