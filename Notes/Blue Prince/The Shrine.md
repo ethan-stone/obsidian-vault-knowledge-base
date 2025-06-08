@@ -6,13 +6,13 @@ While drafting, you may pay gems to spin floorplans.
 # Blessing of the Chef
 For each different type of spread (as in spread keys or spread gems) that you do each day, add an extra dish to the dining room.
 
-| Coins | Blessing                     | Days |
-| ----- | ---------------------------- | ---- |
-| 1-2   | Blessing of the Dancer       | 3    |
-| 3-4   | Blessing of the High Roller  | 3    |
-| 5-6   | Blessing of the Gardener     | 3    |
-| 7-8   | Blessing of the Chef         | 3    |
-| 9-10  | Blessing of the Red General  | 3    |
-| 11-12 | Blessing of the Tinkerer     | 3    |
-| 13-14 | Blessing of the Monk         | 3    |
-| 15-16 | Blessing of the Berry Picker | 3    |
+| Coins      | Blessing                     | Days |
+| ---------- | ---------------------------- | ---- |
+| 1-2, 17-18 | Blessing of the Dancer       | 3, 4 |
+| 3-4, 19-20 | Blessing of the High Roller  | 3, 4 |
+| 5-6        | Blessing of the Gardener     | 3    |
+| 7-8        | Blessing of the Chef         | 3    |
+| 9-10       | Blessing of the Red General  | 3    |
+| 11-12      | Blessing of the Tinkerer     | 3    |
+| 13-14      | Blessing of the Monk         | 3    |
+| 15-16      | Blessing of the Berry Picker | 3    |
