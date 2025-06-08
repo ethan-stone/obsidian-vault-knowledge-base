@@ -51,11 +51,13 @@
 - [x] Get final 2 sanctum keys
 	- [x] Vault
 	- [x] Mechanarium
-- [ ] Figure out how many coins are needed for blessings
+- [x] Figure out how many coins are needed for blessings
 - [x] Get down to safe house with magnifying glass
 - [ ] See if there is something that points to opening a cabinet in the Archive
-- [ ] See if there is something that points to the grill in the Patio
+- [x] See if there is something that points to the grill in the Patio
 - [ ] See if there is something that points to the washing machine in the Laundry
 - [ ] Get more treasure trove notes
-- [ ] Unlock trunk in Shrine
-- [ ] Get Antechamber in outer room
+- [x] Unlock trunk in Shrine
+	- Reveals cursed effigy from that one book
+- [x] Get Antechamber in outer room
+	- Reveals note
