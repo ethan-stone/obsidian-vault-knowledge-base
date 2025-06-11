@@ -15,6 +15,7 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 		- [ ] May need to hold off on this. This is a ton of effort.
 	- [ ] Ability to "finalize" a chat into a recipe.
 	- [ ] Be able to start a chat from an existing recipe. Either one of your own or a public recipe.
+	- [ ] Be able to give feedback to recipes to improve the product.
 - [ ] Recipes can be public or private.
 	- [ ] Basic status of recipes being public or private.
 	- [ ] Like a recipe.
@@ -22,6 +23,5 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 - [ ] Specify dietary restrictions.
 	- [ ] Be able to specify dietary restrictions that are applied by default to new recipes.
 	- [ ] Be able to optionally override dietary restrictions for a specific recipe.
-	- [ ] 
 # Ideas
 - Be able to print your recipes to a physical book. Can use something like https://www.lulu.com/sell/sell-on-your-site/print-api.
