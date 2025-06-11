@@ -16,7 +16,8 @@
     },
     "instructions": {
 	    "type": "array",
-      "items": { "type": "string", "description": "e.g., 'Preheat oven to 375F.'" }
+	    "items": { 
+		    "type": "string", "description": "e.g., 'Preheat oven to375F.'" }
     },
     "notes": { "type": "string", "description": "Optional tips or variations" }
   },
