@@ -1,5 +1,7 @@
 # Things I Want to Learn About
 - History of policing in America
+- The sources of wealth inequality and how to combat it
+- Better understanding of global economics
 - 
 
 - the light eaters
