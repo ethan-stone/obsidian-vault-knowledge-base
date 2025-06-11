@@ -18,3 +18,6 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 	- [ ] Basic status of recipes being public or private.
 	- [ ] Like a recipe.
 	- [ ] Fork a recipe.
+# Ideas
+- Be able to print your recipes to a physical book. Can use something like https://www.lulu.com/sell/sell-on-your-site/print-api.
+- 
