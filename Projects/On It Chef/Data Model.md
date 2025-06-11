@@ -18,8 +18,7 @@
       "items": { "type": "string", "description": "e.g., 'Preheat oven to 375F.'" }
     },
     "notes": { "type": "string", "description": "Optional tips or variations" },
-    "createdAt": { "type": "string", "format": "date-time" },
-    "updatedAtt"
+    "createdAt": { "type": "string", "format": "date-time" }
   },
   "required": ["name", "ingredients", "instructions"]
 }
