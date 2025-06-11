@@ -3,7 +3,6 @@
 {
   "type": "object",
   "properties": {
-  
     "name": { "type": "string", "description": "Name of the recipe" },
     "description": { "type": "string", "description": "Brief description of the dish" },
     "prep_time": { "type": "string" },
