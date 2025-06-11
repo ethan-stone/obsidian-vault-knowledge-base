@@ -93,6 +93,7 @@
 - Ring of Water Walking (summons walking water pants)
 - Cantrip (a can full of random stuff to make people trip)
 - 1 Inspiration (advantage on roll)
+- 4d
 # Weapons
 - Wraps of Unarmed Prowess
 	- +3 to unarmed attack rolls and damage rolls
