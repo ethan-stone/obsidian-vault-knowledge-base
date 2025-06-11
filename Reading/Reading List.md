@@ -1,3 +1,7 @@
+# Things I Want to Learn About
+- History of policing in America
+- 
+
 - the light eaters
 - martyr!
 - there's always this year: on basketball and ascension
@@ -6,3 +10,4 @@
 - Are Prisons Obsolete?
 - Discipline and Punishment: The Birth of the Prison
 - The End of Policing
+- Abundance
