@@ -3,4 +3,6 @@
 - there's always this year: on basketball and ascension
 - The Rise of the Warrior Cop
 - The New Jim Crow
-- Are Prisons Obsol
+- Are Prisons Obsolete?
+- Discipline and Punishment: The Birth of the Prison
+- The End of Policing
