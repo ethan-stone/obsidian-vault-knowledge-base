@@ -8,7 +8,7 @@
 - Alignment - Chaotic Neutral
 - Bardic Inspiration - 1d10
 	- Max - 5
-	- Have - 4
+	- Have - 5
 - Dark Vision - 60ft
 - Dwarven Resilience
 	- Advantage on saving throws for poison and resistance for poison damage
@@ -40,7 +40,7 @@
 - HP - 98
 - Hit Dice - 1d8
 	- Max - 13
-	- Have - 10
+	- Have - 13
 # Saving Throws
 - Strength - (+2)
 - Dexterity - (+8)^
@@ -193,7 +193,7 @@ This spell is a minor magical trick that novice spell casters use for practice. 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 ## Level 1
 - Spell Slots - 4
-- Spell Slots Used - 1
+- Spell Slots Used - 0
 ### Detect Magic
 **Casting Time:** 1 action  
 **Range:** Self  
@@ -308,7 +308,7 @@ A _[remove curse](http://dnd5e.wikidot.com/spell:remove-curse)_ spell ends thi
 **_At Higher Levels._** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration.
 ## Level 4
 Spell Slots - 3
-Spell Slots Used - 1
+Spell Slots Used - 0
 ### Dimension Door
 **Casting Time:** 1 action  
 **Range:** 500 feet  
@@ -333,7 +333,7 @@ The target must make a Wisdom saving throw. On a failed save, the target becomes
 **_At Higher Levels._** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
 ## Level 5
 Spell Slots - 2
-Spell Slots Used - 1
+Spell Slots Used - 0
 ### Animate Objects
 **Casting Time:** 1 action  
 **Range:** 120 feet  
@@ -425,7 +425,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 **_At Higher Levels._** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 ## Level 6
 Spell Slots - 1
-Spell Slots Used - 1
+Spell Slots Used - 0
 ### Mass Suggestion
 **Casting Time:** 1 action  
 **Range:** 60 feet  
