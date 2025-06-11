@@ -19,5 +19,9 @@ An AI mobile app to build recipes and learn how to enhance your cooking skills.
 	- [ ] Basic status of recipes being public or private.
 	- [ ] Like a recipe.
 	- [ ] Fork a recipe.
+- [ ] Specify dietary restrictions.
+	- [ ] Be able to specify dietary restrictions that are applied by default to new recipes.
+	- [ ] Be able to optionally override dietary restrictions for a specific recipe.
+	- [ ] 
 # Ideas
 - Be able to print your recipes to a physical book. Can use something like https://www.lulu.com/sell/sell-on-your-site/print-api.
