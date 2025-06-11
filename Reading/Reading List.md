@@ -1,3 +1,6 @@
 - the light eaters
 - martyr!
 - there's always this year: on basketball and ascension
+- The Rise of the Warrior Cop
+- The New Jim Crow
+- Are Prisons Obsol
