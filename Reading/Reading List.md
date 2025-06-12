@@ -2,7 +2,9 @@
 - History of policing in America.
 - The sources of wealth inequality, how it happened, and hot we can mitigate it.
 - Better understanding of global economics, trade relations, and how countries do business.
-- Better understanding of
+- Better understanding of government budgets.
+
+
 
 - the light eaters
 - martyr!
