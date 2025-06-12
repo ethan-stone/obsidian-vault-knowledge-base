@@ -1,8 +1,8 @@
 # Things I Want to Learn About
-- History of policing in America
-- The sources of wealth inequality and how to combat it
-- Better understanding of global economics
-- 
+- History of policing in America.
+- The sources of wealth inequality, how it happened, and hot we can mitigate it.
+- Better understanding of global economics, trade relations, and how countries do business.
+- Better understanding of
 
 - the light eaters
 - martyr!
