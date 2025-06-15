@@ -15,3 +15,13 @@
 - Discipline and Punishment: The Birth of the Prison
 - The End of Policing
 - Abundance
+
+
+- check out Arthur laffer
+- Check out John galts 
+- Check out Aaron bastinis fully automated luxury communism 
+- Check out Neil postman
+- check out James pethokoukis: the conservative futurist 
+- Check out Tyler cowen 
+- Check out Presidents, Populism, and the Crisis of Democracy
+- Look at how much blue states shifted right
