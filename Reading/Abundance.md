@@ -1,2 +1,2 @@
-- Sprawl is the concept of growing too fast 
-- Ronald Regan was the governor of California and 
+- Sprawl is the concept of too fast growing suburban areas.
+- Ronald Regan was the governor of California and put in place some of the re
