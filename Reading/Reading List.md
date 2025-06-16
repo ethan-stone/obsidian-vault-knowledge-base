@@ -24,5 +24,4 @@
 - check out James pethokoukis: the conservative futurist 
 - Check out Tyler cowen 
 - Check out Presidents, Populism, and the Crisis of Democracy
-- Look at how much blue states shifted right
-- Hone
+- Look at how much blue states shifted right in the 2024 election
