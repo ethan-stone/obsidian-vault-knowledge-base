@@ -16,4 +16,3 @@
 	- Some laws made it so that the homes being built had to be a certain size.
 	- Some made it so that only single family homes could be built. This couldn't keep up with the growth of population.
 	- Some made it so that the density (dwelling per acre) couldn't exceed a certain amount.
-	- 
