@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Reading List.md",
+                "file": "Reading/Abundance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "Abundance"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Reading List.md",
+                "file": "Reading/Abundance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reading List"
+              "title": "Outline of Abundance"
             }
           },
           {
@@ -183,6 +183,8 @@
   },
   "active": "8932114d14693425",
   "lastOpenFiles": [
+    "Reading/Reading List.md",
+    "Reading/Abundance.md",
     "Untitled.md",
     "Reading/Abundance",
     "Projects/On It Chef/Data Model.md",
@@ -209,8 +211,6 @@
     "Notes/Blue Prince/Workshop.md",
     "Notes/Blue Prince/Utility Room Fuse Box.md",
     "Notes/Blue Prince/Bookshop.md",
-    "Notes/Blue Prince/Boiler Room.md",
-    "Notes/Blue Prince/A New Clue.md",
     "Castle Puzzle",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
