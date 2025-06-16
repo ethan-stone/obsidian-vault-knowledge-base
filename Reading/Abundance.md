@@ -1,2 +1,2 @@
 - Sprawl is the concept of too fast growing suburban areas.
-- Ronald Regan was the governor of California and put in place some of the re
+- Ronald Regan was the governor of California and put in place CEQA, which requires pub
