@@ -3,4 +3,8 @@
 	- The ACT was originally supposed to be that any project the government builds needs to go through thorough approval.
 	- In Friends of Mammoth v. Board of Supervisor of Mono County, the interpretation got updated so that any project that needs to be approved by the government has to satisfy the requirements of CEQA. This is basically everything since projects need permits.
 - Richard Nixon also put in place a lot of environmental policies during administration.
-	- Nation Environmental Policy 
+	- Nation Environmental Policy Act of 1969
+	- Clean Air Act of 1970
+	- Federal Water Pollution Control Act Amendments of 1972
+	- Endangered Species Act of 1973
+	- Created the Environmental Protection Agency
