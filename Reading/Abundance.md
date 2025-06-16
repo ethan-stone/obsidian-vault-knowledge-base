@@ -7,4 +7,8 @@
 	- Clean Air Act of 1970
 	- Federal Water Pollution Control Act Amendments of 1972
 	- Endangered Species Act of 1973
-	- Created the Environmental Protection Agency
+	- Created the Environmental Protection Agency (EPA) in 1970
+	- Occupational Safety and Health Act of 1970
+	- Marine Mammal Protection Act of 1972
+	- Coast Zone Management Act of 1972
+- 
