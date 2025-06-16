@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "Abundance"
             }
+          },
+          {
+            "id": "7a4557ba88e47d6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/Abundance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abundance"
+              "title": "Outline"
             }
           },
           {
@@ -206,7 +215,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62687e95d28ef700",
+  "active": "7a4557ba88e47d6e",
   "lastOpenFiles": [
     "Reading/Abundance.md",
     "Reading/Reading List.md",
