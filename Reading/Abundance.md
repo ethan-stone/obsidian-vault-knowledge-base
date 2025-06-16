@@ -13,4 +13,5 @@
 	- Coast Zone Management Act of 1972
 - Cities are the epicenter of economic growth. They used to be where people would move to get rich. Now it's where people go to spend their riches.
 - Zoning laws restricted building homes.
-	- Some laws made it so that the homes being built had to be a certain size. 
+	- Some laws made it so that the homes being built had to be a certain size.
+	- Some made it so that only single family homes could be built. This mad
