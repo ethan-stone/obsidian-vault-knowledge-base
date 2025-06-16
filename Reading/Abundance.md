@@ -1,4 +1,4 @@
 - Sprawl is the concept of too fast growing suburban areas.
 - Ronald Regan was the governor of California and put in place CEQA.
 	- The ACT was originally supposed to be that any project the government builds needs to go through thorough approval.
-	- However, when highways were being built
+	- In Friends of Mammoth v. Board of Supervisor of Mono County, the interpretation got updated so that any proje
