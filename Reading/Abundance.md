@@ -12,7 +12,8 @@
 	- Marine Mammal Protection Act of 1972
 	- Coast Zone Management Act of 1972
 - Cities are the epicenter of economic growth. They used to be where people would move to get rich. Now it's where people go to spend their riches.
-- Zoning laws restricted building homes.
+- Zoning laws restricted building homes. A lot of this was the fear of sprawl.
 	- Some laws made it so that the homes being built had to be a certain size.
 	- Some made it so that only single family homes could be built. This couldn't keep up with the growth of population.
+	- Some made it so that the density (dwelling per acre) couldn't exceed a certain amount.
 	- 
