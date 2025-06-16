@@ -14,4 +14,5 @@
 - Cities are the epicenter of economic growth. They used to be where people would move to get rich. Now it's where people go to spend their riches.
 - Zoning laws restricted building homes.
 	- Some laws made it so that the homes being built had to be a certain size.
-	- Some made it so that only single family homes could be built. This mad
+	- Some made it so that only single family homes could be built. This couldn't keep up with the growth of population.
+	- 
