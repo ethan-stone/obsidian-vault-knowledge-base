@@ -8,6 +8,8 @@
 - [ ] Is there any analogous scenario to how EV charging is subsidized by the government. Can we predict when that will stop?
 - [ ] When will Carbon Credits become obsolete because we're fully renewable?
 - [ ] EV charging on it's own does NOT make money for customers. Full electrification can.
+- [ ] What is modbus?
+- [ ] 
 
 # Takeaways
 - EV chargers may be free, but there is plenty of recurring costs.
