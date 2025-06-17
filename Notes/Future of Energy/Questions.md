@@ -9,7 +9,13 @@
 - [ ] When will Carbon Credits become obsolete because we're fully renewable?
 - [ ] EV charging on it's own does NOT make money for customers. Full electrification can.
 - [ ] What is modbus?
-- [ ] 
+- [ ] What is the cost of maintenance of EV charging stations?
+- [ ] What is the cost of maintenance of solar panels?
+- [ ] What is the cost of maintenance of batteries?
+- [ ] What is the failure rate of EV charging stations?
+- [ ] What is the failure rate of solar panels?
+- [ ] What is the failure rate of batteries?
+
 
 # Takeaways
 - EV chargers may be free, but there is plenty of recurring costs.
