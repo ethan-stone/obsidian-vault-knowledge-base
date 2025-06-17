@@ -1,1 +1,4 @@
-- [ ] What is the average cost of electricity per resident of an apartment complex? 
+- [ ] What is the average cost of electricity per resident of an apartment complex? Break it down by region.
+- [ ] What is the expected cost of electricity in the future?
+- [ ] How soon until we are fully renewable?
+- [ ] What is the value prop of battery storage + renewable solar panels?
