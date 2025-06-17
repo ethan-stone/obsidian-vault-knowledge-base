@@ -24,4 +24,8 @@
 	- Increase in electricity bill.
 - Right now we rely on incentives and the fact they can get them for free. In the end they pay more.
 
-https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a
+https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_ahttps://www.pnnl.gov/main/publications/external/technical_reports/PNNL-23491.pdf
+https://revel-energy.com/future-energy-costs/
+https://revel-energy.com/rising-electricity-costs/
+https://revel-energy.com/how-to-calculate-commercial-solar-investment/
+https://www.greenlancer.com/post/guide-commercial-electric-vehicle-charging-stationshttps://www.energysage.com/energy-storage/how-much-do-batteries-cost/
