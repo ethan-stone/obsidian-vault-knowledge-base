@@ -1,0 +1,1 @@
+https://revel-energy.com/rising-electricity-costs/
