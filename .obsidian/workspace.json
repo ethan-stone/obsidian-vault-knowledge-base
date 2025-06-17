@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Automated EV Charging Support/Untitled.md",
+                "file": "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Fault Notification Workflow"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Automated EV Charging Support/Untitled.md",
+                "file": "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Fault Notification Workflow"
             }
           },
           {
@@ -183,9 +183,9 @@
   },
   "active": "62687e95d28ef700",
   "lastOpenFiles": [
+    "Projects/Automated EV Charging Support/Model Context Protocol.md",
     "Projects/Automated EV Charging Support/Overview.md",
-    "Projects/Automated EV Charging Support/Untitled.md",
-    "Projects/Automated EV Charging Support/MCP.md",
+    "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
     "Notes/Future of Energy/Questions.md",
     "Projects/Automated EV Charging Support",
     "Notes/Future of Energy/Solar.md",
