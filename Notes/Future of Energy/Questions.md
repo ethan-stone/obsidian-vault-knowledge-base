@@ -3,4 +3,5 @@
 - [ ] How soon until we are fully renewable?
 - [ ] What is the value of battery storage + renewable solar panels?
 - [ ] What is the value of EV charging without incentives?
-- [ ] If electricity gets 
+- [ ] If electricity gets cheaper how do we make money? We will make less off of driver session payments.
+- [ ] If self driving becomes bigger? Who is paying for the electricity? It has to be the fl
