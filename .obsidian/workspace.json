@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Future of Energy/Investor Owned Utility (IOU).md",
+                "file": "Notes/Future of Energy/California IOUs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investor Owned Utility (IOU)"
+              "title": "California IOUs"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Future of Energy/Investor Owned Utility (IOU).md",
+                "file": "Notes/Future of Energy/California IOUs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Investor Owned Utility (IOU)"
+              "title": "Outline of California IOUs"
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "62687e95d28ef700",
   "lastOpenFiles": [
-    "Notes/Future of Energy/Untitled.md",
     "Notes/Future of Energy/Investor Owned Utility (IOU).md",
+    "Notes/Future of Energy/California IOUs.md",
+    "Notes/Future of Energy/Untitled.md",
     "Notes/Future of Energy/California Electricity Prices.md",
     "Notes/Future of Energy/Solar.md",
     "Notes/Future of Energy/Questions.md",
@@ -211,7 +212,6 @@
     "Notes/Blue Prince/Red Letters.md",
     "Notes/Blue Prince/Aquarium.md",
     "Notes/Blue Prince/History of Orindia.md",
-    "Notes/Blue Prince/Castle Puzzle.md",
     "Castle Puzzle",
     "Notes/Blue Prince/Days",
     "Notes/Blue Prince",
