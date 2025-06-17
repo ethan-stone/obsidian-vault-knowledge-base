@@ -12,4 +12,4 @@
 	- Cost of software.
 	- Cost of maintenance.
 	- Increase in electricity bill.
-- Right now we rely on incentives and the fact they c
+- Right now we rely on incentives and the fact they can get them for free. In the end they pay more.
