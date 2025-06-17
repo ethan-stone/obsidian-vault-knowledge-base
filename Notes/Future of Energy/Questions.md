@@ -23,3 +23,5 @@
 	- Cost of maintenance.
 	- Increase in electricity bill.
 - Right now we rely on incentives and the fact they can get them for free. In the end they pay more.
+
+https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a
