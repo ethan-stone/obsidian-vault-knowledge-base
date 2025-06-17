@@ -1,1 +1,2 @@
-- How do we track SLAs.
+- Do we have support SLAs? Do we even 
+- Store fault codes per vendor.
