@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Future of Energy/California IOUs.md",
+                "file": "Notes/Future of Energy/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "California IOUs"
+              "title": "Questions"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Future of Energy/California IOUs.md",
+                "file": "Notes/Future of Energy/Questions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of California IOUs"
+              "title": "Outline of Questions"
             }
           },
           {
@@ -183,12 +183,12 @@
   },
   "active": "62687e95d28ef700",
   "lastOpenFiles": [
-    "Notes/Future of Energy/Investor Owned Utility (IOU).md",
-    "Notes/Future of Energy/California IOUs.md",
-    "Notes/Future of Energy/Untitled.md",
-    "Notes/Future of Energy/California Electricity Prices.md",
     "Notes/Future of Energy/Solar.md",
     "Notes/Future of Energy/Questions.md",
+    "Notes/Future of Energy/Investor Owned Utility (IOU).md",
+    "Notes/Future of Energy/Projecting Electricity Demand in 2050.md",
+    "Notes/Future of Energy/California IOUs.md",
+    "Notes/Future of Energy/California Electricity Prices.md",
     "Reading/Abundance.md",
     "Notes/Future of Energy",
     "Reading/Reading List.md",
