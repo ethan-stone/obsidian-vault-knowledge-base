@@ -1,0 +1,1 @@
+Unlike publicly owned utilities (like municipal utilities or public power districts), IOUs are private companies that are owned by shareholders. They operate for profit and are regulated by a state public utilities commission (in California's case, the California Public Utilities Commission, or CPUC).
