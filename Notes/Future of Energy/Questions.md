@@ -15,7 +15,7 @@
 - [ ] What is the failure rate of EV charging stations?
 - [ ] What is the failure rate of solar panels?
 - [ ] What is the failure rate of batteries?
-
+- [ ] What is the cost of install? What is it broken down by make and model? Do we have data on number of problems encountered during install and onboarding?
 
 # Takeaways
 - EV chargers may be free, but there is plenty of recurring costs.
