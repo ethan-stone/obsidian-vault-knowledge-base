@@ -8,4 +8,8 @@
 - [ ] Is there any analogous scenario to how EV charging is subsidized by the government. Can we predict when that will stop?
 
 # Takeaways
--
+- EV chargers may be free, but there is plenty of recurring costs.
+	- Cost of software.
+	- Cost of maintenance.
+	- Increase in electricity bill.
+- Right now we rely on incentives and the fact they c
