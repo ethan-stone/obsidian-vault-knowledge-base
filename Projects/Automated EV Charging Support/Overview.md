@@ -3,5 +3,6 @@
 
 # Todo
 ## Fundamental Knowledge
-- [ ] What is an MCP server?
-- [ ] How to build an MCP server?
+- [x] What is an MCP server?
+- [x] How to build an MCP server?
+- [x] How to build an MCP client?
