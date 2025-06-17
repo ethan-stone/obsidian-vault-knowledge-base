@@ -1,0 +1,1 @@
+- [ ] What is the average cost of electricity per resident of an apartment complex? 
