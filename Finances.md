@@ -1,1 +1,1 @@
-New money per month 451.86
+New money per month $451.86
