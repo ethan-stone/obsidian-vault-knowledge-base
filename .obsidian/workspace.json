@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
+                "file": "Finances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fault Notification Workflow"
+              "title": "Finances"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
+                "file": "Finances.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fault Notification Workflow"
+              "title": "Outline of Finances"
             }
           },
           {
@@ -183,9 +183,9 @@
   },
   "active": "62687e95d28ef700",
   "lastOpenFiles": [
+    "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
     "Projects/Automated EV Charging Support/Model Context Protocol.md",
     "Projects/Automated EV Charging Support/Overview.md",
-    "Projects/Automated EV Charging Support/Fault Notification Workflow.md",
     "Notes/Future of Energy/Questions.md",
     "Projects/Automated EV Charging Support",
     "Notes/Future of Energy/Solar.md",
